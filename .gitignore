@@ -1,0 +1,13 @@
+__pycache__/
+.idea/
+scripts/
+
+/venv/
+/static/
+/media/
+/build/
+
+/.env
+.version
+
+celerybeat-schedule

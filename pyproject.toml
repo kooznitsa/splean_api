@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "spleanapi"
+version = "0.1.0"
+description = ""
+authors = ["Yulia Kuznetsova <kooznitsa@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+Django = "^5.1.5"
+djangorestframework = "^3.15.2"
+django-environ = "^0.12.0"
+drf-spectacular = "^0.28.0"
+django-cors-headers = "^4.6.0"
+gunicorn = "^23.0.0"
+psycopg2-binary = "^2.9.10"
+django-elasticsearch-dsl = "8.0"
+elasticsearch-dsl = "8.9.0"
+
+[poetry.group.dev.dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

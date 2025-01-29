@@ -1,0 +1,11 @@
+[
+  {
+    "model": "song.song",
+    "pk": 1,
+    "fields": {
+      "name": "Молоко и мёд",
+      "album": 1,
+      "duration": "4:47"
+    }
+  }
+]
