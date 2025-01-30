@@ -1,32 +1,42 @@
-from typing import Any, Type
+import logging
+from typing import Any
 
-from django.db.models import QuerySet, Case, When, Value, IntegerField
 from django.http import JsonResponse
-from django.shortcuts import get_object_or_404
-from drf_spectacular.utils import extend_schema, OpenApiParameter, OpenApiExample
 from drf_spectacular.types import OpenApiTypes
+from drf_spectacular.utils import extend_schema, OpenApiParameter, OpenApiExample
 from rest_framework import filters, permissions, status, viewsets
 from rest_framework.decorators import action
+from rest_framework.pagination import LimitOffsetPagination, PageNumberPagination
 from rest_framework.request import Request
-from rest_framework.serializers import Serializer
 
-from song.managers import SongManager
+from song.documents import LineDocument
+from song.managers import ElasticsearchQueryManager, SongManager
 from song.models import Line, Song
 from song.v1.serializers import LineSerializer, SongSerializer
+
+info_logger = logging.getLogger('info_logger')
+error_logger = logging.getLogger('error_logger')
+
+
+class StandardPagination(LimitOffsetPagination):
+    default_limit = 10
+    limit_query_param = 'page_size'
+    offset_query_param = 'page'
+    max_limit = 100
 
 
 class SongViewSet(viewsets.ReadOnlyModelViewSet):
     serializer_class = SongSerializer
     model = serializer_class.Meta.model
-    queryset = Song.objects.all().order_by('-name')
-    pagination_class = None
+    queryset = Song.objects.all().order_by('id')
+    pagination_class = StandardPagination
 
     @extend_schema(
-        responses={status.HTTP_200_OK: serializer_class},
+        responses={status.HTTP_200_OK: serializer_class(many=True)},
         parameters=[
             OpenApiParameter(
                 name='year',
-                description='Filter songs by year',
+                description='Filter songs by album year',
                 required=True,
                 type=OpenApiTypes.INT,
                 examples=[
@@ -36,19 +46,25 @@ class SongViewSet(viewsets.ReadOnlyModelViewSet):
         ],
     )
     @action(methods=('get',), detail=False, url_path='by-year')
-    def filter_by_year(self, request: Request, *args: Any, **kwargs: Any) -> JsonResponse:
+    def by_year(self, request: Request, *args: Any, **kwargs: Any) -> JsonResponse:
         year = self.request.query_params.get('year', None)
-        songs = SongManager.get_songs_within_year(year)
-        serializer = self.get_serializer(songs, many=True)
+        self.queryset = SongManager.get_songs_within_year(year)
+        return super().list(request, *args, **kwargs)
 
-        return JsonResponse(serializer.data, safe=False)
+
+class LineViewSet(viewsets.ReadOnlyModelViewSet):
+    serializer_class = LineSerializer
+    document_class = LineDocument
+    model = serializer_class.Meta.model
+    queryset = Line.objects.all().order_by('song__album__date', 'id')
+    pagination_class = StandardPagination
 
     @extend_schema(
-        responses={status.HTTP_200_OK: serializer_class},
+        responses={status.HTTP_200_OK: serializer_class(many=True)},
         parameters=[
             OpenApiParameter(
                 name='word',
-                description='Filter lines by words',
+                description='Filter song lines by word or phrase',
                 required=True,
                 type=OpenApiTypes.STR,
                 examples=[
@@ -57,11 +73,32 @@ class SongViewSet(viewsets.ReadOnlyModelViewSet):
             ),
         ],
     )
-    @action(methods=('get',), detail=False, url_path='by-words')
-    def filter_by_words(self, request: Request, *args: Any, **kwargs: Any):
+    @action(methods=('get',), detail=False, url_path='by-word')
+    def by_word(self, request: Request, *args: Any, **kwargs: Any):
         word = self.request.query_params.get('word', None)
-        songs = SongManager.get_songs_containing_words(word)
-        return JsonResponse(songs, many=True)
-        # serializer = self.get_serializer(songs, many=True)
-        #
-        # return JsonResponse(serializer.data, safe=False)
+        query = ElasticsearchQueryManager.query_lines_containing_word(word)
+        search = self.document_class.search().query(query)
+        response = search.execute()
+        info_logger.info(f"Found {response.hits.total.value} hit(s) for query: '{word}'")
+        self.queryset = search.to_queryset()
+        return super().list(request, *args, **kwargs)
+
+    @extend_schema(
+        responses={status.HTTP_200_OK: serializer_class(many=True)},
+        parameters=[
+            OpenApiParameter(
+                name='song_id',
+                description='List song lines by song ID',
+                required=True,
+                type=OpenApiTypes.INT,
+                examples=[
+                    OpenApiExample('Example 1', value=1),
+                ],
+            ),
+        ],
+    )
+    @action(methods=('get',), detail=False, url_path='by-song')
+    def by_song(self, request: Request, *args, **kwargs):
+        song_id = self.request.query_params.get('song_id', None)
+        self.queryset = Line.objects.filter(song__id=song_id).order_by('id')
+        return super().list(request, *args, **kwargs)
