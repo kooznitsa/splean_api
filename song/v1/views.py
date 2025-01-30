@@ -4,13 +4,13 @@ from typing import Any
 from django.http import JsonResponse
 from drf_spectacular.types import OpenApiTypes
 from drf_spectacular.utils import extend_schema, OpenApiParameter, OpenApiExample
-from rest_framework import filters, permissions, status, viewsets
+from rest_framework import status, viewsets
 from rest_framework.decorators import action
-from rest_framework.pagination import LimitOffsetPagination, PageNumberPagination
+from rest_framework.pagination import LimitOffsetPagination
 from rest_framework.request import Request
 
 from song.documents import LineDocument
-from song.managers import ElasticsearchQueryManager, SongManager
+from song.managers import ElasticsearchQueryManager, LineManager, SongManager
 from song.models import Line, Song
 from song.v1.serializers import LineSerializer, SongSerializer
 
@@ -56,7 +56,7 @@ class LineViewSet(viewsets.ReadOnlyModelViewSet):
     serializer_class = LineSerializer
     document_class = LineDocument
     model = serializer_class.Meta.model
-    queryset = Line.objects.all().order_by('song__album__date', 'id')
+    queryset = Line.objects.prefetch_related('song').order_by('song__album__date', 'id')
     pagination_class = StandardPagination
 
     @extend_schema(
@@ -100,5 +100,5 @@ class LineViewSet(viewsets.ReadOnlyModelViewSet):
     @action(methods=('get',), detail=False, url_path='by-song')
     def by_song(self, request: Request, *args, **kwargs):
         song_id = self.request.query_params.get('song_id', None)
-        self.queryset = Line.objects.filter(song__id=song_id).order_by('id')
+        self.queryset = LineManager.get_lines_by_song_id(song_id)
         return super().list(request, *args, **kwargs)

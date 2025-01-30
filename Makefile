@@ -54,3 +54,11 @@ fixture:
 .PHONY: elastic
 elastic:
 	$(DOCKER_EXEC) $(MANAGE) search_index --rebuild
+
+
+# -------------- LINTER --------------
+
+# Creates and populates the Elasticsearch index and mapping
+.PHONY: linter
+linter:
+	poetry run flake8

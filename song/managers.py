@@ -1,7 +1,7 @@
 from elasticsearch_dsl import Q
 from elasticsearch_dsl.query import Bool
 
-from song.models import Album, Song
+from song.models import Album, Line, Song
 
 
 class SongManager:
@@ -11,6 +11,12 @@ class SongManager:
             album_ids = Album.objects.filter(date__year=year).values_list('id', flat=True)
             return Song.objects.filter(album__id__in=album_ids).order_by('name')
         return []
+
+
+class LineManager:
+    @staticmethod
+    def get_lines_by_song_id(song_id: int) -> list:
+        return Line.objects.filter(song__id=song_id).order_by('id')
 
 
 class ElasticsearchQueryManager:
