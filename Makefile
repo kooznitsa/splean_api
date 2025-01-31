@@ -4,6 +4,7 @@ DOCKER_COMPOSE := docker compose --profile
 DOCKER_EXEC := docker exec -it $(APP_NAME)_backend
 DOCKER_PROFILE ?= main
 MANAGE = poetry run python manage.py
+DJANGOAPP ?= ''
 MGRNAME ?= ''
 
 # -------------- DOCKER --------------
@@ -24,6 +25,14 @@ stop:
 .PHONY: entercontainer
 entercontainer:
 	$(DOCKER_EXEC) sh
+
+
+# -------------- DJANGO --------------
+
+# Create an app. Example: make startapp DJANGOAPP=album
+.PHONY: startapp
+startapp:
+	$(DOCKER_EXEC) $(MANAGE) startapp $(DJANGOAPP)
 
 
 # -------------- MIGRATIONS --------------
@@ -54,3 +63,11 @@ fixture:
 .PHONY: elastic
 elastic:
 	$(DOCKER_EXEC) $(MANAGE) search_index --rebuild
+
+
+# -------------- LINTER --------------
+
+# Creates and populates the Elasticsearch index and mapping
+.PHONY: linter
+linter:
+	poetry run flake8

@@ -1,6 +1,6 @@
 [
   {
-    "model": "song.album",
+    "model": "album.album",
     "pk": 1,
     "fields": {
       "name": "Альтависта",

@@ -1,5 +1,5 @@
-from song.documents import LineDocument
-from song.models import Album, Song
+from album.models import Album
+from song.models import Song
 
 
 class SongManager:
@@ -11,9 +11,5 @@ class SongManager:
         return []
 
     @staticmethod
-    def get_songs_containing_words(word: str) -> list:
-        return LineDocument.search().query('match', line=word)
-        # if lines := LineDocument.search().query('match', line=word):
-        #     song_ids = {i.song_id for i in lines}
-        #     return Song.objects.filter(id__in=song_ids).order_by('name')
-        # return []
+    def get_song_lines(song_id: int | None) -> list:
+        return Song.objects.filter(id=song_id).order_by('name') if song_id else []

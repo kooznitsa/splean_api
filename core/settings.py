@@ -49,7 +49,9 @@ EXTERNAL_APPS = (
 )
 
 CUSTOM_APPS = (
+    'album',
     'song',
+    'line',
 )
 
 INSTALLED_APPS = DJANGO_APPS + EXTERNAL_APPS + CUSTOM_APPS
@@ -69,8 +71,7 @@ ROOT_URLCONF = 'core.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [BASE_DIR / 'templates']
-        ,
+        'DIRS': [BASE_DIR / 'templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -138,9 +139,13 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
+# DRF
 REST_FRAMEWORK = {
     'DEFAULT_SCHEMA_CLASS': 'drf_spectacular.openapi.AutoSchema',
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.LimitOffsetPagination',
+    'PAGE_SIZE': 100,
 }
+
 
 # Swagger
 SPECTACULAR_SETTINGS = {
@@ -168,8 +173,69 @@ ELASTICSEARCH_DSL = {
     },
 }
 
-# Corsheaders configuration
+# Corsheaders
 CORS_ORIGIN_ALLOW_ALL = True
 CORS_ALLOW_CREDENTIALS = True
 CSRF_TRUSTED_ORIGINS = tuple('http{}://{}'.format('' if ENV == 'local' else 's', x) for x in ALLOWED_HOSTS)
 BACK_URL = CSRF_TRUSTED_ORIGINS[0]
+
+
+# Logging
+
+LOG_DIR = os.path.join(BASE_DIR, 'logs')
+
+if not os.path.exists(LOG_DIR):
+    os.mkdir(LOG_DIR)
+
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,
+    'formatters': {
+        'verbose': {
+            'format': '{levelname} - {asctime} - {module}:{lineno:d} - {process:d} - {thread:d} - {message}',
+            'style': '{',
+        },
+        'simple': {
+            'format': '{levelname} - {message}',
+            'style': '{',
+        },
+    },
+    'handlers': {
+        'error_file': {
+            'level': 'DEBUG',
+            'class': 'logging.handlers.RotatingFileHandler',
+            'formatter': 'verbose',
+            'encoding': 'utf-8',
+            'delay': True,
+            'filename': LOG_DIR + '/error_logs.log',
+            'maxBytes': 1024*1024*5,
+            'backupCount': 10,
+        },
+        'info_file': {
+            'level': 'INFO',
+            'class': 'logging.handlers.RotatingFileHandler',
+            'formatter': 'verbose',
+            'encoding': 'utf-8',
+            'delay': True,
+            'filename': LOG_DIR + '/info_logs.log',
+            'maxBytes': 1024*1024*5,
+            'backupCount': 10,
+        },
+        'console': {
+            'class': 'logging.StreamHandler',
+            'formatter': 'verbose',
+        },
+    },
+    'loggers': {
+        'error_logger': {
+            'handlers': ['error_file', 'console'],
+            'level': 'DEBUG',
+            'propagate': True,
+        },
+        'info_logger': {
+            'handlers': ['info_file', 'console'],
+            'level': 'INFO',
+            'propagate': True,
+        },
+    },
+}
