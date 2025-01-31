@@ -3,9 +3,1944 @@
     "model": "song.song",
     "pk": 1,
     "fields": {
-      "name": "Молоко и мёд",
+      "name": "Жертва талого льда",
       "album": 1,
+      "duration": "6:01"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 2,
+    "fields": {
+      "name": "Холодные зимы",
+      "album": 1,
+      "duration": "1:31"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 3,
+    "fields": {
+      "name": "Мне сказали слово",
+      "album": 1,
+      "duration": "3:08"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 4,
+    "fields": {
+      "name": "Под сурдинку",
+      "album": 1,
+      "duration": "3:27"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 5,
+    "fields": {
+      "name": "Гроза",
+      "album": 1,
+      "duration": "3:44"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 6,
+    "fields": {
+      "name": "Война",
+      "album": 1,
+      "duration": "2:31"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 7,
+    "fields": {
+      "name": "Пыльная быль. Сказка",
+      "album": 1,
+      "duration": "5:20"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 8,
+    "fields": {
+      "name": "Серебряные реки",
+      "album": 1,
+      "duration": "2:53"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 9,
+    "fields": {
+      "name": "Твоё разбитое пенсне",
+      "album": 1,
+      "duration": "1:23"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 10,
+    "fields": {
+      "name": "Сказочный леший",
+      "album": 1,
+      "duration": "1:42"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 11,
+    "fields": {
+      "name": "Санкт-Петербургское небо",
+      "album": 1,
+      "duration": "2:30"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 12,
+    "fields": {
+      "name": "Звери",
+      "album": 1,
+      "duration": "2:36"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 13,
+    "fields": {
+      "name": "Будь моей тенью",
+      "album": 2,
+      "duration": "5:41"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 14,
+    "fields": {
+      "name": "Любовь идёт по проводам",
+      "album": 2,
+      "duration": "4:24"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 15,
+    "fields": {
+      "name": "Чёрный цвет Солнца",
+      "album": 2,
+      "duration": "7:48"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 16,
+    "fields": {
+      "name": "Самовар",
+      "album": 2,
+      "duration": "5:31"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 17,
+    "fields": {
+      "name": "Жертва талого льда",
+      "album": 2,
+      "duration": "5:46"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 18,
+    "fields": {
+      "name": "Что ты будешь делать?",
+      "album": 2,
+      "duration": "5:10"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 19,
+    "fields": {
+      "name": "Рыба без трусов",
+      "album": 2,
+      "duration": "3:10"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 20,
+    "fields": {
+      "name": "Сказка",
+      "album": 2,
+      "duration": "5:36"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 21,
+    "fields": {
+      "name": "Нечего делать внутри",
+      "album": 2,
+      "duration": "3:26"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 22,
+    "fields": {
+      "name": "Иди через лес",
+      "album": 2,
+      "duration": "6:32"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 23,
+    "fields": {
+      "name": "Молитва",
+      "album": 3,
+      "duration": "0:32"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 24,
+    "fields": {
+      "name": "Я не хочу домой",
+      "album": 3,
+      "duration": "3:49"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 25,
+    "fields": {
+      "name": "Бонни и Клайд",
+      "album": 3,
+      "duration": "2:41"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 26,
+    "fields": {
+      "name": "Три цвета (Первый снег)",
+      "album": 3,
+      "duration": "4:40"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 27,
+    "fields": {
+      "name": "Невский проспект",
+      "album": 3,
+      "duration": "5:12"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 28,
+    "fields": {
+      "name": "Спи в заброшенном доме",
+      "album": 3,
+      "duration": "4:17"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 29,
+    "fields": {
+      "name": "Прирождённый убийца",
+      "album": 3,
+      "duration": "3:21"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 30,
+    "fields": {
+      "name": "Частушки",
+      "album": 3,
+      "duration": "4:44"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 31,
+    "fields": {
+      "name": "Моя любовь",
+      "album": 3,
+      "duration": "3:37"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 32,
+    "fields": {
+      "name": "Англо-русский словарь (Давай, Лама)",
+      "album": 3,
+      "duration": "4:36"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 33,
+    "fields": {
+      "name": "Скоро будет солнечно",
+      "album": 3,
+      "duration": "4:42"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 34,
+    "fields": {
+      "name": "За стеной",
+      "album": 3,
+      "duration": "1:27"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 35,
+    "fields": {
+      "name": "Весь этот бред",
+      "album": 4,
+      "duration": "3:06"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 36,
+    "fields": {
+      "name": "Достань гранату",
+      "album": 4,
+      "duration": "4:10"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 37,
+    "fields": {
+      "name": "Орбит без сахара",
+      "album": 4,
+      "duration": "2:17"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 38,
+    "fields": {
+      "name": "Приходи",
+      "album": 4,
+      "duration": "4:02"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 39,
+    "fields": {
+      "name": "Свет горел всю ночь",
+      "album": 4,
+      "duration": "2:30"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 40,
+    "fields": {
+      "name": "Люся сидит дома",
+      "album": 4,
+      "duration": "3:57"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 41,
+    "fields": {
+      "name": "Бог устал нас любить",
+      "album": 4,
+      "duration": "2:32"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 42,
+    "fields": {
+      "name": "Катись, колесо!",
+      "album": 4,
+      "duration": "2:47"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 43,
+    "fields": {
+      "name": "Выхода нет",
+      "album": 4,
+      "duration": "3:43"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 44,
+    "fields": {
+      "name": "Коктейли третьей мировой",
+      "album": 4,
+      "duration": "2:52"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 45,
+    "fields": {
+      "name": "Джим",
+      "album": 4,
+      "duration": "2:46"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 46,
+    "fields": {
+      "name": "Мария и Хуана",
+      "album": 4,
+      "duration": "8:03"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 47,
+    "fields": {
+      "name": "Подводная лодка",
+      "album": 4,
+      "duration": "3:43"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 48,
+    "fields": {
+      "name": "Альтависта",
+      "album": 5,
+      "duration": "6:14"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 49,
+    "fields": {
+      "name": "Молоко и мёд",
+      "album": 5,
       "duration": "4:47"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 50,
+    "fields": {
+      "name": "Пил-курил",
+      "album": 5,
+      "duration": "4:56"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 51,
+    "fields": {
+      "name": "Терпсихора",
+      "album": 5,
+      "duration": "2:49"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 52,
+    "fields": {
+      "name": "Далеко домой",
+      "album": 5,
+      "duration": "3:57"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 53,
+    "fields": {
+      "name": "Абсент",
+      "album": 5,
+      "duration": "1:55"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 54,
+    "fields": {
+      "name": "Добрых дел мастер",
+      "album": 5,
+      "duration": "4:56"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 55,
+    "fields": {
+      "name": "Мотоциклетная цепь",
+      "album": 5,
+      "duration": "4:15"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 56,
+    "fields": {
+      "name": "Сумасшедший автобус",
+      "album": 5,
+      "duration": "3:50"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 57,
+    "fields": {
+      "name": "Алкоголь",
+      "album": 5,
+      "duration": "5:25"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 58,
+    "fields": {
+      "name": "Встретимся завтра",
+      "album": 5,
+      "duration": "4:27"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 59,
+    "fields": {
+      "name": "Молоко и мёд (remix)",
+      "album": 5,
+      "duration": "5:03"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 60,
+    "fields": {
+      "name": "Линия жизни",
+      "album": 6,
+      "duration": "3:02"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 61,
+    "fields": {
+      "name": "Звезда рок-н-ролла",
+      "album": 6,
+      "duration": "4:11"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 62,
+    "fields": {
+      "name": "Всего хорошего",
+      "album": 6,
+      "duration": "3:01"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 63,
+    "fields": {
+      "name": "Рики-тики-тави",
+      "album": 6,
+      "duration": "4:09"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 64,
+    "fields": {
+      "name": "SOS!",
+      "album": 6,
+      "duration": "2:00"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 65,
+    "fields": {
+      "name": "Феллини",
+      "album": 6,
+      "duration": "4:28"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 66,
+    "fields": {
+      "name": "Остаёмся зимовать",
+      "album": 6,
+      "duration": "4:46"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 67,
+    "fields": {
+      "name": "Тебе это снится",
+      "album": 6,
+      "duration": "3:39"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 68,
+    "fields": {
+      "name": "Совсем другой",
+      "album": 6,
+      "duration": "4:59"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 69,
+    "fields": {
+      "name": "Пластмассовая жизнь",
+      "album": 6,
+      "duration": "2:11"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 70,
+    "fields": {
+      "name": "Пой мне ещё",
+      "album": 6,
+      "duration": "2:27"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 71,
+    "fields": {
+      "name": "Ленинград-Amsterdam",
+      "album": 6,
+      "duration": "2:36"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 72,
+    "fields": {
+      "name": "Fine",
+      "album": 6,
+      "duration": "0:29"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 73,
+    "fields": {
+      "name": "Новые люди",
+      "album": 7,
+      "duration": "3:45"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 74,
+    "fields": {
+      "name": "Время, назад!",
+      "album": 7,
+      "duration": "4:11"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 75,
+    "fields": {
+      "name": "Гандбол",
+      "album": 7,
+      "duration": "2:35"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 76,
+    "fields": {
+      "name": "Сломано всё",
+      "album": 7,
+      "duration": "4:15"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 77,
+    "fields": {
+      "name": "Девятиэтажный дом",
+      "album": 7,
+      "duration": "4:31"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 78,
+    "fields": {
+      "name": "Блокада",
+      "album": 7,
+      "duration": "3:21"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 79,
+    "fields": {
+      "name": "Валдай",
+      "album": 7,
+      "duration": "4:31"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 80,
+    "fields": {
+      "name": "Йог спокоен",
+      "album": 7,
+      "duration": "2:54"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 81,
+    "fields": {
+      "name": "Северо-запад",
+      "album": 7,
+      "duration": "3:53"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 82,
+    "fields": {
+      "name": "РЭП (Нервное сердце)",
+      "album": 7,
+      "duration": "3:14"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 83,
+    "fields": {
+      "name": "Альтависта (Другая точка зрения)",
+      "album": 7,
+      "duration": "4:09"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 84,
+    "fields": {
+      "name": "Океан (инстр.)",
+      "album": 8,
+      "duration": "0:36"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 85,
+    "fields": {
+      "name": "Семь восьмых",
+      "album": 8,
+      "duration": "4:22"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 86,
+    "fields": {
+      "name": "Шато Марго",
+      "album": 8,
+      "duration": "3:54"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 87,
+    "fields": {
+      "name": "Мы сидели и курили",
+      "album": 8,
+      "duration": "3:19"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 88,
+    "fields": {
+      "name": "Сиануквиль",
+      "album": 8,
+      "duration": "2:32"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 89,
+    "fields": {
+      "name": "Человек и Дерево",
+      "album": 8,
+      "duration": "2:16"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 90,
+    "fields": {
+      "name": "Лабиринт",
+      "album": 8,
+      "duration": "4:48"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 91,
+    "fields": {
+      "name": "Шаги (инстр.)",
+      "album": 8,
+      "duration": "1:29"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 92,
+    "fields": {
+      "name": "Бериллий",
+      "album": 8,
+      "duration": "3:31"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 93,
+    "fields": {
+      "name": "Паровоз (инстр.)",
+      "album": 8,
+      "duration": "0:53"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 94,
+    "fields": {
+      "name": "Люди на ладони",
+      "album": 8,
+      "duration": "2:01"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 95,
+    "fields": {
+      "name": "Урок географии",
+      "album": 8,
+      "duration": "4:59"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 96,
+    "fields": {
+      "name": "Всё включено",
+      "album": 8,
+      "duration": "3:20"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 97,
+    "fields": {
+      "name": "Голос за кадром (инстр.)",
+      "album": 8,
+      "duration": "1:08"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 98,
+    "fields": {
+      "name": "Романс",
+      "album": 8,
+      "duration": "3:25"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 99,
+    "fields": {
+      "name": "Мелькнула чья-то тень",
+      "album": 9,
+      "duration": "3:16"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 100,
+    "fields": {
+      "name": "Скажи",
+      "album": 9,
+      "duration": "3:09"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 101,
+    "fields": {
+      "name": "Матч",
+      "album": 9,
+      "duration": "2:48"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 102,
+    "fields": {
+      "name": "На счастье!",
+      "album": 9,
+      "duration": "2:41"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 103,
+    "fields": {
+      "name": "Волна",
+      "album": 9,
+      "duration": "3:28"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 104,
+    "fields": {
+      "name": "Лепесток",
+      "album": 9,
+      "duration": "3:37"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 105,
+    "fields": {
+      "name": "Император",
+      "album": 9,
+      "duration": "1:15"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 106,
+    "fields": {
+      "name": "Бетховен",
+      "album": 9,
+      "duration": "2:41"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 107,
+    "fields": {
+      "name": "Маяк",
+      "album": 9,
+      "duration": "3:47"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 108,
+    "fields": {
+      "name": "Праздник",
+      "album": 9,
+      "duration": "2:17"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 109,
+    "fields": {
+      "name": "Сухари и сушки",
+      "album": 9,
+      "duration": "5:29"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 110,
+    "fields": {
+      "name": "Мобильный",
+      "album": 9,
+      "duration": "3:22"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 111,
+    "fields": {
+      "name": "Колокол",
+      "album": 9,
+      "duration": "3:35"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 112,
+    "fields": {
+      "name": "Пробки",
+      "album": 9,
+      "duration": "4:01"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 113,
+    "fields": {
+      "name": "Мамма Миа",
+      "album": 9,
+      "duration": "2:59"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 114,
+    "fields": {
+      "name": "Прочь из моей головы",
+      "album": 9,
+      "duration": "3:19"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 115,
+    "fields": {
+      "name": "Сын",
+      "album": 9,
+      "duration": "1:50"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 116,
+    "fields": {
+      "name": "Настройка звука",
+      "album": 10,
+      "duration": "2:40"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 117,
+    "fields": {
+      "name": "Дыши легко",
+      "album": 10,
+      "duration": "3:53"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 118,
+    "fields": {
+      "name": "Добро пожаловать!",
+      "album": 10,
+      "duration": "4:11"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 119,
+    "fields": {
+      "name": "Больше никакого рок-н-ролла",
+      "album": 10,
+      "duration": "4:12"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 120,
+    "fields": {
+      "name": "Вниз головой",
+      "album": 10,
+      "duration": "3:05"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 121,
+    "fields": {
+      "name": "Чердак",
+      "album": 10,
+      "duration": "4:07"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 122,
+    "fields": {
+      "name": "Зелёная песня",
+      "album": 10,
+      "duration": "3:30"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 123,
+    "fields": {
+      "name": "Камень",
+      "album": 10,
+      "duration": "4:59"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 124,
+    "fields": {
+      "name": "3007",
+      "album": 10,
+      "duration": "2:11"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 125,
+    "fields": {
+      "name": "Без тормозов",
+      "album": 10,
+      "duration": "3:14"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 126,
+    "fields": {
+      "name": "Корабль ждёт!",
+      "album": 10,
+      "duration": "2:44"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 127,
+    "fields": {
+      "name": "Человек не спал",
+      "album": 10,
+      "duration": "2:52"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 128,
+    "fields": {
+      "name": "Ковчег",
+      "album": 10,
+      "duration": "3:32"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 129,
+    "fields": {
+      "name": "Выпусти меня отсюда",
+      "album": 10,
+      "duration": "3:11"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 130,
+    "fields": {
+      "name": "Письмо",
+      "album": 10,
+      "duration": "2:29"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 131,
+    "fields": {
+      "name": "Всё так странно",
+      "album": 10,
+      "duration": "2:03"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 132,
+    "fields": {
+      "name": "Вальс",
+      "album": 10,
+      "duration": "3:07"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 133,
+    "fields": {
+      "name": "До встречи",
+      "album": 10,
+      "duration": "4:22"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 134,
+    "fields": {
+      "name": "Увертюра",
+      "album": 11,
+      "duration": "1:43"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 135,
+    "fields": {
+      "name": "Летела жизнь",
+      "album": 11,
+      "duration": "2:30"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 136,
+    "fields": {
+      "name": "Чёрная „Волга“",
+      "album": 11,
+      "duration": "2:46"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 137,
+    "fields": {
+      "name": "Лестница",
+      "album": 11,
+      "duration": "2:18"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 138,
+    "fields": {
+      "name": "Страшная тайна",
+      "album": 11,
+      "duration": "2:24"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 139,
+    "fields": {
+      "name": "Петербургская свадьба",
+      "album": 11,
+      "duration": "4:20"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 140,
+    "fields": {
+      "name": "Дочь самурая",
+      "album": 11,
+      "duration": "3:36"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 141,
+    "fields": {
+      "name": "Фибоначчи",
+      "album": 11,
+      "duration": "3:27"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 142,
+    "fields": {
+      "name": "В мире иллюзий",
+      "album": 11,
+      "duration": "2:58"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 143,
+    "fields": {
+      "name": "Праздник",
+      "album": 11,
+      "duration": "2:39"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 144,
+    "fields": {
+      "name": "Ковш",
+      "album": 11,
+      "duration": "3:00"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 145,
+    "fields": {
+      "name": "Солнце взойдёт",
+      "album": 11,
+      "duration": "3:35"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 146,
+    "fields": {
+      "name": "Чудак",
+      "album": 11,
+      "duration": "2:29"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 147,
+    "fields": {
+      "name": "Волшебное слово",
+      "album": 11,
+      "duration": "4:24"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 148,
+    "fields": {
+      "name": "Всадник",
+      "album": 12,
+      "duration": "3:05"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 149,
+    "fields": {
+      "name": "Ай лов ю!",
+      "album": 12,
+      "duration": "3:36"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 150,
+    "fields": {
+      "name": "Старый дом",
+      "album": 12,
+      "duration": "2:54"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 151,
+    "fields": {
+      "name": "Мороз по коже",
+      "album": 12,
+      "duration": "3:20"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 152,
+    "fields": {
+      "name": "Мысль",
+      "album": 12,
+      "duration": "4:07"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 153,
+    "fields": {
+      "name": "Есть кто-нибудь живой?",
+      "album": 12,
+      "duration": "3:25"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 154,
+    "fields": {
+      "name": "Рай в шалаше",
+      "album": 12,
+      "duration": "3:29"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 155,
+    "fields": {
+      "name": "Всё наоборот",
+      "album": 12,
+      "duration": "1:38"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 156,
+    "fields": {
+      "name": "Помолчим немного",
+      "album": 12,
+      "duration": "3:57"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 157,
+    "fields": {
+      "name": "Пусть играет музыка",
+      "album": 12,
+      "duration": "3:29"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 158,
+    "fields": {
+      "name": "Горизонт событий",
+      "album": 12,
+      "duration": "2:51"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 159,
+    "fields": {
+      "name": "Среди зимы",
+      "album": 12,
+      "duration": "2:58"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 160,
+    "fields": {
+      "name": "Дверной глазок",
+      "album": 12,
+      "duration": "5:39"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 161,
+    "fields": {
+      "name": "Подводная песня",
+      "album": 12,
+      "duration": "3:43"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 162,
+    "fields": {
+      "name": "Красота",
+      "album": 13,
+      "duration": "2:58"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 163,
+    "fields": {
+      "name": "Оркестр",
+      "album": 13,
+      "duration": "4:11"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 164,
+    "fields": {
+      "name": "Песня на одном аккорде",
+      "album": 13,
+      "duration": "4:10"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 165,
+    "fields": {
+      "name": "Два плюс один",
+      "album": 13,
+      "duration": "2:37"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 166,
+    "fields": {
+      "name": "Полная луна",
+      "album": 13,
+      "duration": "2:38"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 167,
+    "fields": {
+      "name": "Танцуй!",
+      "album": 13,
+      "duration": "4:10"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 168,
+    "fields": {
+      "name": "Симфония",
+      "album": 13,
+      "duration": "2:54"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 169,
+    "fields": {
+      "name": "Нефть",
+      "album": 13,
+      "duration": "2:14"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 170,
+    "fields": {
+      "name": "Пожар",
+      "album": 13,
+      "duration": "2:53"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 171,
+    "fields": {
+      "name": "Шахматы",
+      "album": 13,
+      "duration": "5:53"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 172,
+    "fields": {
+      "name": "Исчезаем в темноте",
+      "album": 13,
+      "duration": "4:05"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 173,
+    "fields": {
+      "name": "Медный грош",
+      "album": 14,
+      "duration": "1:25"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 174,
+    "fields": {
+      "name": "Пирамиды",
+      "album": 14,
+      "duration": "4:21"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 175,
+    "fields": {
+      "name": "Нам, мудрецам",
+      "album": 14,
+      "duration": "4:57"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 176,
+    "fields": {
+      "name": "Храм",
+      "album": 14,
+      "duration": "2:45"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 177,
+    "fields": {
+      "name": "Окраины",
+      "album": 14,
+      "duration": "6:00"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 178,
+    "fields": {
+      "name": "Кит",
+      "album": 14,
+      "duration": "3:14"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 179,
+    "fields": {
+      "name": "Она была так прекрасна",
+      "album": 14,
+      "duration": "2:47"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 180,
+    "fields": {
+      "name": "Джа играет джаз",
+      "album": 14,
+      "duration": "3:53"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 181,
+    "fields": {
+      "name": "Реквием",
+      "album": 14,
+      "duration": "3:22"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 182,
+    "fields": {
+      "name": "Земля уходит из-под ног",
+      "album": 14,
+      "duration": "3:50"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 183,
+    "fields": {
+      "name": "Тревога",
+      "album": 14,
+      "duration": "3:21"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 184,
+    "fields": {
+      "name": "Небесный хор",
+      "album": 14,
+      "duration": "4:14"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 185,
+    "fields": {
+      "name": "Путь на восток",
+      "album": 14,
+      "duration": "3:09"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 186,
+    "fields": {
+      "name": "День за днём",
+      "album": 14,
+      "duration": "3:40"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 187,
+    "fields": {
+      "name": "Череп и кости",
+      "album": 14,
+      "duration": "2:55"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 188,
+    "fields": {
+      "name": "Встречная полоса",
+      "album": 15,
+      "duration": "4:27"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 189,
+    "fields": {
+      "name": "На утро",
+      "album": 15,
+      "duration": "4:03"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 190,
+    "fields": {
+      "name": "Чей-то ребёнок",
+      "album": 15,
+      "duration": "3:09"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 191,
+    "fields": {
+      "name": "Испанская инквизиция",
+      "album": 15,
+      "duration": "2:26"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 192,
+    "fields": {
+      "name": "Тепло родного дома",
+      "album": 15,
+      "duration": "3:52"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 193,
+    "fields": {
+      "name": "Булгаковский марш",
+      "album": 15,
+      "duration": "0:27"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 194,
+    "fields": {
+      "name": "Шпионы",
+      "album": 15,
+      "duration": "1:46"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 195,
+    "fields": {
+      "name": "Шаман",
+      "album": 15,
+      "duration": "5:30"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 196,
+    "fields": {
+      "name": "Когда пройдёт 100 лет",
+      "album": 15,
+      "duration": "3:24"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 197,
+    "fields": {
+      "name": "Волк",
+      "album": 15,
+      "duration": "3:45"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 198,
+    "fields": {
+      "name": "Яблоко",
+      "album": 15,
+      "duration": "3:07"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 199,
+    "fields": {
+      "name": "Воздушный шар",
+      "album": 16,
+      "duration": "3:26"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 200,
+    "fields": {
+      "name": "Тайком",
+      "album": 16,
+      "duration": "3:45"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 201,
+    "fields": {
+      "name": "Атом",
+      "album": 16,
+      "duration": "4:56"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 202,
+    "fields": {
+      "name": "Гимн",
+      "album": 16,
+      "duration": "6:11"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 203,
+    "fields": {
+      "name": "Волшебная скрипка",
+      "album": 16,
+      "duration": "3:12"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 204,
+    "fields": {
+      "name": "Важная вещь",
+      "album": 16,
+      "duration": "2:32"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 205,
+    "fields": {
+      "name": "Шар воздушный (инстр.)",
+      "album": 16,
+      "duration": "2:26"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 206,
+    "fields": {
+      "name": "Призрак",
+      "album": 17,
+      "duration": "4:13"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 207,
+    "fields": {
+      "name": "За семью печатями",
+      "album": 17,
+      "duration": "3:21"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 208,
+    "fields": {
+      "name": "Беги, моя жизнь",
+      "album": 17,
+      "duration": "4:29"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 209,
+    "fields": {
+      "name": "Джин",
+      "album": 17,
+      "duration": "4:01"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 210,
+    "fields": {
+      "name": "Фаза",
+      "album": 17,
+      "duration": "3:46"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 211,
+    "fields": {
+      "name": "Дежавю",
+      "album": 17,
+      "duration": "4:13"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 212,
+    "fields": {
+      "name": "Кофейня",
+      "album": 17,
+      "duration": "2:53"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 213,
+    "fields": {
+      "name": "Кесарь",
+      "album": 17,
+      "duration": "4:33"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 214,
+    "fields": {
+      "name": "Фильм ужасов",
+      "album": 17,
+      "duration": "3:29"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 215,
+    "fields": {
+      "name": "Кошмары",
+      "album": 17,
+      "duration": "4:03"
+    }
+  },
+  {
+    "model": "song.song",
+    "pk": 216,
+    "fields": {
+      "name": "Передайте это Гарри Поттеру, если вдруг его встретите",
+      "album": 17,
+      "duration": "5:26"
     }
   }
 ]
