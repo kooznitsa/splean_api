@@ -2,7 +2,8 @@ from django_elasticsearch_dsl import Document, fields
 from django_elasticsearch_dsl.registries import registry
 from elasticsearch_dsl import analysis, analyzer
 
-from song.models import Line, Song
+from line.models import Line
+from song.models import Song
 
 russian_stop = analysis.token_filter(
     'russian_stop', type='stop', stopwords='_russian_',

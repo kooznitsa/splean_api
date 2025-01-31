@@ -49,7 +49,9 @@ EXTERNAL_APPS = (
 )
 
 CUSTOM_APPS = (
+    'album',
     'song',
+    'line',
 )
 
 INSTALLED_APPS = DJANGO_APPS + EXTERNAL_APPS + CUSTOM_APPS

@@ -1,6 +1,6 @@
 from rest_framework import serializers
 
-from song.models import Line, Song
+from song.models import Song
 
 
 class SongSerializer(serializers.ModelSerializer):
@@ -12,10 +12,11 @@ class SongSerializer(serializers.ModelSerializer):
         fields = ('name', 'duration', 'album_name')
 
 
-class LineSerializer(serializers.ModelSerializer):
-    """Line detailed info"""
-    song_name = serializers.CharField(read_only=True, source='song.name')
+class SongWithLinesSerializer(serializers.ModelSerializer):
+    """Song with lines"""
+    album_name = serializers.CharField(read_only=True, source='album.name')
 
     class Meta:
-        model = Line
-        fields = ('line', 'song_name')
+        model = Song
+        fields = ('name', 'duration', 'album_name', 'line_set')
+        depth = 1

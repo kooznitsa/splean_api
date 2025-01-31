@@ -1,7 +1,5 @@
-from elasticsearch_dsl import Q
-from elasticsearch_dsl.query import Bool
-
-from song.models import Album, Line, Song
+from album.models import Album
+from song.models import Song
 
 
 class SongManager:
@@ -12,18 +10,6 @@ class SongManager:
             return Song.objects.filter(album__id__in=album_ids).order_by('name')
         return []
 
-
-class LineManager:
     @staticmethod
-    def get_lines_by_song_id(song_id: int) -> list:
-        return Line.objects.filter(song__id=song_id).order_by('id')
-
-
-class ElasticsearchQueryManager:
-    @staticmethod
-    def query_lines_containing_word(word: str) -> Bool:
-        return Q(
-            'bool',
-            should=[Q('match', line=word)],
-            minimum_should_match=1,
-        )
+    def get_song_lines(song_id: int | None) -> list:
+        return Song.objects.filter(id=song_id).order_by('name') if song_id else []
