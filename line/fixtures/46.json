@@ -1,0 +1,186 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1268,
+    "fields": {
+      "line": "Дай, Джим, на счастье лапу мне,",
+      "song": 46
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1269,
+    "fields": {
+      "line": "Пока фонарь горит в моем окне,",
+      "song": 46
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1270,
+    "fields": {
+      "line": "Пока мой кофе не совсем готов,",
+      "song": 46
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1271,
+    "fields": {
+      "line": "Пока соседи вызовут ментов",
+      "song": 46
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1272,
+    "fields": {
+      "line": "Дай, Джим...",
+      "song": 46
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1273,
+    "fields": {
+      "line": "Дай, Джим, на счастье лапу мне,",
+      "song": 46
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1274,
+    "fields": {
+      "line": "Все времена остались в стороне,",
+      "song": 46
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1275,
+    "fields": {
+      "line": "И часовые на своих постах",
+      "song": 46
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1276,
+    "fields": {
+      "line": "Забили стрелки на моих часах",
+      "song": 46
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1277,
+    "fields": {
+      "line": "Дай, Джим...",
+      "song": 46
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1278,
+    "fields": {
+      "line": "Дай, Джим, на лапу счастье мне,",
+      "song": 46
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1279,
+    "fields": {
+      "line": "Любовь не может двигаться в цене,",
+      "song": 46
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1280,
+    "fields": {
+      "line": "Любовь всегда одна, ни выстрела, ни вздоха,",
+      "song": 46
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1281,
+    "fields": {
+      "line": "Любовь - это когда хорошим людям плохо",
+      "song": 46
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1282,
+    "fields": {
+      "line": "Дай, Джим...",
+      "song": 46
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1283,
+    "fields": {
+      "line": "Любовь - это когда хорошим людям плохо",
+      "song": 46
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1284,
+    "fields": {
+      "line": "Ты просто вышли мне наколку,",
+      "song": 46
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1285,
+    "fields": {
+      "line": "Если не с кем выпить виски с колой,",
+      "song": 46
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1286,
+    "fields": {
+      "line": "Если не с кем снять двух девок на ночь,",
+      "song": 46
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1287,
+    "fields": {
+      "line": "Не с кем спеть под утро пьяным",
+      "song": 46
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1288,
+    "fields": {
+      "line": "Времени совсем в обрез,",
+      "song": 46
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1289,
+    "fields": {
+      "line": "А ты опять спешишь на Пер-Лашез",
+      "song": 46
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1290,
+    "fields": {
+      "line": "Дай, Джим...",
+      "song": 46
+    }
+  }
+]

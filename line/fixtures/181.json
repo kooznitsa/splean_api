@@ -1,0 +1,130 @@
+[
+  {
+    "model": "line.line",
+    "pk": 4556,
+    "fields": {
+      "line": "Сегодня Джа играет джаз",
+      "song": 181
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4557,
+    "fields": {
+      "line": "И это наш последний шанс,",
+      "song": 181
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4558,
+    "fields": {
+      "line": "Чтобы увидеть старика,",
+      "song": 181
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4559,
+    "fields": {
+      "line": "Пока не скажет Джа – пока.",
+      "song": 181
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4560,
+    "fields": {
+      "line": "Сегодня Джа играет джаз,",
+      "song": 181
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4561,
+    "fields": {
+      "line": "А завтра – Родину продаст.",
+      "song": 181
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4562,
+    "fields": {
+      "line": "Хотя, кому она нужна?",
+      "song": 181
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4563,
+    "fields": {
+      "line": "Об этом знает только Джа.",
+      "song": 181
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4564,
+    "fields": {
+      "line": "Об этом знает только Джа.",
+      "song": 181
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4565,
+    "fields": {
+      "line": "Об этом знает только Джа.",
+      "song": 181
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4566,
+    "fields": {
+      "line": "Сегодня Джа играет джаз",
+      "song": 181
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4567,
+    "fields": {
+      "line": "И это наш последний шанс,",
+      "song": 181
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4568,
+    "fields": {
+      "line": "Чтобы увидеть старика.",
+      "song": 181
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4569,
+    "fields": {
+      "line": "Пока не скажет Джа – пока,",
+      "song": 181
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4570,
+    "fields": {
+      "line": "Пока не скажет Джа – пока,",
+      "song": 181
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4571,
+    "fields": {
+      "line": "Пока не скажет Джа – пока.",
+      "song": 181
+    }
+  }
+]

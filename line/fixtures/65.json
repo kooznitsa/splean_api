@@ -1,0 +1,98 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1709,
+    "fields": {
+      "line": "Людям и городам",
+      "song": 65
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1710,
+    "fields": {
+      "line": "От земли и до звезд",
+      "song": 65
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1711,
+    "fields": {
+      "line": "По горячим губам",
+      "song": 65
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1712,
+    "fields": {
+      "line": "SOS!",
+      "song": 65
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1713,
+    "fields": {
+      "line": "Перекошенный взгляд",
+      "song": 65
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1714,
+    "fields": {
+      "line": "Перекрашенный мозг",
+      "song": 65
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1715,
+    "fields": {
+      "line": "Всем частотам подряд",
+      "song": 65
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1716,
+    "fields": {
+      "line": "SOS!",
+      "song": 65
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1717,
+    "fields": {
+      "line": "Все останется нам",
+      "song": 65
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1718,
+    "fields": {
+      "line": "Все отправится в рост",
+      "song": 65
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1719,
+    "fields": {
+      "line": "По горячим губам",
+      "song": 65
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1720,
+    "fields": {
+      "line": "SOS!",
+      "song": 65
+    }
+  }
+]

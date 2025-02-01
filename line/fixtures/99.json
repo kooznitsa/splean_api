@@ -1,0 +1,162 @@
+[
+  {
+    "model": "line.line",
+    "pk": 2415,
+    "fields": {
+      "line": "и лампа не горит",
+      "song": 99
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2416,
+    "fields": {
+      "line": "и врут календари",
+      "song": 99
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2417,
+    "fields": {
+      "line": "и если ты давно хотела что-то мне сказать -",
+      "song": 99
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2418,
+    "fields": {
+      "line": "то говори",
+      "song": 99
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2419,
+    "fields": {
+      "line": "любой обманчив звук",
+      "song": 99
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2420,
+    "fields": {
+      "line": "страшнее тишина",
+      "song": 99
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2421,
+    "fields": {
+      "line": "когда в самый разгар веселья падает из рук",
+      "song": 99
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2422,
+    "fields": {
+      "line": "бокал вина",
+      "song": 99
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2423,
+    "fields": {
+      "line": "и черный кабинет",
+      "song": 99
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2424,
+    "fields": {
+      "line": "и ждет в стволе патрон",
+      "song": 99
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2425,
+    "fields": {
+      "line": "так тихо, что я слышу, как идет на глубине",
+      "song": 99
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2426,
+    "fields": {
+      "line": "вагон метро",
+      "song": 99
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2427,
+    "fields": {
+      "line": "на площади полки",
+      "song": 99
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2428,
+    "fields": {
+      "line": "темно в конце строки",
+      "song": 99
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2429,
+    "fields": {
+      "line": "и в телефонной трубке эти много лет спустя",
+      "song": 99
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2430,
+    "fields": {
+      "line": "одни гудки",
+      "song": 99
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2431,
+    "fields": {
+      "line": "и где-то хлопнет дверь",
+      "song": 99
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2432,
+    "fields": {
+      "line": "и дрогнут провода",
+      "song": 99
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2433,
+    "fields": {
+      "line": "привет ! мы будем счастливы теперь",
+      "song": 99
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2434,
+    "fields": {
+      "line": "и навсегда",
+      "song": 99
+    }
+  }
+]

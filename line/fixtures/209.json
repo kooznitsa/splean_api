@@ -1,0 +1,450 @@
+[
+  {
+    "model": "line.line",
+    "pk": 5318,
+    "fields": {
+      "line": "Беги, моя жизнь, обгоняй,",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5319,
+    "fields": {
+      "line": "Я бегу за тобой.",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5320,
+    "fields": {
+      "line": "То поднимаясь в гору,",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5321,
+    "fields": {
+      "line": "А то падая вместе с горой.",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5322,
+    "fields": {
+      "line": "То двигаясь широким проспектом,",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5323,
+    "fields": {
+      "line": "А то – узкой тропой.",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5324,
+    "fields": {
+      "line": "То действуя опять в одиночку,",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5325,
+    "fields": {
+      "line": "А то вместе с толпой.",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5326,
+    "fields": {
+      "line": "Здесь самое время",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5327,
+    "fields": {
+      "line": "Использовать лопату и штык,",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5328,
+    "fields": {
+      "line": "Здесь самое время",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5329,
+    "fields": {
+      "line": "Взять языков и развязать им язык.",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5330,
+    "fields": {
+      "line": "Здесь самое время",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5331,
+    "fields": {
+      "line": "Потуже затянуть свой ремень.",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5332,
+    "fields": {
+      "line": "Здесь самое время",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5333,
+    "fields": {
+      "line": "На всех уроках ждать перемен.",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5334,
+    "fields": {
+      "line": "Беги, моя жизнь, обгоняй,",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5335,
+    "fields": {
+      "line": "Я бегу за тобой.",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5336,
+    "fields": {
+      "line": "То поднимаясь в гору,",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5337,
+    "fields": {
+      "line": "А то падая вместе с горой.",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5338,
+    "fields": {
+      "line": "То двигаясь широким проспектом,",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5339,
+    "fields": {
+      "line": "А то – узкой тропой.",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5340,
+    "fields": {
+      "line": "То действуя опять в одиночку,",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5341,
+    "fields": {
+      "line": "А то вместе с толпой.",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5342,
+    "fields": {
+      "line": "Здесь самое время",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5343,
+    "fields": {
+      "line": "Для тех, кто под гребенку обрит,",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5344,
+    "fields": {
+      "line": "Здесь самое время",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5345,
+    "fields": {
+      "line": "Глазам вылезать из орбит,",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5346,
+    "fields": {
+      "line": "Здесь самое время",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5347,
+    "fields": {
+      "line": "Навечно объявить карантин,",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5348,
+    "fields": {
+      "line": "Здесь самое время",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5349,
+    "fields": {
+      "line": "Для виселиц и гильотин.",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5350,
+    "fields": {
+      "line": "Беги, моя жизнь, обгоняй,",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5351,
+    "fields": {
+      "line": "Я бегу за тобой.",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5352,
+    "fields": {
+      "line": "То поднимаясь в гору,",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5353,
+    "fields": {
+      "line": "А то падая вместе с горой.",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5354,
+    "fields": {
+      "line": "То двигаясь широким проспектом,",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5355,
+    "fields": {
+      "line": "А то – узкой тропой.",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5356,
+    "fields": {
+      "line": "То действуя опять в одиночку,",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5357,
+    "fields": {
+      "line": "А то вместе с толпой.",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5358,
+    "fields": {
+      "line": "Здесь самое время",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5359,
+    "fields": {
+      "line": "Взять и показать, кто здесь крут.",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5360,
+    "fields": {
+      "line": "Здесь самое время",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5361,
+    "fields": {
+      "line": "Поднять все флаги и лечь на грунт.",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5362,
+    "fields": {
+      "line": "Здесь самое время",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5363,
+    "fields": {
+      "line": "Сравнить цвет крови с цветом знамен.",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5364,
+    "fields": {
+      "line": "Здесь самое время",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5365,
+    "fields": {
+      "line": "Остановить ход времен.",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5366,
+    "fields": {
+      "line": "Беги, моя жизнь, обгоняй,",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5367,
+    "fields": {
+      "line": "Я бегу за тобой.",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5368,
+    "fields": {
+      "line": "То поднимаясь в гору,",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5369,
+    "fields": {
+      "line": "А то падая вместе с горой.",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5370,
+    "fields": {
+      "line": "То двигаясь широким проспектом,",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5371,
+    "fields": {
+      "line": "А то – узкой тропой.",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5372,
+    "fields": {
+      "line": "То действуя опять в одиночку,",
+      "song": 209
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5373,
+    "fields": {
+      "line": "А то вместе с толпой.",
+      "song": 209
+    }
+  }
+]

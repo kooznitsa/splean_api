@@ -49,3 +49,7 @@ class LineDocument(Document):
         fields = [
             'id',
         ]
+
+    def get_instances_from_related(self, related_instance):
+        if isinstance(related_instance, Song):
+            return Line.objects.filter(song=related_instance)

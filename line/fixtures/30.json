@@ -1,0 +1,130 @@
+[
+  {
+    "model": "line.line",
+    "pk": 891,
+    "fields": {
+      "line": "Эти рельсы никуда не приведут,",
+      "song": 30
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 892,
+    "fields": {
+      "line": "Этот поезд не остановить",
+      "song": 30
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 893,
+    "fields": {
+      "line": "Эти руки не согреют, не спасут,",
+      "song": 30
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 894,
+    "fields": {
+      "line": "Я люблю тебя, и я хочу, я хочу",
+      "song": 30
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 895,
+    "fields": {
+      "line": "Я хочу тебя убить",
+      "song": 30
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 896,
+    "fields": {
+      "line": "У меня есть выстрел для твоих друзей,",
+      "song": 30
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 897,
+    "fields": {
+      "line": "Как лекарство ото всех обид",
+      "song": 30
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 898,
+    "fields": {
+      "line": "У меня есть то, что мимо всех дверей,",
+      "song": 30
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 899,
+    "fields": {
+      "line": "Я люблю тебя и я хочу, я хочу,",
+      "song": 30
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 900,
+    "fields": {
+      "line": "Я хочу тебя убить",
+      "song": 30
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 901,
+    "fields": {
+      "line": "Можешь выпить то, что плещется на дне",
+      "song": 30
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 902,
+    "fields": {
+      "line": "Сигарету можешь докурить",
+      "song": 30
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 903,
+    "fields": {
+      "line": "Я хотел забыть, но это не ко мне,",
+      "song": 30
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 904,
+    "fields": {
+      "line": "Я люблю тебя, и я хочу, я хочу,",
+      "song": 30
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 905,
+    "fields": {
+      "line": "Я хочу пойти к врачу,",
+      "song": 30
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 906,
+    "fields": {
+      "line": "И я хочу тебя убить",
+      "song": 30
+    }
+  }
+]

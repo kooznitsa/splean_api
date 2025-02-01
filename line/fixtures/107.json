@@ -1,0 +1,146 @@
+[
+  {
+    "model": "line.line",
+    "pk": 2612,
+    "fields": {
+      "line": "Медленно снег летит над крышей,",
+      "song": 107
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2613,
+    "fields": {
+      "line": "На всей земле вода и лёд.",
+      "song": 107
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2614,
+    "fields": {
+      "line": "Звуки становятся неслышными,",
+      "song": 107
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2615,
+    "fields": {
+      "line": "Бетховен мёртв!",
+      "song": 107
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2616,
+    "fields": {
+      "line": "Бетховен мёртв!",
+      "song": 107
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2617,
+    "fields": {
+      "line": "Бетховен мёртв!",
+      "song": 107
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2618,
+    "fields": {
+      "line": "На неопознанные ноты.",
+      "song": 107
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2619,
+    "fields": {
+      "line": "Взял и рассыпался аккорд,",
+      "song": 107
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2620,
+    "fields": {
+      "line": "Сомкнулись каменные своды,",
+      "song": 107
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2621,
+    "fields": {
+      "line": "Бетховен мёртв!",
+      "song": 107
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2622,
+    "fields": {
+      "line": "Бетховен мёртв!",
+      "song": 107
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2623,
+    "fields": {
+      "line": "Бетховен мёртв!",
+      "song": 107
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2624,
+    "fields": {
+      "line": "Бетховен жив!",
+      "song": 107
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2625,
+    "fields": {
+      "line": "И музыка летит сквозь этажи,",
+      "song": 107
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2626,
+    "fields": {
+      "line": "И музыка летит сквозь этажи.",
+      "song": 107
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2627,
+    "fields": {
+      "line": "Сегодня утром так прекрасна жизнь!",
+      "song": 107
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2628,
+    "fields": {
+      "line": "Сегодня утром так прекрасна жизнь!",
+      "song": 107
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2629,
+    "fields": {
+      "line": "Сегодня утром так прекрасна жизнь!",
+      "song": 107
+    }
+  }
+]

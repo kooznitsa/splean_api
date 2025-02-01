@@ -1,0 +1,138 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1476,
+    "fields": {
+      "line": "Близится ночь,рельсы несут свой груз,",
+      "song": 56
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1477,
+    "fields": {
+      "line": "В небе горит порнозвезда,",
+      "song": 56
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1478,
+    "fields": {
+      "line": "Сумасшедший автобус идет домой,",
+      "song": 56
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1479,
+    "fields": {
+      "line": "Падают города,",
+      "song": 56
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1480,
+    "fields": {
+      "line": "Падают города...",
+      "song": 56
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1481,
+    "fields": {
+      "line": "Он спрятал глаза,одел капюшон,нажал на play,",
+      "song": 56
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1482,
+    "fields": {
+      "line": "Он добавил низов в чей-то последний альбом",
+      "song": 56
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1483,
+    "fields": {
+      "line": "Сумасшедший автобус идет домой,",
+      "song": 56
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1484,
+    "fields": {
+      "line": "Просто идет пешком,",
+      "song": 56
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1485,
+    "fields": {
+      "line": "Просто идет пешком,",
+      "song": 56
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1486,
+    "fields": {
+      "line": "Просто и...",
+      "song": 56
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1487,
+    "fields": {
+      "line": "Мне иногда кажется все смешным,",
+      "song": 56
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1488,
+    "fields": {
+      "line": "Меня иногда уносит так далеко,",
+      "song": 56
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1489,
+    "fields": {
+      "line": "Сумасшедший автобус идет домой,",
+      "song": 56
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1490,
+    "fields": {
+      "line": "Дома все кувырком,",
+      "song": 56
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1491,
+    "fields": {
+      "line": "Дома все кувырком,",
+      "song": 56
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1492,
+    "fields": {
+      "line": "Дома все...",
+      "song": 56
+    }
+  }
+]

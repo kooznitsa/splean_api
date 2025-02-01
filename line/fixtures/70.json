@@ -1,0 +1,186 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1863,
+    "fields": {
+      "line": "Убей меня",
+      "song": 70
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1864,
+    "fields": {
+      "line": "Внезапно гаснет свет",
+      "song": 70
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1865,
+    "fields": {
+      "line": "Нервно курит балерина",
+      "song": 70
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1866,
+    "fields": {
+      "line": "В пачке сигарет",
+      "song": 70
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1867,
+    "fields": {
+      "line": "Солнце светит мимо кассы",
+      "song": 70
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1868,
+    "fields": {
+      "line": "Прошлогодний снег еще лежит",
+      "song": 70
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1869,
+    "fields": {
+      "line": "Все на свете из пластмассы",
+      "song": 70
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1870,
+    "fields": {
+      "line": "И вокруг пластмассовая жизнь",
+      "song": 70
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1871,
+    "fields": {
+      "line": "Тянутся хвосты",
+      "song": 70
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1872,
+    "fields": {
+      "line": "Миллиарды звезд сошли на нет",
+      "song": 70
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1873,
+    "fields": {
+      "line": "С тех пор как мы с тобой на ты",
+      "song": 70
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1874,
+    "fields": {
+      "line": "И дело вовсе не в примете",
+      "song": 70
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1875,
+    "fields": {
+      "line": "Только мертвый не боится смерти",
+      "song": 70
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1876,
+    "fields": {
+      "line": "Вдоль дорог расставлены посты",
+      "song": 70
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1877,
+    "fields": {
+      "line": "Возьми меня с собой",
+      "song": 70
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1878,
+    "fields": {
+      "line": "Беспощадно в небе светит солнце у тебя над головой",
+      "song": 70
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1879,
+    "fields": {
+      "line": "И снова мимо кассы",
+      "song": 70
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1880,
+    "fields": {
+      "line": "Тень забилась в угол и дрожит",
+      "song": 70
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1881,
+    "fields": {
+      "line": "Все на свете из пластмассы",
+      "song": 70
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1882,
+    "fields": {
+      "line": "И вокруг пластмассовая жизнь",
+      "song": 70
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1883,
+    "fields": {
+      "line": "Тянутся хвосты",
+      "song": 70
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1884,
+    "fields": {
+      "line": "Убей меня",
+      "song": 70
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1885,
+    "fields": {
+      "line": "За то, что я давно к тебе остыл...",
+      "song": 70
+    }
+  }
+]

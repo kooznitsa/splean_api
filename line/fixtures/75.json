@@ -1,0 +1,306 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1974,
+    "fields": {
+      "line": "Время, назад!",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1975,
+    "fields": {
+      "line": "Все разделилось вокруг на чужое и наше.",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1976,
+    "fields": {
+      "line": "Бросив на разные чаши",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1977,
+    "fields": {
+      "line": "Против и за,",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1978,
+    "fields": {
+      "line": "В календаре преднамеренно спутались числа.",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1979,
+    "fields": {
+      "line": "В том, что все это случилось -",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1980,
+    "fields": {
+      "line": "Я не со зла.",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1981,
+    "fields": {
+      "line": "Карты легли на такую наклонную плоскость,",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1982,
+    "fields": {
+      "line": "Что мне удержаться непросто",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1983,
+    "fields": {
+      "line": "На тормозах.",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1984,
+    "fields": {
+      "line": "Это все, что мы сделали здесь друг для друга.",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1985,
+    "fields": {
+      "line": "Все пытаясь уйти навсегда из проклятого круга.",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1986,
+    "fields": {
+      "line": "Мне кажется, я ...",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1987,
+    "fields": {
+      "line": "Крутится ось.",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1988,
+    "fields": {
+      "line": "Шар неподвижно висит на просторах Вселенной,",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1989,
+    "fields": {
+      "line": "Весь перевязанный лентой.",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1990,
+    "fields": {
+      "line": "Вместе и врозь",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1991,
+    "fields": {
+      "line": "Люди стремятся попасть в вожделенную Вену;",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1992,
+    "fields": {
+      "line": "Большое спасибо Рентгену –",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1993,
+    "fields": {
+      "line": "Видно насквозь,",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1994,
+    "fields": {
+      "line": "Как кто-то летает кругами над детской площадкой,",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1995,
+    "fields": {
+      "line": "Весь начиненный взрывчаткой.",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1996,
+    "fields": {
+      "line": "Жить сорвалось.",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1997,
+    "fields": {
+      "line": "Это все, что мы сделали здесь друг для друга.",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1998,
+    "fields": {
+      "line": "Все пытаясь уйти навсегда из проклятого круга.",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1999,
+    "fields": {
+      "line": "Мне кажется, я ...",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2000,
+    "fields": {
+      "line": "Все это ложь",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2001,
+    "fields": {
+      "line": "Что-то случилось, но нам ничего не сказали",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2002,
+    "fields": {
+      "line": "Женщину в зрительном в зале",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2003,
+    "fields": {
+      "line": "Бросило в дрожь.",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2004,
+    "fields": {
+      "line": "Книга открыта на самой последней странице.",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2005,
+    "fields": {
+      "line": "Сколько все это продлится?",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2006,
+    "fields": {
+      "line": "Целый день дождь.",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2007,
+    "fields": {
+      "line": "В воздухе тают осколки разбитой посуды.",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2008,
+    "fields": {
+      "line": "Тянутся долго и долго секунды.",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2009,
+    "fields": {
+      "line": "Тянутся долго и долго секунды.",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2010,
+    "fields": {
+      "line": "Тянутся долго секунды.",
+      "song": 75
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2011,
+    "fields": {
+      "line": "Ты меня ждешь.",
+      "song": 75
+    }
+  }
+]

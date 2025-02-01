@@ -1,0 +1,162 @@
+[
+  {
+    "model": "line.line",
+    "pk": 871,
+    "fields": {
+      "line": "Спи в заброшенном доме то в сладкой истоме,",
+      "song": 29
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 872,
+    "fields": {
+      "line": "то в судорогах",
+      "song": 29
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 873,
+    "fields": {
+      "line": "Слепи из пыли и тлена смешного оленя",
+      "song": 29
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 874,
+    "fields": {
+      "line": "на быстрых ногах",
+      "song": 29
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 875,
+    "fields": {
+      "line": "Плачь испуганным зверем, и вырастет дерево",
+      "song": 29
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 876,
+    "fields": {
+      "line": "из мертвого пня",
+      "song": 29
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 877,
+    "fields": {
+      "line": "Сядь в разбитый трамвай и, глаза закрывая,",
+      "song": 29
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 878,
+    "fields": {
+      "line": "увидишь меня",
+      "song": 29
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 879,
+    "fields": {
+      "line": "Кто-то разрешил трамвайным рельсам",
+      "song": 29
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 880,
+    "fields": {
+      "line": "разрезать этот город",
+      "song": 29
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 881,
+    "fields": {
+      "line": "Трамвай идет разбитый, громыхая через ночь,",
+      "song": 29
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 882,
+    "fields": {
+      "line": "ножом по горлу",
+      "song": 29
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 883,
+    "fields": {
+      "line": "Мне все лучше и лучше, мне хочется слушать,",
+      "song": 29
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 884,
+    "fields": {
+      "line": "но устали чтецы",
+      "song": 29
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 885,
+    "fields": {
+      "line": "Пить весенние капли из сморщенной лапы",
+      "song": 29
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 886,
+    "fields": {
+      "line": "медведицы",
+      "song": 29
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 887,
+    "fields": {
+      "line": "Кто откроет мне двери испуганным зверем",
+      "song": 29
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 888,
+    "fields": {
+      "line": "из мертвого пня",
+      "song": 29
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 889,
+    "fields": {
+      "line": "Там, в разбитом трамвае, глаза закрывая,",
+      "song": 29
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 890,
+    "fields": {
+      "line": "ты увидишь меня",
+      "song": 29
+    }
+  }
+]

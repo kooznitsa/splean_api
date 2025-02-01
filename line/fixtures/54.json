@@ -1,0 +1,266 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1428,
+    "fields": {
+      "line": "Добрых дел мастер сжег stratocaster,",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1429,
+    "fields": {
+      "line": "Вышиб стекло рукой,",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1430,
+    "fields": {
+      "line": "Он города и страны видел на дне стакана,",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1431,
+    "fields": {
+      "line": "Добрых дел мастер мой",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1432,
+    "fields": {
+      "line": "Добрых дел мастер с похмелья злой",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1433,
+    "fields": {
+      "line": "Добрых дел мастер ушел в запой",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1434,
+    "fields": {
+      "line": "Добрых дел мастер с похмелья злой",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1435,
+    "fields": {
+      "line": "Добрых дел мастер ушел в запой",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1436,
+    "fields": {
+      "line": "Добрых дел мастер...",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1437,
+    "fields": {
+      "line": "Добрых дел мастер прогнал жену Hастю,",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1438,
+    "fields": {
+      "line": "Hастя взяла детей,",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1439,
+    "fields": {
+      "line": "Он пил неделю с лишним так, что весь город слышал,",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1440,
+    "fields": {
+      "line": "Как он гонял чертей,",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1441,
+    "fields": {
+      "line": "Он мерял одним стаканом спирт и марихуану,",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1442,
+    "fields": {
+      "line": "Sauz'у и Castrol,",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1443,
+    "fields": {
+      "line": "Он выпил всю водку разом, выпил текилу с джазом,",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1444,
+    "fields": {
+      "line": "Пропил весь рок-н-ролл",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1445,
+    "fields": {
+      "line": "Добрых дел мастер с похмелья злой",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1446,
+    "fields": {
+      "line": "Добрых дел мастер ушел в запой",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1447,
+    "fields": {
+      "line": "Добрых дел мастер с похмелья злой",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1448,
+    "fields": {
+      "line": "Добрых дел мастер ушел в запой",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1449,
+    "fields": {
+      "line": "Добрых дел мастер...",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1450,
+    "fields": {
+      "line": "Добрых дел мастер сжег stratocaster,",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1451,
+    "fields": {
+      "line": "Вышиб стекло рукой,",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1452,
+    "fields": {
+      "line": "Пусть он мрачнее тучи, он все равно всех лучше,",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1453,
+    "fields": {
+      "line": "Добрых дел мастер мой,",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1454,
+    "fields": {
+      "line": "Пусть он мрачнее тучи, он все равно всех круче,",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1455,
+    "fields": {
+      "line": "Добрых дел мастер мой,",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1456,
+    "fields": {
+      "line": "Добрых дел мастер с похмелья злой",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1457,
+    "fields": {
+      "line": "Добрых дел мастер ушел в запой",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1458,
+    "fields": {
+      "line": "Добрых дел мастер с похмелья злой",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1459,
+    "fields": {
+      "line": "Добрых дел мастер ушел в запой",
+      "song": 54
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1460,
+    "fields": {
+      "line": "Добрых дел мастер...",
+      "song": 54
+    }
+  }
+]

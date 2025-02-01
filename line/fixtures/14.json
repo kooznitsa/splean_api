@@ -1,0 +1,314 @@
+[
+  {
+    "model": "line.line",
+    "pk": 335,
+    "fields": {
+      "line": "В эту ночь дивным цветом распустится папоротник",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 336,
+    "fields": {
+      "line": "В эту ночь домовые вернутся домой",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 337,
+    "fields": {
+      "line": "Тучи с севера, ветер с запада,",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 338,
+    "fields": {
+      "line": "Значит скоро колдунья махнет мне рукой",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 339,
+    "fields": {
+      "line": "Я живу в ожидании чуда как маузер в кобуре",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 340,
+    "fields": {
+      "line": "Словно я паук в паутине, словно дерево в пустыне,",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 341,
+    "fields": {
+      "line": "Словно черная лиса в норе",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 342,
+    "fields": {
+      "line": "Холодно мне в горнице,",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 343,
+    "fields": {
+      "line": "Двери не откроются,",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 344,
+    "fields": {
+      "line": "Ключи у рака, а рак на горе",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 345,
+    "fields": {
+      "line": "Я бежал сквозь подзорные трубы",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 346,
+    "fields": {
+      "line": "От испуганных глаз детей",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 347,
+    "fields": {
+      "line": "Я хотел переспать с русалкой,",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 348,
+    "fields": {
+      "line": "Но не знал, как быть с ней",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 349,
+    "fields": {
+      "line": "Я хотел обернуться трамваем",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 350,
+    "fields": {
+      "line": "И въехать в твое окно",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 351,
+    "fields": {
+      "line": "Ветер дует с окраин,",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 352,
+    "fields": {
+      "line": "Нам уже все равно",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 353,
+    "fields": {
+      "line": "Ветер дует с окраин,",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 354,
+    "fields": {
+      "line": "А нам все равно",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 355,
+    "fields": {
+      "line": "Будь моей тенью, скрипучей ступенью,",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 356,
+    "fields": {
+      "line": "Цветным воскресеньем, грибным дождем",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 357,
+    "fields": {
+      "line": "Будь моим богом, березовым соком,",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 358,
+    "fields": {
+      "line": "Электрическим током, кривым ружьем",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 359,
+    "fields": {
+      "line": "Я был свидетель тому, что ты - ветер,",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 360,
+    "fields": {
+      "line": "Ты дуешь в лицо мне, а я смеюсь",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 361,
+    "fields": {
+      "line": "Я не хочу расставаться с тобою",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 362,
+    "fields": {
+      "line": "Без боя, покуда тебе я снюсь -",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 363,
+    "fields": {
+      "line": "Будь моей тенью",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 364,
+    "fields": {
+      "line": "Хорошо танцевать на углях,",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 365,
+    "fields": {
+      "line": "C тем, с кого как с сосны смола,",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 366,
+    "fields": {
+      "line": "Хорошо поливать молоком",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 367,
+    "fields": {
+      "line": "Юные тела",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 368,
+    "fields": {
+      "line": "Хорошо обернуться трамваем",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 369,
+    "fields": {
+      "line": "И въехать в твое окно",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 370,
+    "fields": {
+      "line": "Ветер дует с окраин,",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 371,
+    "fields": {
+      "line": "Нам уже все равно",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 372,
+    "fields": {
+      "line": "Ветер дует с окраин,",
+      "song": 14
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 373,
+    "fields": {
+      "line": "А нам все равно",
+      "song": 14
+    }
+  }
+]

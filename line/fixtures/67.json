@@ -1,0 +1,410 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1741,
+    "fields": {
+      "line": "Километры",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1742,
+    "fields": {
+      "line": "Превратятся прошествии лет",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1743,
+    "fields": {
+      "line": "В киноленты,",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1744,
+    "fields": {
+      "line": "Что лежат на монтажном столе,",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1745,
+    "fields": {
+      "line": "Континенты",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1746,
+    "fields": {
+      "line": "Будут им рукоплескать",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1747,
+    "fields": {
+      "line": "До восхода",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1748,
+    "fields": {
+      "line": "Лишь Земля обернется опять",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1749,
+    "fields": {
+      "line": "Кислорода",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1750,
+    "fields": {
+      "line": "Хватит всем кто умеет дышать.",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1751,
+    "fields": {
+      "line": "Год от года",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1752,
+    "fields": {
+      "line": "Остаемся зимовать",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1753,
+    "fields": {
+      "line": "Остаемся зимовать",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1754,
+    "fields": {
+      "line": "Остаемся зимовать",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1755,
+    "fields": {
+      "line": "Вода замерзла - перебьемся",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1756,
+    "fields": {
+      "line": "И с приветом",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1757,
+    "fields": {
+      "line": "И спасибо всем тем, кто мигал",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1758,
+    "fields": {
+      "line": "Дальним светом",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1759,
+    "fields": {
+      "line": "Принимая ответный сигнал",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1760,
+    "fields": {
+      "line": "Этим летом",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1761,
+    "fields": {
+      "line": "И так любит рисковать",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1762,
+    "fields": {
+      "line": "Ртуть упала",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1763,
+    "fields": {
+      "line": "И листва за окном шелестеть перестала",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1764,
+    "fields": {
+      "line": "И вдвоем под одним шерстяным одеялом",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1765,
+    "fields": {
+      "line": "Остаемся зимовать",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1766,
+    "fields": {
+      "line": "Остаемся зимовать",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1767,
+    "fields": {
+      "line": "Остаемся зимовать",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1768,
+    "fields": {
+      "line": "Вода замерзла - перебьемся",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1769,
+    "fields": {
+      "line": "Зимовать",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1770,
+    "fields": {
+      "line": "Зимовать",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1771,
+    "fields": {
+      "line": "Зимовать",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1772,
+    "fields": {
+      "line": "Океанам,",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1773,
+    "fields": {
+      "line": "С головой уходящим в песок",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1774,
+    "fields": {
+      "line": "Караванам -",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1775,
+    "fields": {
+      "line": "Никогда не прочесть этих строк –",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1776,
+    "fields": {
+      "line": "Даже странно",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1777,
+    "fields": {
+      "line": "Я не знаю, что сказать",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1778,
+    "fields": {
+      "line": "Очень скоро",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1779,
+    "fields": {
+      "line": "Мы исчезнем с экранов цветных мониторов",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1780,
+    "fields": {
+      "line": "Из подъезда увозят кого-то на скорой\"",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1781,
+    "fields": {
+      "line": "Остаемся рисковать",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1782,
+    "fields": {
+      "line": "Остаемся рисковать",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1783,
+    "fields": {
+      "line": "Остаемся рисковать",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1784,
+    "fields": {
+      "line": "Вода замерзла - перебьемся",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1785,
+    "fields": {
+      "line": "Зимовать",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1786,
+    "fields": {
+      "line": "Зимовать",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1787,
+    "fields": {
+      "line": "Зимовать",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1788,
+    "fields": {
+      "line": "Не спать!",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1789,
+    "fields": {
+      "line": "Не спать!",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1790,
+    "fields": {
+      "line": "Не спать!",
+      "song": 67
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1791,
+    "fields": {
+      "line": "Не спать!",
+      "song": 67
+    }
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "model": "line.line",
+    "pk": 3362,
+    "fields": {
+      "line": "Издалека долго",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3363,
+    "fields": {
+      "line": "Ехала черная Волга. Пахло бензином.",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3364,
+    "fields": {
+      "line": "То обгоняла все фуры, то долго тащилась за ЗИЛом.",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3365,
+    "fields": {
+      "line": "Петляла бетонка.",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3366,
+    "fields": {
+      "line": "Пейзаж был убогий:",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3367,
+    "fields": {
+      "line": "То свалки, то стройки, вокруг них дорожные знаки.",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3368,
+    "fields": {
+      "line": "То серый бетонный забор, то вдруг красные маки",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3369,
+    "fields": {
+      "line": "Везде вдоль дороги.",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3370,
+    "fields": {
+      "line": "Быстро темнело.",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3371,
+    "fields": {
+      "line": "Дворник скрипел, лобовое стекло запотело.",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3372,
+    "fields": {
+      "line": "Какая-то лампа моргала порой то и дело.",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3373,
+    "fields": {
+      "line": "Фара горела",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3374,
+    "fields": {
+      "line": "Постольку-поскольку.",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3375,
+    "fields": {
+      "line": "Везде отовсюду трясло, грохотало и дуло.",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3376,
+    "fields": {
+      "line": "Черную Волгу неумолимо тянуло",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3377,
+    "fields": {
+      "line": "К юго-востоку.",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3378,
+    "fields": {
+      "line": "Туда, где теплее.",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3379,
+    "fields": {
+      "line": "Туда, где никто никогда ее не обнаружит.",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3380,
+    "fields": {
+      "line": "Деревни, дороги, дома становились все хуже.",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3381,
+    "fields": {
+      "line": "Полиция — злее.",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3382,
+    "fields": {
+      "line": "Это был номер!",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3383,
+    "fields": {
+      "line": "Газ на прощанье, клубы дыма и пара.",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3384,
+    "fields": {
+      "line": "Черная Волга, разогнавшись, упала",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3385,
+    "fields": {
+      "line": "В Каспийское море.",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3386,
+    "fields": {
+      "line": "Волны сомкнулись.",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3387,
+    "fields": {
+      "line": "Чайки, слегка покружив, успокоились живо.",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3388,
+    "fields": {
+      "line": "Никто из людей не заметил, как исчезла машина",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3389,
+    "fields": {
+      "line": "С городских улиц.",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3390,
+    "fields": {
+      "line": "Издалека долго.",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3391,
+    "fields": {
+      "line": "Черная Волга.",
+      "song": 137
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3392,
+    "fields": {
+      "line": "Черная Волга.",
+      "song": 137
+    }
+  }
+]

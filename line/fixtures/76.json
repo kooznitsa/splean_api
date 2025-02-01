@@ -1,0 +1,250 @@
+[
+  {
+    "model": "line.line",
+    "pk": 2012,
+    "fields": {
+      "line": "Спину ломит, голова болит",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2013,
+    "fields": {
+      "line": "То ли клещ засел энцефалит",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2014,
+    "fields": {
+      "line": "В голове болит последний зуб",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2015,
+    "fields": {
+      "line": "Мы болеем за один и тот же клуб",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2016,
+    "fields": {
+      "line": "Чуть курнул - и сразу бледный вид",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2017,
+    "fields": {
+      "line": "Чуть немного выпил - так тошнит",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2018,
+    "fields": {
+      "line": "Чуть пошёл работать - сразу труп",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2019,
+    "fields": {
+      "line": "Мы болеем за один и тот же клуб",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2020,
+    "fields": {
+      "line": "Словом, мы все больны гандболом",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2021,
+    "fields": {
+      "line": "Мы все больны гандболом",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2022,
+    "fields": {
+      "line": "И за гандбол умрём",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2023,
+    "fields": {
+      "line": "Знай, мой друг, ты мой эквивалент",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2024,
+    "fields": {
+      "line": "Может клей понюхаем Момент\"",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2025,
+    "fields": {
+      "line": "Будем нюхать сколько захотим",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2026,
+    "fields": {
+      "line": "Ведь мы болеем за один и тот же team",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2027,
+    "fields": {
+      "line": "А когда последний наш умрёт",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2028,
+    "fields": {
+      "line": "Закопайте прямо у ворот",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2029,
+    "fields": {
+      "line": "На поминках разогрейте суп",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2030,
+    "fields": {
+      "line": "Ведь мы болели за один и тот же клуб",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2031,
+    "fields": {
+      "line": "Словом, мы все больны гандболом",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2032,
+    "fields": {
+      "line": "Мы все больны гандболом",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2033,
+    "fields": {
+      "line": "И за гандбол умрём",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2034,
+    "fields": {
+      "line": "Словом, мы все больны гандболом",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2035,
+    "fields": {
+      "line": "Мы все больны гандболом",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2036,
+    "fields": {
+      "line": "И за гандбол умрём",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2037,
+    "fields": {
+      "line": "Гандбол",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2038,
+    "fields": {
+      "line": "Гандбол",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2039,
+    "fields": {
+      "line": "Гандбол",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2040,
+    "fields": {
+      "line": "Гандбол",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2041,
+    "fields": {
+      "line": "Гандбол",
+      "song": 76
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2042,
+    "fields": {
+      "line": "Гандбол",
+      "song": 76
+    }
+  }
+]

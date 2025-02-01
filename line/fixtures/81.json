@@ -1,0 +1,130 @@
+[
+  {
+    "model": "line.line",
+    "pk": 2108,
+    "fields": {
+      "line": "След останется и как бы ты не заметал",
+      "song": 81
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2109,
+    "fields": {
+      "line": "Люди носятся по свету гибнут за металл",
+      "song": 81
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2110,
+    "fields": {
+      "line": "Жизнь идет –",
+      "song": 81
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2111,
+    "fields": {
+      "line": "Йог спокоен",
+      "song": 81
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2112,
+    "fields": {
+      "line": "А жизнь идет –",
+      "song": 81
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2113,
+    "fields": {
+      "line": "Йог спокоен",
+      "song": 81
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2114,
+    "fields": {
+      "line": "Жизнь идет –",
+      "song": 81
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2115,
+    "fields": {
+      "line": "Йог спокоен как всегда",
+      "song": 81
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2116,
+    "fields": {
+      "line": "Тридцать лет прошли под кайфом, целых тридцать лет",
+      "song": 81
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2117,
+    "fields": {
+      "line": "И еще три года с лишним, где мой пистолет ?",
+      "song": 81
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2118,
+    "fields": {
+      "line": "Жизнь идет –",
+      "song": 81
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2119,
+    "fields": {
+      "line": "Йог спокоен",
+      "song": 81
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2120,
+    "fields": {
+      "line": "А жизнь идет –",
+      "song": 81
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2121,
+    "fields": {
+      "line": "Йог спокоен",
+      "song": 81
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2122,
+    "fields": {
+      "line": "Жизнь идет –",
+      "song": 81
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2123,
+    "fields": {
+      "line": "Йог спокоен как всегда и даже больше",
+      "song": 81
+    }
+  }
+]

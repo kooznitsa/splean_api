@@ -1,0 +1,18 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1030,
+    "fields": {
+      "line": "Ты знаешь, что за чем -",
+      "song": 35
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1031,
+    "fields": {
+      "line": "Зачем же ты живешь?",
+      "song": 35
+    }
+  }
+]

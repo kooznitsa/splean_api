@@ -1,0 +1,146 @@
+[
+  {
+    "model": "line.line",
+    "pk": 2853,
+    "fields": {
+      "line": "Осенью легла пыль,",
+      "song": 116
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2854,
+    "fields": {
+      "line": "Осенью угас пыл,",
+      "song": 116
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2855,
+    "fields": {
+      "line": "Солнца потускнел жар,",
+      "song": 116
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2856,
+    "fields": {
+      "line": "Осенью весь мир жаль.",
+      "song": 116
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2857,
+    "fields": {
+      "line": "Осенью весь мир жаль,",
+      "song": 116
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2858,
+    "fields": {
+      "line": "Скоро доставать шарф,",
+      "song": 116
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2859,
+    "fields": {
+      "line": "Греть вино и есть сыр",
+      "song": 116
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2860,
+    "fields": {
+      "line": "Осенью придет сын.",
+      "song": 116
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2861,
+    "fields": {
+      "line": "Осенью придет сын",
+      "song": 116
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2862,
+    "fields": {
+      "line": "Греть вино и есть сыр,",
+      "song": 116
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2863,
+    "fields": {
+      "line": "Вверх расти из всех жил,",
+      "song": 116
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2864,
+    "fields": {
+      "line": "В мире проводить жизнь.",
+      "song": 116
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2865,
+    "fields": {
+      "line": "В мире проводить жизнь",
+      "song": 116
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2866,
+    "fields": {
+      "line": "Вверх расти из всех жил",
+      "song": 116
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2867,
+    "fields": {
+      "line": "Греть вино и есть сыр",
+      "song": 116
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2868,
+    "fields": {
+      "line": "Осенью придет сын,",
+      "song": 116
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2869,
+    "fields": {
+      "line": "Осенью придет сын,",
+      "song": 116
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2870,
+    "fields": {
+      "line": "Осенью придет сын.",
+      "song": 116
+    }
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "model": "line.line",
+    "pk": 2700,
+    "fields": {
+      "line": "Спрятался город за тёмными шторами",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2701,
+    "fields": {
+      "line": "За фонарями и за светофорами",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2702,
+    "fields": {
+      "line": "Про всё забыл, про всё забыл",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2703,
+    "fields": {
+      "line": "Про всё забыл, про всё забыл",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2704,
+    "fields": {
+      "line": "Разведены мосты...",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2705,
+    "fields": {
+      "line": "Чай твой давно остыл...",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2706,
+    "fields": {
+      "line": "Не отвечает мобильный",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2707,
+    "fields": {
+      "line": "Не отвечает мобильный",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2708,
+    "fields": {
+      "line": "Не отвечает мобильный",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2709,
+    "fields": {
+      "line": "Не отвечает мобильный",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2710,
+    "fields": {
+      "line": "Не отвечает на крики о помощи",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2711,
+    "fields": {
+      "line": "Не различает звонки в чёрной полночи",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2712,
+    "fields": {
+      "line": "Про всё забыл, про всё забыл",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2713,
+    "fields": {
+      "line": "Про всё забыл, про всё забыл",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2714,
+    "fields": {
+      "line": "Город лежит во тьме...",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2715,
+    "fields": {
+      "line": "Дело опять к зиме...",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2716,
+    "fields": {
+      "line": "Носятся автомобили",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2717,
+    "fields": {
+      "line": "Носятся автомобили",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2718,
+    "fields": {
+      "line": "Носятся автомобили",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2719,
+    "fields": {
+      "line": "Носятся автомобили",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2720,
+    "fields": {
+      "line": "Разведены мосты...",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2721,
+    "fields": {
+      "line": "Чай твой давно остыл...",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2722,
+    "fields": {
+      "line": "Не отвечает мобильный",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2723,
+    "fields": {
+      "line": "Не отвечает мобильный",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2724,
+    "fields": {
+      "line": "Не отвечает мобильный",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2725,
+    "fields": {
+      "line": "Не отвечает мобильный",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2726,
+    "fields": {
+      "line": "Город лежит во тьме...",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2727,
+    "fields": {
+      "line": "Дело опять к зиме...",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2728,
+    "fields": {
+      "line": "Носятся автомобили",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2729,
+    "fields": {
+      "line": "Носятся автомобили",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2730,
+    "fields": {
+      "line": "Носятся автомобили",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2731,
+    "fields": {
+      "line": "Носятся автомобили",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2732,
+    "fields": {
+      "line": "Разведены мосты...",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2733,
+    "fields": {
+      "line": "Чай твой давно остыл...",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2734,
+    "fields": {
+      "line": "Не отвечает мобильный",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2735,
+    "fields": {
+      "line": "Не отвечает мобильный",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2736,
+    "fields": {
+      "line": "Не отвечает мобильный",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2737,
+    "fields": {
+      "line": "Не отвечает мобильный",
+      "song": 111
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2738,
+    "fields": {
+      "line": "Мне...",
+      "song": 111
+    }
+  }
+]

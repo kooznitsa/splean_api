@@ -1,0 +1,162 @@
+[
+  {
+    "model": "line.line",
+    "pk": 3854,
+    "fields": {
+      "line": "Целый век лежит снег,",
+      "song": 154
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3855,
+    "fields": {
+      "line": "Целый год лежит лёд.",
+      "song": 154
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3856,
+    "fields": {
+      "line": "Есть кто-нибудь живой?",
+      "song": 154
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3857,
+    "fields": {
+      "line": "Есть кто-нибудь живой?",
+      "song": 154
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3858,
+    "fields": {
+      "line": "Есть кто-нибудь живой?",
+      "song": 154
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3859,
+    "fields": {
+      "line": "Есть кто-нибудь живой?",
+      "song": 154
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3860,
+    "fields": {
+      "line": "Из всех жил идёт жизнь,",
+      "song": 154
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3861,
+    "fields": {
+      "line": "Из всех дыр идёт дым.",
+      "song": 154
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3862,
+    "fields": {
+      "line": "Есть кто-нибудь живой?",
+      "song": 154
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3863,
+    "fields": {
+      "line": "Есть кто-нибудь живой?",
+      "song": 154
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3864,
+    "fields": {
+      "line": "Есть кто-нибудь живой?",
+      "song": 154
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3865,
+    "fields": {
+      "line": "Есть кто-нибудь живой?",
+      "song": 154
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3866,
+    "fields": {
+      "line": "Вой, вой, вой, вой…",
+      "song": 154
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3867,
+    "fields": {
+      "line": "На дома легла тьма,",
+      "song": 154
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3868,
+    "fields": {
+      "line": "На луга легла мгла.",
+      "song": 154
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3869,
+    "fields": {
+      "line": "Есть кто-нибудь живой?",
+      "song": 154
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3870,
+    "fields": {
+      "line": "Есть кто-нибудь живой?",
+      "song": 154
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3871,
+    "fields": {
+      "line": "Есть кто-нибудь живой?",
+      "song": 154
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3872,
+    "fields": {
+      "line": "Есть кто-нибудь живой?",
+      "song": 154
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3873,
+    "fields": {
+      "line": "Вой, вой, вой, вой…",
+      "song": 154
+    }
+  }
+]

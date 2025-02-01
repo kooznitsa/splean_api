@@ -1,0 +1,226 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1094,
+    "fields": {
+      "line": "Целым был и был разбитым,",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1095,
+    "fields": {
+      "line": "Был живым и был убитым,",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1096,
+    "fields": {
+      "line": "Чистой был водой, был ядом,",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1097,
+    "fields": {
+      "line": "Был зеленым виноградом.",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1098,
+    "fields": {
+      "line": "Спать ложился рано утром,",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1099,
+    "fields": {
+      "line": "Вечерами все звонил кому-то.",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1100,
+    "fields": {
+      "line": "Был безумным, был спокойным,",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1101,
+    "fields": {
+      "line": "Подсудимым и конвойным,",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1102,
+    "fields": {
+      "line": "Капитаном и матросом",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1103,
+    "fields": {
+      "line": "С очень странной папиросой.",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1104,
+    "fields": {
+      "line": "Спать ложился рано утром,",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1105,
+    "fields": {
+      "line": "Вечерами все звонил кому-то.",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1106,
+    "fields": {
+      "line": "Ночь чернеет впереди,",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1107,
+    "fields": {
+      "line": "Свет гаси и приходи.",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1108,
+    "fields": {
+      "line": "Ночь чернеет впереди,",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1109,
+    "fields": {
+      "line": "Свет гаси и приходи.",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1110,
+    "fields": {
+      "line": "Ночь чернеет впереди,",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1111,
+    "fields": {
+      "line": "Свет гаси и приходи.",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1112,
+    "fields": {
+      "line": "Ночь чернеет впереди,",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1113,
+    "fields": {
+      "line": "Свет гаси и приходи.",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1114,
+    "fields": {
+      "line": "Целым был и был разбитым,",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1115,
+    "fields": {
+      "line": "Был живым и был убитым,",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1116,
+    "fields": {
+      "line": "Чистой был водой, был ядом,",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1117,
+    "fields": {
+      "line": "Был зеленым виноградом.",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1118,
+    "fields": {
+      "line": "Спать ложился рано утром,",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1119,
+    "fields": {
+      "line": "Вечерами все звонил кому-то,",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1120,
+    "fields": {
+      "line": "Вечерами все звонил кому-то...",
+      "song": 39
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1121,
+    "fields": {
+      "line": "Вечерами все звонил - кому?",
+      "song": 39
+    }
+  }
+]

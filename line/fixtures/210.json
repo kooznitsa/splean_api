@@ -1,0 +1,194 @@
+[
+  {
+    "model": "line.line",
+    "pk": 5374,
+    "fields": {
+      "line": "Так напевает ветер мелодии без слов,",
+      "song": 210
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5375,
+    "fields": {
+      "line": "Давай подбросим в пламя еще немного дров.",
+      "song": 210
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5376,
+    "fields": {
+      "line": "Из наших окон виден такой прекрасный сад –",
+      "song": 210
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5377,
+    "fields": {
+      "line": "Там видно солнце в небе и облака летят.",
+      "song": 210
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5378,
+    "fields": {
+      "line": "Я пью свой джин,",
+      "song": 210
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5379,
+    "fields": {
+      "line": "Я все еще жив,",
+      "song": 210
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5380,
+    "fields": {
+      "line": "Я пью свой джин,",
+      "song": 210
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5381,
+    "fields": {
+      "line": "Я еще жив.",
+      "song": 210
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5382,
+    "fields": {
+      "line": "Любой художник часто себя ест поедом,",
+      "song": 210
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5383,
+    "fields": {
+      "line": "Какой-то мальчик снова бежит за поездом,",
+      "song": 210
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5384,
+    "fields": {
+      "line": "Он все мечтает поезд схватить за поручни,",
+      "song": 210
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5385,
+    "fields": {
+      "line": "Заставить солнце в полдень скатиться к полночи.",
+      "song": 210
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5386,
+    "fields": {
+      "line": "Я пью свой джин,",
+      "song": 210
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5387,
+    "fields": {
+      "line": "Я все еще жив,",
+      "song": 210
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5388,
+    "fields": {
+      "line": "Я пью свой джин,",
+      "song": 210
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5389,
+    "fields": {
+      "line": "Я еще жив.",
+      "song": 210
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5390,
+    "fields": {
+      "line": "Никто не знает – вдруг качнется маятник,",
+      "song": 210
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5391,
+    "fields": {
+      "line": "Тем, кто спасет нас, мы поставим памятник,",
+      "song": 210
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5392,
+    "fields": {
+      "line": "Мы будем греться, вспоминать и грезить планами",
+      "song": 210
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5393,
+    "fields": {
+      "line": "В какую даль нам корабли отправить в плавание.",
+      "song": 210
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5394,
+    "fields": {
+      "line": "Я пью свой джин,",
+      "song": 210
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5395,
+    "fields": {
+      "line": "Я все еще жив,",
+      "song": 210
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5396,
+    "fields": {
+      "line": "Я пью свой джин,",
+      "song": 210
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5397,
+    "fields": {
+      "line": "Я еще жив.",
+      "song": 210
+    }
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "model": "line.line",
+    "pk": 4181,
+    "fields": {
+      "line": "Где-то в подземных недрах,",
+      "song": 169
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4182,
+    "fields": {
+      "line": "На краю света дрожит земля.",
+      "song": 169
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4183,
+    "fields": {
+      "line": "Бодро, за нотой нота идут аккорды.",
+      "song": 169
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4184,
+    "fields": {
+      "line": "Звучит симфония. Симфония.",
+      "song": 169
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4185,
+    "fields": {
+      "line": "Симфония. Симфония.",
+      "song": 169
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4186,
+    "fields": {
+      "line": "Кто мы? Бушуют штормы.",
+      "song": 169
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4187,
+    "fields": {
+      "line": "Грохочут громы и молния.",
+      "song": 169
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4188,
+    "fields": {
+      "line": "Ярко с нотного знака, с вчера до завтра.",
+      "song": 169
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4189,
+    "fields": {
+      "line": "Звучит симфония. Симфония.",
+      "song": 169
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4190,
+    "fields": {
+      "line": "Симфония. Симфония.",
+      "song": 169
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4191,
+    "fields": {
+      "line": "Симфония. Симфония.",
+      "song": 169
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4192,
+    "fields": {
+      "line": "Симфония. Симфония.",
+      "song": 169
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4193,
+    "fields": {
+      "line": "Тише. Она все выше.",
+      "song": 169
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4194,
+    "fields": {
+      "line": "Мы не услышим, не ты, не я.",
+      "song": 169
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4195,
+    "fields": {
+      "line": "Как тихо, в неспешных ритмах,",
+      "song": 169
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4196,
+    "fields": {
+      "line": "В финальных титрах",
+      "song": 169
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4197,
+    "fields": {
+      "line": "Звучит симфония. Симфония.",
+      "song": 169
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4198,
+    "fields": {
+      "line": "Симфония. Симфония.",
+      "song": 169
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4199,
+    "fields": {
+      "line": "Симфония. Симфония.",
+      "song": 169
+    }
+  }
+]

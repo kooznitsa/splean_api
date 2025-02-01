@@ -1,0 +1,418 @@
+[
+  {
+    "model": "line.line",
+    "pk": 599,
+    "fields": {
+      "line": "А по морям, да по волнам",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 600,
+    "fields": {
+      "line": "Сегодня - здесь, а завтра - там",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 601,
+    "fields": {
+      "line": "Я целый день плескаюсь в море",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 602,
+    "fields": {
+      "line": "Голой жопой к рыбакам",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 603,
+    "fields": {
+      "line": "Дурдома нет без дураков,",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 604,
+    "fields": {
+      "line": "Рыбалки нет рыбаков,",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 605,
+    "fields": {
+      "line": "А я рыба, а я рыба, а я рыба без трусов",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 606,
+    "fields": {
+      "line": "Па-рано-рано поутру",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 607,
+    "fields": {
+      "line": "Я корчу рожу осетру",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 608,
+    "fields": {
+      "line": "Его подруга всю неделю",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 609,
+    "fields": {
+      "line": "Мечет красную икру",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 610,
+    "fields": {
+      "line": "И у меня полно врагов",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 611,
+    "fields": {
+      "line": "Среди пузатых осетров",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 612,
+    "fields": {
+      "line": "А я рыба, а я рыба, а я рыба без трусов",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 613,
+    "fields": {
+      "line": "А я плыву, куда хочу",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 614,
+    "fields": {
+      "line": "И я пою, я не молчу",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 615,
+    "fields": {
+      "line": "И шар земной не сам кружится -",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 616,
+    "fields": {
+      "line": "Это я его верчу,",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 617,
+    "fields": {
+      "line": "Пускай волнуются моря,",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 618,
+    "fields": {
+      "line": "Покуда вертится земля,",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 619,
+    "fields": {
+      "line": "Я выплываю на поверхность,",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 620,
+    "fields": {
+      "line": "И вижу мачту корабля",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 621,
+    "fields": {
+      "line": "А я рыба без трусов, а я рыба без трусов,",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 622,
+    "fields": {
+      "line": "А я рыба, а я рыба, а я рыба без трусов",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 623,
+    "fields": {
+      "line": "Пускай волнуются моря,",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 624,
+    "fields": {
+      "line": "Покуда вертится земля,",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 625,
+    "fields": {
+      "line": "Я выплываю на поверхность,",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 626,
+    "fields": {
+      "line": "И вижу мачту корабля",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 627,
+    "fields": {
+      "line": "А на борту сидит пират,",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 628,
+    "fields": {
+      "line": "Он курит крепкий самосад",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 629,
+    "fields": {
+      "line": "Он и начальник контрразведки,",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 630,
+    "fields": {
+      "line": "И народный депутат",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 631,
+    "fields": {
+      "line": "Он может все, чего не можем мы,",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 632,
+    "fields": {
+      "line": "Пред ним трепещут все умы,",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 633,
+    "fields": {
+      "line": "Он может росчерком пера в июле вызвать",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 634,
+    "fields": {
+      "line": "Наступление зимы",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 635,
+    "fields": {
+      "line": "Спасет он кума от кумы,",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 636,
+    "fields": {
+      "line": "Отдаст бомжу свои штаны,",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 637,
+    "fields": {
+      "line": "И невиновного отпустит,",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 638,
+    "fields": {
+      "line": "Если надо, из тюрьмы",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 639,
+    "fields": {
+      "line": "Порой мне кажется, что я -",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 640,
+    "fields": {
+      "line": "Обыкновенная свинья",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 641,
+    "fields": {
+      "line": "Обыкновенная морская полосатая свинья",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 642,
+    "fields": {
+      "line": "Меня позволено пинать,",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 643,
+    "fields": {
+      "line": "Меня позволено сожрать,",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 644,
+    "fields": {
+      "line": "Но перед этим, перед этим",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 645,
+    "fields": {
+      "line": "Ты сумей меня поймать",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 646,
+    "fields": {
+      "line": "А я рыба без трусов, а я рыба без трусов,",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 647,
+    "fields": {
+      "line": "А я рыба, а я рыба, а я рыба без трусов",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 648,
+    "fields": {
+      "line": "А по морям, да по волнам,",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 649,
+    "fields": {
+      "line": "Сегодня - здесь, а завтра - там",
+      "song": 20
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 650,
+    "fields": {
+      "line": "А я рыба, а я рыба, а я рыба трам-пам-пам!",
+      "song": 20
+    }
+  }
+]

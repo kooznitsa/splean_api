@@ -1,0 +1,194 @@
+[
+  {
+    "model": "line.line",
+    "pk": 128,
+    "fields": {
+      "line": "Когда отыграет оркестр,",
+      "song": 6
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 129,
+    "fields": {
+      "line": "Расплавится медь, и умрет дирижер;",
+      "song": 6
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 130,
+    "fields": {
+      "line": "Когда подсудимый обманет конвой",
+      "song": 6
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 131,
+    "fields": {
+      "line": "И подпишет судье приговор;",
+      "song": 6
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 132,
+    "fields": {
+      "line": "Когда одряхлевшей старухе",
+      "song": 6
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 133,
+    "fields": {
+      "line": "Покажется ядом живая слеза,",
+      "song": 6
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 134,
+    "fields": {
+      "line": "Я знаю - прорвавшись сквозь синее небо",
+      "song": 6
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 135,
+    "fields": {
+      "line": "Над городом грянет гроза;",
+      "song": 6
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 136,
+    "fields": {
+      "line": "Я знаю, что будет война,",
+      "song": 6
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 137,
+    "fields": {
+      "line": "Потускнеют умы, разобьются сердца,",
+      "song": 6
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 138,
+    "fields": {
+      "line": "И девочка с пулей во лбу",
+      "song": 6
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 139,
+    "fields": {
+      "line": "Будет звонко смеяться над трупом отца,",
+      "song": 6
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 140,
+    "fields": {
+      "line": "Собаки сорвутся с цепей",
+      "song": 6
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 141,
+    "fields": {
+      "line": "И оставят хозяев по горло в крови,",
+      "song": 6
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 142,
+    "fields": {
+      "line": "Возьми, уходя, свои лучшие песни,",
+      "song": 6
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 143,
+    "fields": {
+      "line": "А все остальные порви,",
+      "song": 6
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 144,
+    "fields": {
+      "line": "Поверь - я рисую, что вижу,",
+      "song": 6
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 145,
+    "fields": {
+      "line": "Мне мил этот город, мне дорог народ,",
+      "song": 6
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 146,
+    "fields": {
+      "line": "Но тот, кто глядит на картины, кривит",
+      "song": 6
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 147,
+    "fields": {
+      "line": "Свой проклятьем изорванный рот,",
+      "song": 6
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 148,
+    "fields": {
+      "line": "И мне не дожить до грозы,",
+      "song": 6
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 149,
+    "fields": {
+      "line": "Так не лучше ль нож в сердце и грудью на ствол?",
+      "song": 6
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 150,
+    "fields": {
+      "line": "Я знаю, что это единственный способ",
+      "song": 6
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 151,
+    "fields": {
+      "line": "Взобраться на дыбу, минуя престол",
+      "song": 6
+    }
+  }
+]

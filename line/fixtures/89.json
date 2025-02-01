@@ -1,0 +1,98 @@
+[
+  {
+    "model": "line.line",
+    "pk": 2287,
+    "fields": {
+      "line": "Стала спокойнее вода",
+      "song": 89
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2288,
+    "fields": {
+      "line": "И незаметно солнце село",
+      "song": 89
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2289,
+    "fields": {
+      "line": "С неба упавшая в песок звезда",
+      "song": 89
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2290,
+    "fields": {
+      "line": "Зажглась, запела",
+      "song": 89
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2291,
+    "fields": {
+      "line": "На незнакомом языке",
+      "song": 89
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2292,
+    "fields": {
+      "line": "Но на прекрасные мотивы",
+      "song": 89
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2293,
+    "fields": {
+      "line": "Так и останемся лежать в песке",
+      "song": 89
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2294,
+    "fields": {
+      "line": "Юны, красивы",
+      "song": 89
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2295,
+    "fields": {
+      "line": "Так и останемся смотреть",
+      "song": 89
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2296,
+    "fields": {
+      "line": "На эти сказочные звезды",
+      "song": 89
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2297,
+    "fields": {
+      "line": "Друг друга греть, друг друга греть",
+      "song": 89
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2298,
+    "fields": {
+      "line": "Просто поздно",
+      "song": 89
+    }
+  }
+]

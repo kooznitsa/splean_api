@@ -1,0 +1,210 @@
+[
+  {
+    "model": "line.line",
+    "pk": 4200,
+    "fields": {
+      "line": "Напомни мне припев",
+      "song": 170
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4201,
+    "fields": {
+      "line": "Той песни, что крутилась в голове,",
+      "song": 170
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4202,
+    "fields": {
+      "line": "Той песни больше нет",
+      "song": 170
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4203,
+    "fields": {
+      "line": "И всюду льётся нефть,",
+      "song": 170
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4204,
+    "fields": {
+      "line": "Всюду льётся нефть,",
+      "song": 170
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4205,
+    "fields": {
+      "line": "Всюду нефть.",
+      "song": 170
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4206,
+    "fields": {
+      "line": "Напомни мне слова",
+      "song": 170
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4207,
+    "fields": {
+      "line": "Той песни, от которой кругом голова,",
+      "song": 170
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4208,
+    "fields": {
+      "line": "Той песни больше нет",
+      "song": 170
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4209,
+    "fields": {
+      "line": "И всюду льётся нефть,",
+      "song": 170
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4210,
+    "fields": {
+      "line": "Всюду льётся нефть,",
+      "song": 170
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4211,
+    "fields": {
+      "line": "Всюду нефть,",
+      "song": 170
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4212,
+    "fields": {
+      "line": "Всюду льётся нефть.",
+      "song": 170
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4213,
+    "fields": {
+      "line": "Нефть…",
+      "song": 170
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4214,
+    "fields": {
+      "line": "Ставьте на тройку, ставь на туза",
+      "song": 170
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4215,
+    "fields": {
+      "line": "И ставьте на цифру семь,",
+      "song": 170
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4216,
+    "fields": {
+      "line": "Нефти не хватит, нефти не хватит,",
+      "song": 170
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4217,
+    "fields": {
+      "line": "Нефти не хватит всем.",
+      "song": 170
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4218,
+    "fields": {
+      "line": "Ставьте на тройку, ставь на туза",
+      "song": 170
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4219,
+    "fields": {
+      "line": "И ставьте на цифру семь.",
+      "song": 170
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4220,
+    "fields": {
+      "line": "Нефти не хватит, нефти не хватит,",
+      "song": 170
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4221,
+    "fields": {
+      "line": "Нефти не хватит всем.",
+      "song": 170
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4222,
+    "fields": {
+      "line": "Нефти не хватит, нефти не хватит,",
+      "song": 170
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4223,
+    "fields": {
+      "line": "Нефти не хватит, нефти не хватит,",
+      "song": 170
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4224,
+    "fields": {
+      "line": "Нефти не хватит, нефти не хватит,",
+      "song": 170
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4225,
+    "fields": {
+      "line": "Нефти не хватит, нефти не хватит.",
+      "song": 170
+    }
+  }
+]

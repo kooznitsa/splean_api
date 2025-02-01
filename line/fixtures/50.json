@@ -1,0 +1,146 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1361,
+    "fields": {
+      "line": "Разломан на осколки разбит на лоскуты",
+      "song": 50
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1362,
+    "fields": {
+      "line": "Не пью и не курю до наступленья темноты",
+      "song": 50
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1363,
+    "fields": {
+      "line": "Лучше бы пил и курил.",
+      "song": 50
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1364,
+    "fields": {
+      "line": "Мой друг не пьёт и не курит",
+      "song": 50
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1365,
+    "fields": {
+      "line": "Лучше бы пил и курил",
+      "song": 50
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1366,
+    "fields": {
+      "line": "Держал бы дома что-нибудь такое",
+      "song": 50
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1367,
+    "fields": {
+      "line": "Я бы чаще к нему заходил",
+      "song": 50
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1368,
+    "fields": {
+      "line": "Лучше бы пил и курил.",
+      "song": 50
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1369,
+    "fields": {
+      "line": "Мой босс не пьёт и не курит",
+      "song": 50
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1370,
+    "fields": {
+      "line": "Лучше бы пил и курил",
+      "song": 50
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1371,
+    "fields": {
+      "line": "Куда-нибудь заунул свой проклятый немецкий",
+      "song": 50
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1372,
+    "fields": {
+      "line": "И по русски заговорил",
+      "song": 50
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1373,
+    "fields": {
+      "line": "Лучше бы пил и курил.",
+      "song": 50
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1374,
+    "fields": {
+      "line": "Мой пезидент не пьёт и не курит",
+      "song": 50
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1375,
+    "fields": {
+      "line": "Лучше бы пил и курил",
+      "song": 50
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1376,
+    "fields": {
+      "line": "Возмозможно от этого стало бы легче",
+      "song": 50
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1377,
+    "fields": {
+      "line": "Женщинам Южных Курилл.",
+      "song": 50
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1378,
+    "fields": {
+      "line": "Я не курил и не пил",
+      "song": 50
+    }
+  }
+]

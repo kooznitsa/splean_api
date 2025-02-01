@@ -1,0 +1,290 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1652,
+    "fields": {
+      "line": "Мы не знали друг друга до этого лета",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1653,
+    "fields": {
+      "line": "Мы болтались по свету, земле и воде",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1654,
+    "fields": {
+      "line": "И совершенно случайно мы взяли билеты",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1655,
+    "fields": {
+      "line": "На соседнее кресло на большой высоте",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1656,
+    "fields": {
+      "line": "Мое сердце остановилось,",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1657,
+    "fields": {
+      "line": "Мое сердце замерло,",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1658,
+    "fields": {
+      "line": "Мое сердце остановилось,",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1659,
+    "fields": {
+      "line": "Мое сердце замерло.",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1660,
+    "fields": {
+      "line": "И ровно тысячу лет мы просыпаемся вместе",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1661,
+    "fields": {
+      "line": "Даже если уснули в разных местах.",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1662,
+    "fields": {
+      "line": "Мы идём ставить кофе под Элвиса Пресли,",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1663,
+    "fields": {
+      "line": "Кофе сбежал под PropellerHeads, ах!",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1664,
+    "fields": {
+      "line": "Мое сердце остановилось,",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1665,
+    "fields": {
+      "line": "Мое сердце замерло,",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1666,
+    "fields": {
+      "line": "Мое сердце остановилось,",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1667,
+    "fields": {
+      "line": "Мое сердце замерло.",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1668,
+    "fields": {
+      "line": "И, может быть, ты не стала звездой в Голливуде",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1669,
+    "fields": {
+      "line": "Не выходишь на подиум в нижнем белье",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1670,
+    "fields": {
+      "line": "У тебя не берут автографы люди,",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1671,
+    "fields": {
+      "line": "И поёшь ты чуть тише, чем Монсерат Кобалье",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1672,
+    "fields": {
+      "line": "Ну так и я,слава Богу, не Ricky, не Martin,",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1673,
+    "fields": {
+      "line": "Не выдвигался на Оскар, французам не забивал",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1674,
+    "fields": {
+      "line": "Моим именем не назван город на карте,",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1675,
+    "fields": {
+      "line": "Но задёрнуты шторы и разложен диван",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1676,
+    "fields": {
+      "line": "Мое сердце остановилось,",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1677,
+    "fields": {
+      "line": "Мое сердце замерло,",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1678,
+    "fields": {
+      "line": "Мое сердце остановилось,",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1679,
+    "fields": {
+      "line": "Мое сердце замерло.",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1680,
+    "fields": {
+      "line": "Я наяву вижу то, что многим даже не снилось,",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1681,
+    "fields": {
+      "line": "Не являлось под кайфом, не стучалось в стекло.",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1682,
+    "fields": {
+      "line": "Моё сердце остановилось...",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1683,
+    "fields": {
+      "line": "Отдышалось немного...",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1684,
+    "fields": {
+      "line": "И снова пошло !!!",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1685,
+    "fields": {
+      "line": "И моё сердце остановилось, моё сердце замерло",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1686,
+    "fields": {
+      "line": "И моё сердце остановилось, моё сердце замерло",
+      "song": 63
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1687,
+    "fields": {
+      "line": "И моё сердце asta la vista, моё сердце замерло.",
+      "song": 63
+    }
+  }
+]

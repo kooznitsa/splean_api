@@ -1,0 +1,306 @@
+[
+  {
+    "model": "line.line",
+    "pk": 2994,
+    "fields": {
+      "line": "Что случилось с этим миром",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2995,
+    "fields": {
+      "line": "Или сдулся шар земной",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2996,
+    "fields": {
+      "line": "Всё переменилось мигом",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2997,
+    "fields": {
+      "line": "Всё случилось мирно",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2998,
+    "fields": {
+      "line": "Всё промчалось мимо",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2999,
+    "fields": {
+      "line": "Я иду домой",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3000,
+    "fields": {
+      "line": "Вниз головой",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3001,
+    "fields": {
+      "line": "Вниз головой",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3002,
+    "fields": {
+      "line": "Этот мир перевернулся",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3003,
+    "fields": {
+      "line": "Вниз головой",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3004,
+    "fields": {
+      "line": "И завис передо мной",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3005,
+    "fields": {
+      "line": "Вниз головой",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3006,
+    "fields": {
+      "line": "Вокруг света обернулся",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3007,
+    "fields": {
+      "line": "Вниз головой",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3008,
+    "fields": {
+      "line": "Убежал, вернулся",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3009,
+    "fields": {
+      "line": "Вниз головой",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3010,
+    "fields": {
+      "line": "Закричал, качнулся",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3011,
+    "fields": {
+      "line": "Вниз головой",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3012,
+    "fields": {
+      "line": "Я иду, я падаю, падаю, падаю",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3013,
+    "fields": {
+      "line": "Вниз головой",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3014,
+    "fields": {
+      "line": "Я падаю вниз головой",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3015,
+    "fields": {
+      "line": "Прощай навсегда шар земной,",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3016,
+    "fields": {
+      "line": "Но мы расстаёмся с тобой",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3017,
+    "fields": {
+      "line": "Со всей разноцветной листвой",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3018,
+    "fields": {
+      "line": "Я падаю вниз головой",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3019,
+    "fields": {
+      "line": "Со всей разноцветной листвой",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3020,
+    "fields": {
+      "line": "Прощай навсегда шар земной,",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3021,
+    "fields": {
+      "line": "Но мы расстаёмся с тобой",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3022,
+    "fields": {
+      "line": "Со всей разноцветной листвой",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3023,
+    "fields": {
+      "line": "Я падаю вниз головой.",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3024,
+    "fields": {
+      "line": "Ты, пожалуйста, не бойся,",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3025,
+    "fields": {
+      "line": "Так случается со мной",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3026,
+    "fields": {
+      "line": "Ни о чём не беспокойся,",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3027,
+    "fields": {
+      "line": "На замок закройся,",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3028,
+    "fields": {
+      "line": "С головой укройся",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3029,
+    "fields": {
+      "line": "Я иду домой",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3030,
+    "fields": {
+      "line": "Я иду домой",
+      "song": 121
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3031,
+    "fields": {
+      "line": "Я иду домой",
+      "song": 121
+    }
+  }
+]

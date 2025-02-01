@@ -1,0 +1,322 @@
+[
+  {
+    "model": "line.line",
+    "pk": 5230,
+    "fields": {
+      "line": "Как-то раз под вечер",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5231,
+    "fields": {
+      "line": "Вдруг поднялся ветер,",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5232,
+    "fields": {
+      "line": "Напугать нас чтобы",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5233,
+    "fields": {
+      "line": "Шевельнулись шторы.",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5234,
+    "fields": {
+      "line": "Плача и рыдая",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5235,
+    "fields": {
+      "line": "Дверь скрипит входная,",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5236,
+    "fields": {
+      "line": "Это явный признак –",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5237,
+    "fields": {
+      "line": "В нашем доме призрак.",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5238,
+    "fields": {
+      "line": "Призрак с кем-то в доле",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5239,
+    "fields": {
+      "line": "В расселенном доме,",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5240,
+    "fields": {
+      "line": "В шляпе и при шпаге",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5241,
+    "fields": {
+      "line": "В брошенной общаге.",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5242,
+    "fields": {
+      "line": "Призрак хмурит брови,",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5243,
+    "fields": {
+      "line": "Ходит по Европе,",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5244,
+    "fields": {
+      "line": "Прячется от света",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5245,
+    "fields": {
+      "line": "В кулуарах где-то.",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5246,
+    "fields": {
+      "line": "Призрак смотрит в вечность,",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5247,
+    "fields": {
+      "line": "Он меняет внешность,",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5248,
+    "fields": {
+      "line": "Подступает к горлу,",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5249,
+    "fields": {
+      "line": "Принимая форму,",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5250,
+    "fields": {
+      "line": "Он идет фантомом,",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5251,
+    "fields": {
+      "line": "Он летит фотоном.",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5252,
+    "fields": {
+      "line": "Это явный признак –",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5253,
+    "fields": {
+      "line": "В нашем доме призрак.",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5254,
+    "fields": {
+      "line": "Мы его ловили",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5255,
+    "fields": {
+      "line": "На ножи и вилы,",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5256,
+    "fields": {
+      "line": "Мы его хватали",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5257,
+    "fields": {
+      "line": "За обрывки ткани,",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5258,
+    "fields": {
+      "line": "Мы его прижали",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5259,
+    "fields": {
+      "line": "Между этажами,",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5260,
+    "fields": {
+      "line": "Вот он бьет копытом",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5261,
+    "fields": {
+      "line": "На полу за лифтом.",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5262,
+    "fields": {
+      "line": "Он хрипит и стонет,",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5263,
+    "fields": {
+      "line": "Жизнь чего-то стоит,",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5264,
+    "fields": {
+      "line": "Держит сыр ворона,",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5265,
+    "fields": {
+      "line": "Мяч летит в ворота,",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5266,
+    "fields": {
+      "line": "Лампочка мигает,",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5267,
+    "fields": {
+      "line": "Музыка играет,",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5268,
+    "fields": {
+      "line": "Это явный признак –",
+      "song": 207
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5269,
+    "fields": {
+      "line": "В нашем доме призрак.",
+      "song": 207
+    }
+  }
+]

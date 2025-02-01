@@ -1,0 +1,178 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1567,
+    "fields": {
+      "line": "Мы легли на дно",
+      "song": 60
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1568,
+    "fields": {
+      "line": "Мы зажгли огни",
+      "song": 60
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1569,
+    "fields": {
+      "line": "Во Вселенной только мы одни",
+      "song": 60
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1570,
+    "fields": {
+      "line": "Гни свою линию",
+      "song": 60
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1571,
+    "fields": {
+      "line": "Гни свою линию",
+      "song": 60
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1572,
+    "fields": {
+      "line": "Гни свою линию",
+      "song": 60
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1573,
+    "fields": {
+      "line": "Горят огни сверкают звезды",
+      "song": 60
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1574,
+    "fields": {
+      "line": "Все так сложно все так просто",
+      "song": 60
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1575,
+    "fields": {
+      "line": "Мы ушли в открытый Космос",
+      "song": 60
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1576,
+    "fields": {
+      "line": "В этом мире больше нечего ловить",
+      "song": 60
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1577,
+    "fields": {
+      "line": "А ты гни свою линию",
+      "song": 60
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1578,
+    "fields": {
+      "line": "(горят огни)",
+      "song": 60
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1579,
+    "fields": {
+      "line": "Гни свою линию",
+      "song": 60
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1580,
+    "fields": {
+      "line": "(горят огни)",
+      "song": 60
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1581,
+    "fields": {
+      "line": "Гни свою линию",
+      "song": 60
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1582,
+    "fields": {
+      "line": "Горят огни",
+      "song": 60
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1583,
+    "fields": {
+      "line": "Мы легли на дно",
+      "song": 60
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1584,
+    "fields": {
+      "line": "Мы зажгли огни",
+      "song": 60
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1585,
+    "fields": {
+      "line": "Во Вселенной только мы одни",
+      "song": 60
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1586,
+    "fields": {
+      "line": "Гни свою линию",
+      "song": 60
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1587,
+    "fields": {
+      "line": "Гни свою линию",
+      "song": 60
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1588,
+    "fields": {
+      "line": "Горят огни",
+      "song": 60
+    }
+  }
+]

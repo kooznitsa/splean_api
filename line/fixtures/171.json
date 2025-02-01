@@ -1,0 +1,194 @@
+[
+  {
+    "model": "line.line",
+    "pk": 4226,
+    "fields": {
+      "line": "Пуля летела прямо в лоб,",
+      "song": 171
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4227,
+    "fields": {
+      "line": "Голову прятать было влом.",
+      "song": 171
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4228,
+    "fields": {
+      "line": "Пуля людей бросает в жар,",
+      "song": 171
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4229,
+    "fields": {
+      "line": "Люди вокруг кричат: Пожар!",
+      "song": 171
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4230,
+    "fields": {
+      "line": "И в голове под вопли и визг.",
+      "song": 171
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4231,
+    "fields": {
+      "line": "Вдруг возникают тысячи искр,",
+      "song": 171
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4232,
+    "fields": {
+      "line": "Крутится быстро огненный шар",
+      "song": 171
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4233,
+    "fields": {
+      "line": "И в голове возникает пожар.",
+      "song": 171
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4234,
+    "fields": {
+      "line": "Пожар – это просто: раз, два, три.",
+      "song": 171
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4235,
+    "fields": {
+      "line": "Пожар – это где-то там внутри.",
+      "song": 171
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4236,
+    "fields": {
+      "line": "Пожар – это где-то там, где дым.",
+      "song": 171
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4237,
+    "fields": {
+      "line": "Пожар – это где- то там, где ты.",
+      "song": 171
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4238,
+    "fields": {
+      "line": "И в голове под вопли и визг",
+      "song": 171
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4239,
+    "fields": {
+      "line": "Вдруг возникают тысячи искр,",
+      "song": 171
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4240,
+    "fields": {
+      "line": "Смотрят внимательно тысячи глаз –",
+      "song": 171
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4241,
+    "fields": {
+      "line": "Скоро начнётся пожар: три, два, раз.",
+      "song": 171
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4242,
+    "fields": {
+      "line": "Крутится быстро огненный шар.",
+      "song": 171
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4243,
+    "fields": {
+      "line": "И в голове возникает пожар.",
+      "song": 171
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4244,
+    "fields": {
+      "line": "Пожар…",
+      "song": 171
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4245,
+    "fields": {
+      "line": "Пуля летела прямо в лоб,",
+      "song": 171
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4246,
+    "fields": {
+      "line": "Голову прятать было влом.",
+      "song": 171
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4247,
+    "fields": {
+      "line": "Пуля людей бросает в жар,",
+      "song": 171
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4248,
+    "fields": {
+      "line": "Люди вокруг кричат: Пожар!",
+      "song": 171
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4249,
+    "fields": {
+      "line": "Пожар.",
+      "song": 171
+    }
+  }
+]

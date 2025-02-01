@@ -1,0 +1,210 @@
+[
+  {
+    "model": "line.line",
+    "pk": 976,
+    "fields": {
+      "line": "Мой поезд едет в стамбул - это cool,",
+      "song": 33
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 977,
+    "fields": {
+      "line": "Hо денег нет на обед - это bad,",
+      "song": 33
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 978,
+    "fields": {
+      "line": "Кто мне покажет стpиптиз - тому kiss,",
+      "song": 33
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 979,
+    "fields": {
+      "line": "А кто покажет кулак - тому fuck!",
+      "song": 33
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 980,
+    "fields": {
+      "line": "Давай, лама, давай,",
+      "song": 33
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 981,
+    "fields": {
+      "line": "Давай, откpывай свой англо-pусский словаpь",
+      "song": 33
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 982,
+    "fields": {
+      "line": "Давай, лама, давай,",
+      "song": 33
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 983,
+    "fields": {
+      "line": "Давай, открывай свой англо-русский словарь",
+      "song": 33
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 984,
+    "fields": {
+      "line": "Когда повсюду ты свой - это joy,",
+      "song": 33
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 985,
+    "fields": {
+      "line": "Когда ты всюду один - это spleen,",
+      "song": 33
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 986,
+    "fields": {
+      "line": "Когда никто не звонит - это shit,",
+      "song": 33
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 987,
+    "fields": {
+      "line": "Когда вокруг все не так - это, это",
+      "song": 33
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 988,
+    "fields": {
+      "line": "Давай, лама, давай,",
+      "song": 33
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 989,
+    "fields": {
+      "line": "Давай, откpывай свой англо-pусский словаpь",
+      "song": 33
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 990,
+    "fields": {
+      "line": "Давай, лама, давай,",
+      "song": 33
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 991,
+    "fields": {
+      "line": "Давай, открывай свой англо-русский словарь",
+      "song": 33
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 992,
+    "fields": {
+      "line": "Кто ненавидит войну - тот в плену,",
+      "song": 33
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 993,
+    "fields": {
+      "line": "Из двух великих культур я хочу сделать одну ну-ну-ну-ну-ну",
+      "song": 33
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 994,
+    "fields": {
+      "line": "Когда вокруг все поют - это good,",
+      "song": 33
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 995,
+    "fields": {
+      "line": "Когда ботинки не жмут - это тоже good,",
+      "song": 33
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 996,
+    "fields": {
+      "line": "Когда румян каравай - это кайф,",
+      "song": 33
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 997,
+    "fields": {
+      "line": "Когда на улице май - это и есть наша life,",
+      "song": 33
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 998,
+    "fields": {
+      "line": "Давай, лама, давай,",
+      "song": 33
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 999,
+    "fields": {
+      "line": "Давай, откpывай свой англо-pусский словаpь",
+      "song": 33
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1000,
+    "fields": {
+      "line": "Давай, лама, давай,",
+      "song": 33
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1001,
+    "fields": {
+      "line": "Давай, открывай свой англо-русский словарь",
+      "song": 33
+    }
+  }
+]

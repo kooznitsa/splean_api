@@ -1,0 +1,170 @@
+[
+  {
+    "model": "line.line",
+    "pk": 4367,
+    "fields": {
+      "line": "И все умолкли голоса,",
+      "song": 175
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4368,
+    "fields": {
+      "line": "И закрываются глаза,",
+      "song": 175
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4369,
+    "fields": {
+      "line": "Все спят и даже солнце",
+      "song": 175
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4370,
+    "fields": {
+      "line": "Ночью тоже спит,",
+      "song": 175
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4371,
+    "fields": {
+      "line": "Над нами кружит ангел наш,",
+      "song": 175
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4372,
+    "fields": {
+      "line": "Нам всем мерещится мираж.",
+      "song": 175
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4373,
+    "fields": {
+      "line": "Одни пески кругом и тень от пирамид",
+      "song": 175
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4374,
+    "fields": {
+      "line": "Над нами кружит ангел наш.",
+      "song": 175
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4375,
+    "fields": {
+      "line": "Нам всем мерещится мираж,",
+      "song": 175
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4376,
+    "fields": {
+      "line": "Одни пески кругом и тень от пирамид.",
+      "song": 175
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4377,
+    "fields": {
+      "line": "Укрыты с головы до пят,",
+      "song": 175
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4378,
+    "fields": {
+      "line": "Все люди смотрят сны и спят,",
+      "song": 175
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4379,
+    "fields": {
+      "line": "А где-то солнце поднимается в зенит.",
+      "song": 175
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4380,
+    "fields": {
+      "line": "Над нами кружит ангел наш",
+      "song": 175
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4381,
+    "fields": {
+      "line": "Нам всем мерещится мираж.",
+      "song": 175
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4382,
+    "fields": {
+      "line": "Одни пески кругом и тень от пирамид.",
+      "song": 175
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4383,
+    "fields": {
+      "line": "Над нами кружит ангел наш.",
+      "song": 175
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4384,
+    "fields": {
+      "line": "Нам всем мерещится мираж.",
+      "song": 175
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4385,
+    "fields": {
+      "line": "Одни пески кругом и тень от пирамид,",
+      "song": 175
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4386,
+    "fields": {
+      "line": "Одни пески кругом и тень от пирамид,",
+      "song": 175
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4387,
+    "fields": {
+      "line": "Одни пески кругом и тень от пирамид.",
+      "song": 175
+    }
+  }
+]

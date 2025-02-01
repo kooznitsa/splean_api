@@ -6,6 +6,7 @@ DOCKER_PROFILE ?= main
 MANAGE = poetry run python manage.py
 DJANGOAPP ?= ''
 MGRNAME ?= ''
+FIXNAME ?= ''
 
 # -------------- DOCKER --------------
 
@@ -51,10 +52,23 @@ migrate:
 # -------------- DATABASE --------------
 
 # Loads fixture
-# FIXNAME options: albums, songs, lines. Example: make fixture FIXNAME=albums
+# FIXNAME options: albums, songs. Example: make fixture FIXNAME=albums
 .PHONY: fixture
 fixture:
 	$(DOCKER_EXEC) $(MANAGE) loaddata $(FIXNAME)
+
+.PHONY: fixture-lines
+fixture-lines:
+	for filename in $$(ls -v line/fixtures/); do \
+	  make fixture FIXNAME=$$filename; \
+	done
+
+# Loads all fixtures
+.PHONY: allfixtures
+allfixtures:
+	make fixture FIXNAME=albums
+	make fixture FIXNAME=songs
+	make fixture-lines
 
 
 # -------------- ELASTICSEARCH --------------

@@ -1,0 +1,98 @@
+[
+  {
+    "model": "line.line",
+    "pk": 801,
+    "fields": {
+      "line": "Никому не доверяй",
+      "song": 26
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 802,
+    "fields": {
+      "line": "Наших самых страшных тайн",
+      "song": 26
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 803,
+    "fields": {
+      "line": "Никому не говори, как мы умрем",
+      "song": 26
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 804,
+    "fields": {
+      "line": "В этой книге между строк",
+      "song": 26
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 805,
+    "fields": {
+      "line": "Спрятан настоящий бог,",
+      "song": 26
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 806,
+    "fields": {
+      "line": "Он смеется и любуется тобой",
+      "song": 26
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 807,
+    "fields": {
+      "line": "Ты красива, словно взмах",
+      "song": 26
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 808,
+    "fields": {
+      "line": "Волшебной палочки в руках",
+      "song": 26
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 809,
+    "fields": {
+      "line": "Незнакомки из забытого мной сна",
+      "song": 26
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 810,
+    "fields": {
+      "line": "Мы лежим на облаках,",
+      "song": 26
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 811,
+    "fields": {
+      "line": "А внизу бежит река,",
+      "song": 26
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 812,
+    "fields": {
+      "line": "Нам вернули наши пули все сполна",
+      "song": 26
+    }
+  }
+]

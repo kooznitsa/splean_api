@@ -1,0 +1,218 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1836,
+    "fields": {
+      "line": "Льются отвертки в глубокие глотки",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1837,
+    "fields": {
+      "line": "Разноцветные лампы хрустят под ногой",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1838,
+    "fields": {
+      "line": "Он пойдет проводить тебя до остановки",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1839,
+    "fields": {
+      "line": "Ты вернешься домой завтра утром",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1840,
+    "fields": {
+      "line": "Совсем другой",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1841,
+    "fields": {
+      "line": "Он расскажет тебе что нельзя, а что можно",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1842,
+    "fields": {
+      "line": "Если только ты знаешь, что такое нельзя",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1843,
+    "fields": {
+      "line": "Остановиться уже невозможно",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1844,
+    "fields": {
+      "line": "Ты вернешься домой",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1845,
+    "fields": {
+      "line": "Обнаружишь себя",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1846,
+    "fields": {
+      "line": "Совсем другой",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1847,
+    "fields": {
+      "line": "Совсем другой",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1848,
+    "fields": {
+      "line": "Совсем другой",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1849,
+    "fields": {
+      "line": "Другой",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1850,
+    "fields": {
+      "line": "Другой",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1851,
+    "fields": {
+      "line": "В этой истории пора ставить точку",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1852,
+    "fields": {
+      "line": "Но, в дверях изогнувшись трамвайной дугой,",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1853,
+    "fields": {
+      "line": "Сумасшедшая мама грызет свою дочку,",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1854,
+    "fields": {
+      "line": "За то что явилась под утро",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1855,
+    "fields": {
+      "line": "Совсем другой",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1856,
+    "fields": {
+      "line": "Значит все наяву, ничего не приснилось,",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1857,
+    "fields": {
+      "line": "Странная жизнь на гране зла и добра",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1858,
+    "fields": {
+      "line": "В этом мире хоть что-то наконец изменилось -",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1859,
+    "fields": {
+      "line": "Ты вернулась домой не такой как вчера",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1860,
+    "fields": {
+      "line": "А совсем другой",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1861,
+    "fields": {
+      "line": "Совсем другой",
+      "song": 69
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1862,
+    "fields": {
+      "line": "Совсем другой",
+      "song": 69
+    }
+  }
+]

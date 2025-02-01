@@ -1,0 +1,402 @@
+[
+  {
+    "model": "line.line",
+    "pk": 517,
+    "fields": {
+      "line": "Он пел, и строка его текла",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 518,
+    "fields": {
+      "line": "Печально, как черная река",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 519,
+    "fields": {
+      "line": "Звеня, рассыпались зеркала",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 520,
+    "fields": {
+      "line": "На лица и блики",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 521,
+    "fields": {
+      "line": "И время качало головой",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 522,
+    "fields": {
+      "line": "Летая задумчивой совой",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 523,
+    "fields": {
+      "line": "Над тем, кто нашел какой-то свой",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 524,
+    "fields": {
+      "line": "Путь в мудрые книги",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 525,
+    "fields": {
+      "line": "Огонь обжигал его уста",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 526,
+    "fields": {
+      "line": "Гитары сухая береста",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 527,
+    "fields": {
+      "line": "Пылала, и в запахе костра",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 528,
+    "fields": {
+      "line": "Мне слышались крики ...",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 529,
+    "fields": {
+      "line": "А ночь плавно уходила в степь",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 530,
+    "fields": {
+      "line": "С ней вместе уходила его тень",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 531,
+    "fields": {
+      "line": "Он сам отпустил ее - затем,",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 532,
+    "fields": {
+      "line": "Чтоб рук не вязала",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 533,
+    "fields": {
+      "line": "Слеза ожерелья янтаря",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 534,
+    "fields": {
+      "line": "Сверкала при свете фонаря,",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 535,
+    "fields": {
+      "line": "Как будто заря всходила для",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 536,
+    "fields": {
+      "line": "Притихшего зала",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 537,
+    "fields": {
+      "line": "Он пел, словно падала звезда,",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 538,
+    "fields": {
+      "line": "Он пел, словно шаг, и нет следа,",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 539,
+    "fields": {
+      "line": "Он пел, что никого и никогда",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 540,
+    "fields": {
+      "line": "Река не держала",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 541,
+    "fields": {
+      "line": "Жертва талого льда ...",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 542,
+    "fields": {
+      "line": "Движенье от братства до родства",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 543,
+    "fields": {
+      "line": "В преддверье Христова Рождества",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 544,
+    "fields": {
+      "line": "Цветы и руины торжества",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 545,
+    "fields": {
+      "line": "В декабрьской стуже",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 546,
+    "fields": {
+      "line": "И ноты сошлись в один узор",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 547,
+    "fields": {
+      "line": "И в полночь явился дирижер",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 548,
+    "fields": {
+      "line": "И все мы обратили ему взор",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 549,
+    "fields": {
+      "line": "И стали послушны",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 550,
+    "fields": {
+      "line": "Он пел - мы молились на него,",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 551,
+    "fields": {
+      "line": "Он пел - мы плевали на него,",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 552,
+    "fields": {
+      "line": "Он пел, и мы не знали никого,",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 553,
+    "fields": {
+      "line": "Кто был его лучше",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 554,
+    "fields": {
+      "line": "Жертва талого льда ...",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 555,
+    "fields": {
+      "line": "Сними пальцы с проводов и струн,",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 556,
+    "fields": {
+      "line": "Все песни расходятся к утру,",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 557,
+    "fields": {
+      "line": "Строка отлетает на ветру",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 558,
+    "fields": {
+      "line": "И меркнет в рассвете",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 559,
+    "fields": {
+      "line": "Тела, заплетенные в любви,",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 560,
+    "fields": {
+      "line": "Сорта драгоценнейших из вин",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 561,
+    "fields": {
+      "line": "Крестил сероглазый херувим",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 562,
+    "fields": {
+      "line": "Ударами плети",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 563,
+    "fields": {
+      "line": "Эй, вы, задержите Новый год,",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 564,
+    "fields": {
+      "line": "Часам указав обратный ход",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 565,
+    "fields": {
+      "line": "Он спел, спрыгнул с берега на лед",
+      "song": 18
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 566,
+    "fields": {
+      "line": "И стал незаметен ...",
+      "song": 18
+    }
+  }
+]

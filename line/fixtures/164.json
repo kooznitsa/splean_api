@@ -1,0 +1,330 @@
+[
+  {
+    "model": "line.line",
+    "pk": 4041,
+    "fields": {
+      "line": "Я буду краток, если что",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4042,
+    "fields": {
+      "line": "Землетрясение или шторм,",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4043,
+    "fields": {
+      "line": "Или цунами и весь мир вверх дном,",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4044,
+    "fields": {
+      "line": "Или смятение в головах –",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4045,
+    "fields": {
+      "line": "Я буду краток, в двух словах,",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4046,
+    "fields": {
+      "line": "Или вообще всего в одном.",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4047,
+    "fields": {
+      "line": "Или вообще не надо слов,",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4048,
+    "fields": {
+      "line": "И ветер дул поверх голов,",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4049,
+    "fields": {
+      "line": "И люди все склонили головы.",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4050,
+    "fields": {
+      "line": "Как-будто слов никто не знал,",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4051,
+    "fields": {
+      "line": "Оркестр музыку играл",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4052,
+    "fields": {
+      "line": "И разлетались голуби.",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4053,
+    "fields": {
+      "line": "Вот так, вот так,",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4054,
+    "fields": {
+      "line": "Вот так – оркестр играет в такт",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4055,
+    "fields": {
+      "line": "Вот так, вот так",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4056,
+    "fields": {
+      "line": "Вот так.",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4057,
+    "fields": {
+      "line": "Над домом развевался флаг,",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4058,
+    "fields": {
+      "line": "И в небе появился враг",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4059,
+    "fields": {
+      "line": "И ну – давай кружить над городом.",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4060,
+    "fields": {
+      "line": "Враги несли ему урон",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4061,
+    "fields": {
+      "line": "И, окружив, со всех сторон",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4062,
+    "fields": {
+      "line": "Морили город голодом.",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4063,
+    "fields": {
+      "line": "И город пальцы сжал перстом",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4064,
+    "fields": {
+      "line": "Перекрестил себя крестом,",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4065,
+    "fields": {
+      "line": "Чтоб на себе не дать поставить крест.",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4066,
+    "fields": {
+      "line": "Мой город сохранил лицо,",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4067,
+    "fields": {
+      "line": "Прорвал блокадное кольцо",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4068,
+    "fields": {
+      "line": "И вновь зовёт к себе оркестр.",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4069,
+    "fields": {
+      "line": "Пока ты мокнешь под дождём",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4070,
+    "fields": {
+      "line": "Сверкают молнии и гром,",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4071,
+    "fields": {
+      "line": "Пока ты сердцем не совсем остыл –",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4072,
+    "fields": {
+      "line": "Тебе так много предстоит,",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4073,
+    "fields": {
+      "line": "Но вот, смотри – прекрасный вид",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4074,
+    "fields": {
+      "line": "И новый дом, и сад, и сын.",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4075,
+    "fields": {
+      "line": "Среди совсем чужих земель",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4076,
+    "fields": {
+      "line": "С меня в момент слетает хмель,",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4077,
+    "fields": {
+      "line": "Слетает хмель на цифре тридцать семь.",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4078,
+    "fields": {
+      "line": "Теперь я знаю, что сказать:",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4079,
+    "fields": {
+      "line": "Вы остаётесь зимовать,",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4080,
+    "fields": {
+      "line": "Мы остаёмся насовсем",
+      "song": 164
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4081,
+    "fields": {
+      "line": "Оркестр играет сразу всем.",
+      "song": 164
+    }
+  }
+]

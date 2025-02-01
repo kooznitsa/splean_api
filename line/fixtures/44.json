@@ -1,0 +1,274 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1215,
+    "fields": {
+      "line": "Сколько лет прошло, все о том же",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1216,
+    "fields": {
+      "line": "Гудят провода,",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1217,
+    "fields": {
+      "line": "Все того же ждут самолеты",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1218,
+    "fields": {
+      "line": "Девочка с глазами из самого",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1219,
+    "fields": {
+      "line": "Синего льда",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1220,
+    "fields": {
+      "line": "Тает под огнем пулемета",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1221,
+    "fields": {
+      "line": "Должен же растаять хоть кто-то -",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1222,
+    "fields": {
+      "line": "Скоро рассвет, выхода нет",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1223,
+    "fields": {
+      "line": "Ключ поверни и полетели",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1224,
+    "fields": {
+      "line": "Нужно вписать",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1225,
+    "fields": {
+      "line": "В чью-то тетрадь",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1226,
+    "fields": {
+      "line": "Кровью, как в метрополитене:",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1227,
+    "fields": {
+      "line": "\"Выхода нет\"",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1228,
+    "fields": {
+      "line": "Выхода нет",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1229,
+    "fields": {
+      "line": "Где-то мы расстались, не помню",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1230,
+    "fields": {
+      "line": "В каких городах",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1231,
+    "fields": {
+      "line": "Словно это было похмелье",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1232,
+    "fields": {
+      "line": "Через мои песни идут",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1233,
+    "fields": {
+      "line": "Идут поезда",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1234,
+    "fields": {
+      "line": "Исчезая в темном тоннеле",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1235,
+    "fields": {
+      "line": "Лишь бы мы проснулись в одной постели",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1236,
+    "fields": {
+      "line": "Скоро рассвет, выхода нет",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1237,
+    "fields": {
+      "line": "Ключ поверни и полетели",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1238,
+    "fields": {
+      "line": "Нужно вписать",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1239,
+    "fields": {
+      "line": "В чью-то тетрадь",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1240,
+    "fields": {
+      "line": "Кровью, как в метрополитене:",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1241,
+    "fields": {
+      "line": "\"Выхода нет\"",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1242,
+    "fields": {
+      "line": "Выхода нет",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1243,
+    "fields": {
+      "line": "Сколько лет пройдет, все о том же",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1244,
+    "fields": {
+      "line": "Гудеть проводам",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1245,
+    "fields": {
+      "line": "Все того же ждать самолетам",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1246,
+    "fields": {
+      "line": "Девочка с глазами из самого синего льда",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1247,
+    "fields": {
+      "line": "Тает под огнем пулемета",
+      "song": 44
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1248,
+    "fields": {
+      "line": "Лишь бы мы проснулись с тобой в одной постели",
+      "song": 44
+    }
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "model": "line.line",
+    "pk": 4593,
+    "fields": {
+      "line": "Любая песня",
+      "song": 183
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4594,
+    "fields": {
+      "line": "Звучит как эпилог.",
+      "song": 183
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4595,
+    "fields": {
+      "line": "Прощайте, стены,",
+      "song": 183
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4596,
+    "fields": {
+      "line": "И пол, и потолок.",
+      "song": 183
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4597,
+    "fields": {
+      "line": "Когда ты здесь –",
+      "song": 183
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4598,
+    "fields": {
+      "line": "Земля уходит из-под ног.",
+      "song": 183
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4599,
+    "fields": {
+      "line": "Когда сквозь тело",
+      "song": 183
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4600,
+    "fields": {
+      "line": "Идёт смертельный ток,",
+      "song": 183
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4601,
+    "fields": {
+      "line": "Когда вся кожа –",
+      "song": 183
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4602,
+    "fields": {
+      "line": "Один сплошной ожог,",
+      "song": 183
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4603,
+    "fields": {
+      "line": "Когда ты здесь –",
+      "song": 183
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4604,
+    "fields": {
+      "line": "Земля уходит из-под ног.",
+      "song": 183
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4605,
+    "fields": {
+      "line": "Когда ты здесь со мной –",
+      "song": 183
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4606,
+    "fields": {
+      "line": "Земля уходит из-под ног.",
+      "song": 183
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4607,
+    "fields": {
+      "line": "Прощайте, стены,",
+      "song": 183
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4608,
+    "fields": {
+      "line": "И пол, и потолок.",
+      "song": 183
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4609,
+    "fields": {
+      "line": "Любая песня",
+      "song": 183
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4610,
+    "fields": {
+      "line": "Звучит как эпилог.",
+      "song": 183
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4611,
+    "fields": {
+      "line": "Когда ты здесь –",
+      "song": 183
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4612,
+    "fields": {
+      "line": "Земля уходит из-под ног.",
+      "song": 183
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4613,
+    "fields": {
+      "line": "Когда ты здесь со мной –",
+      "song": 183
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4614,
+    "fields": {
+      "line": "Земля уходит из-под ног.",
+      "song": 183
+    }
+  }
+]

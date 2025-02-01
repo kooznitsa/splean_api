@@ -1,0 +1,130 @@
+[
+  {
+    "model": "line.line",
+    "pk": 3620,
+    "fields": {
+      "line": "Волна бежит на этот берег,",
+      "song": 145
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3621,
+    "fields": {
+      "line": "Волна бежит и что-то бредит.",
+      "song": 145
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3622,
+    "fields": {
+      "line": "И звёзды падают за ворот,",
+      "song": 145
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3623,
+    "fields": {
+      "line": "И ковш на небе перевёрнут.",
+      "song": 145
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3624,
+    "fields": {
+      "line": "И в голове смешались мысли,",
+      "song": 145
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3625,
+    "fields": {
+      "line": "И босиком с бутылкой виски",
+      "song": 145
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3626,
+    "fields": {
+      "line": "Мы изучаем этот берег,",
+      "song": 145
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3627,
+    "fields": {
+      "line": "Волна бежит и что-то бредит.",
+      "song": 145
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3628,
+    "fields": {
+      "line": "Вокруг вода, песок и камни,",
+      "song": 145
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3629,
+    "fields": {
+      "line": "И время меряем глотками.",
+      "song": 145
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3630,
+    "fields": {
+      "line": "И всех вокруг как ветром сдуло,",
+      "song": 145
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3631,
+    "fields": {
+      "line": "Нас как магнитом притянуло.",
+      "song": 145
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3632,
+    "fields": {
+      "line": "Друг к другу и теперь на берег",
+      "song": 145
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3633,
+    "fields": {
+      "line": "Волна бежит и что-то бредит.",
+      "song": 145
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3634,
+    "fields": {
+      "line": "И звёзды падают за ворот.",
+      "song": 145
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3635,
+    "fields": {
+      "line": "И ковш на небе перевёрнут.",
+      "song": 145
+    }
+  }
+]

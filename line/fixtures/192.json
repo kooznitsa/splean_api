@@ -1,0 +1,210 @@
+[
+  {
+    "model": "line.line",
+    "pk": 4819,
+    "fields": {
+      "line": "Я выпил тоник, выпил джин,",
+      "song": 192
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4820,
+    "fields": {
+      "line": "Из бутылки вылез джинн,",
+      "song": 192
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4821,
+    "fields": {
+      "line": "Джинн был похожим на меня,",
+      "song": 192
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4822,
+    "fields": {
+      "line": "Меня и на его коня.",
+      "song": 192
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4823,
+    "fields": {
+      "line": "Он был король стеклянных тар,",
+      "song": 192
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4824,
+    "fields": {
+      "line": "Он был ковбой, он был кентавр,",
+      "song": 192
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4825,
+    "fields": {
+      "line": "Он был магистр воздушных сфер,",
+      "song": 192
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4826,
+    "fields": {
+      "line": "Он был колдун и люцифер.",
+      "song": 192
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4827,
+    "fields": {
+      "line": "Я выпил тоник, выпил джин,",
+      "song": 192
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4828,
+    "fields": {
+      "line": "Джинн стал как Моррисон, как Джим,",
+      "song": 192
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4829,
+    "fields": {
+      "line": "Джинн захмелел и окосел",
+      "song": 192
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4830,
+    "fields": {
+      "line": "И всем нам на голову сел.",
+      "song": 192
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4831,
+    "fields": {
+      "line": "И тут такое началось,",
+      "song": 192
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4832,
+    "fields": {
+      "line": "С цепи сорвалась, сорвалось,",
+      "song": 192
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4833,
+    "fields": {
+      "line": "Ломая правила игры,",
+      "song": 192
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4834,
+    "fields": {
+      "line": "Летело в тар-тар-тарары.",
+      "song": 192
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4835,
+    "fields": {
+      "line": "Я выпил тоник, выпил джин,",
+      "song": 192
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4836,
+    "fields": {
+      "line": "Куда-то испарился джинн,",
+      "song": 192
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4837,
+    "fields": {
+      "line": "Исчезло все, что я постиг,",
+      "song": 192
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4838,
+    "fields": {
+      "line": "А ты кричала: «Еретик!»",
+      "song": 192
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4839,
+    "fields": {
+      "line": "В меня пускала сотни стрел",
+      "song": 192
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4840,
+    "fields": {
+      "line": "И сжечь хотела на костре.",
+      "song": 192
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4841,
+    "fields": {
+      "line": "Я так и знал, что ты моя",
+      "song": 192
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4842,
+    "fields": {
+      "line": "Инквизиция испанская.",
+      "song": 192
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4843,
+    "fields": {
+      "line": "Ты моя, ты моя",
+      "song": 192
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4844,
+    "fields": {
+      "line": "Инквизиция испанская.",
+      "song": 192
+    }
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "model": "line.line",
+    "pk": 2435,
+    "fields": {
+      "line": "Мелькнула тень поздней ночью",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2436,
+    "fields": {
+      "line": "Через цепочку щелкнул замок",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2437,
+    "fields": {
+      "line": "Скользнула вниз по перилам",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2438,
+    "fields": {
+      "line": "Двери открыла и за порог",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2439,
+    "fields": {
+      "line": "Мелькнула возле подъезда",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2440,
+    "fields": {
+      "line": "Сразу исчезла и появилась вновь",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2441,
+    "fields": {
+      "line": "Из арки дома напротив",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2442,
+    "fields": {
+      "line": "Из подворотен, из проходных дворов",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2443,
+    "fields": {
+      "line": "Мелькнула чья-то тень...",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2444,
+    "fields": {
+      "line": "И по сигналу мгновенно",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2445,
+    "fields": {
+      "line": "Воет сирена, орет офицер",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2446,
+    "fields": {
+      "line": "В кого-то снайпер нацелен",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2447,
+    "fields": {
+      "line": "Центр оцеплен, город в кольце",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2448,
+    "fields": {
+      "line": "Ни одного отпечатка",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2449,
+    "fields": {
+      "line": "Лает овчарка, вспышка слепит глаза",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2450,
+    "fields": {
+      "line": "Летят в эфир позывные",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2451,
+    "fields": {
+      "line": "Нервные злые взвизгнули тормоза",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2452,
+    "fields": {
+      "line": "Мелькнула чья-то тень...",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2453,
+    "fields": {
+      "line": "Мелькнула тень и пропала",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2454,
+    "fields": {
+      "line": "Возле вокзала рядом с метро",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2455,
+    "fields": {
+      "line": "В отдельно взятой квартире",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2456,
+    "fields": {
+      "line": "В кинокартине, в черном пальто",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2457,
+    "fields": {
+      "line": "Мелькнула тень в переходе",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2458,
+    "fields": {
+      "line": "В дней хороводе, в брошеном здании",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2459,
+    "fields": {
+      "line": "Назад которые сутки",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2460,
+    "fields": {
+      "line": "В чьем-то рассудке, в чьем-то сознании",
+      "song": 100
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2461,
+    "fields": {
+      "line": "Мелькнула чья-то тень...",
+      "song": 100
+    }
+  }
+]

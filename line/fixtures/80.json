@@ -1,0 +1,162 @@
+[
+  {
+    "model": "line.line",
+    "pk": 2088,
+    "fields": {
+      "line": "(Это озеро легче выпить, чем переплыть.)",
+      "song": 80
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2089,
+    "fields": {
+      "line": "Час до грозы.",
+      "song": 80
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2090,
+    "fields": {
+      "line": "Жестяная банка висит на крючке у причала.",
+      "song": 80
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2091,
+    "fields": {
+      "line": "На каждой волне раздается ответное дзынь\".",
+      "song": 80
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2092,
+    "fields": {
+      "line": "Укачало.",
+      "song": 80
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2093,
+    "fields": {
+      "line": "В любом старике узнаешь Лао-Цзы.",
+      "song": 80
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2094,
+    "fields": {
+      "line": "Это только начало.",
+      "song": 80
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2095,
+    "fields": {
+      "line": "Дальше будут сюрпризы. Дальше будут призы",
+      "song": 80
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2096,
+    "fields": {
+      "line": "в виде бешеных капель. Быстрей налегая",
+      "song": 80
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2097,
+    "fields": {
+      "line": "на весла, быстрее сбиваешься с курса, - и вдруг",
+      "song": 80
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2098,
+    "fields": {
+      "line": "обнаруживаешь себя где-то на середине Валдая.",
+      "song": 80
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2099,
+    "fields": {
+      "line": "Глюк.",
+      "song": 80
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2100,
+    "fields": {
+      "line": "Мы вернемся. Останется озеро. Колеса",
+      "song": 80
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2101,
+    "fields": {
+      "line": "глотая изгибается шоссе,",
+      "song": 80
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2102,
+    "fields": {
+      "line": "из восклицательного превращаясь в знак вопроса,",
+      "song": 80
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2103,
+    "fields": {
+      "line": "в цифру семь.",
+      "song": 80
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2104,
+    "fields": {
+      "line": "Осень.",
+      "song": 80
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2105,
+    "fields": {
+      "line": "Мы вернемся.",
+      "song": 80
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2106,
+    "fields": {
+      "line": "Мы вернемся.",
+      "song": 80
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2107,
+    "fields": {
+      "line": "Мы вернемся.",
+      "song": 80
+    }
+  }
+]

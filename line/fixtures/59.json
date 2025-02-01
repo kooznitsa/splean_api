@@ -1,0 +1,234 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1538,
+    "fields": {
+      "line": "Я помню только комнату и стол",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1539,
+    "fields": {
+      "line": "И жёлтый свет над ним",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1540,
+    "fields": {
+      "line": "Я помню как разбился на куски",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1541,
+    "fields": {
+      "line": "Твой глиняный кувшин",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1542,
+    "fields": {
+      "line": "Не спеши",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1543,
+    "fields": {
+      "line": "Нам остаётся сделать ход",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1544,
+    "fields": {
+      "line": "На линию вперёд",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1545,
+    "fields": {
+      "line": "И нам помогут молоко и мёд",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1546,
+    "fields": {
+      "line": "Молоко и мёд",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1547,
+    "fields": {
+      "line": "От неба до последних этажей",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1548,
+    "fields": {
+      "line": "Совсем подать рукой",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1549,
+    "fields": {
+      "line": "Тебе давным-давно пора забыть",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1550,
+    "fields": {
+      "line": "О том кто я такой",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1551,
+    "fields": {
+      "line": "Но постой",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1552,
+    "fields": {
+      "line": "Ты не бросай стихи в огонь",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1553,
+    "fields": {
+      "line": "Огонь их не возьмёт",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1554,
+    "fields": {
+      "line": "Тебя согреют молоко и мёд",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1555,
+    "fields": {
+      "line": "Молоко и мёд",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1556,
+    "fields": {
+      "line": "Я помню только комнату и стол",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1557,
+    "fields": {
+      "line": "И ключ дрожит в руке",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1558,
+    "fields": {
+      "line": "Как будто я опять забыл зажечь",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1559,
+    "fields": {
+      "line": "Фонарь на маяке",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1560,
+    "fields": {
+      "line": "Вдалеке",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1561,
+    "fields": {
+      "line": "Уже сигналят корабли",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1562,
+    "fields": {
+      "line": "Весна растопит лёд",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1563,
+    "fields": {
+      "line": "И к нам вернутся молоко и мёд",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1564,
+    "fields": {
+      "line": "И нас согреют молоко и мёд",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1565,
+    "fields": {
+      "line": "И нам помогут молоко и мёд",
+      "song": 59
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1566,
+    "fields": {
+      "line": "Молоко и мёд",
+      "song": 59
+    }
+  }
+]

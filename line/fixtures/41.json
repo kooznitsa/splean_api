@@ -1,0 +1,226 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1134,
+    "fields": {
+      "line": "Что за день понедельник - сплошной динамит",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1135,
+    "fields": {
+      "line": "Словно я из железа а где-то магнит",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1136,
+    "fields": {
+      "line": "Новый день - новый трип",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1137,
+    "fields": {
+      "line": "Каждый день - новый трип",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1138,
+    "fields": {
+      "line": "Люся Сидит Дома",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1139,
+    "fields": {
+      "line": "Люся Сидит Дома",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1140,
+    "fields": {
+      "line": "Люся Сидит Дома",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1141,
+    "fields": {
+      "line": "Переводит доллары на рубли",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1142,
+    "fields": {
+      "line": "Состоянье такое лень двинуть ногой",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1143,
+    "fields": {
+      "line": "Пусть в небе с алмазами кто-то другой",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1144,
+    "fields": {
+      "line": "Непечатное слово",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1145,
+    "fields": {
+      "line": "Здесь непечатное слово",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1146,
+    "fields": {
+      "line": "Люся Сидит Дома",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1147,
+    "fields": {
+      "line": "Люся Сидит Дома",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1148,
+    "fields": {
+      "line": "Люся Сидит Дома",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1149,
+    "fields": {
+      "line": "Переводит доллары на рубли",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1150,
+    "fields": {
+      "line": "Мой путь известен котам и кандидатам наук",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1151,
+    "fields": {
+      "line": "С самолетного трапа в открытый люк",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1152,
+    "fields": {
+      "line": "Мимо банок с вареньем",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1153,
+    "fields": {
+      "line": "Очень вкусным вареньем",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1154,
+    "fields": {
+      "line": "Люся Сидит Дома",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1155,
+    "fields": {
+      "line": "Люся Сидит Дома",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1156,
+    "fields": {
+      "line": "Люся Сидит Дома",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1157,
+    "fields": {
+      "line": "Переводит доллары на ...",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1158,
+    "fields": {
+      "line": "Люся Сидит Дома",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1159,
+    "fields": {
+      "line": "Люся Сидит Дома",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1160,
+    "fields": {
+      "line": "Люся Сидит Дома",
+      "song": 41
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1161,
+    "fields": {
+      "line": "Переводит доллары на рубли",
+      "song": 41
+    }
+  }
+]

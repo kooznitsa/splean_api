@@ -1,0 +1,290 @@
+[
+  {
+    "model": "line.line",
+    "pk": 5522,
+    "fields": {
+      "line": "Так неожиданно очень",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5523,
+    "fields": {
+      "line": "Вот она – поздняя осень.",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5524,
+    "fields": {
+      "line": "Стали туманы над полем,",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5525,
+    "fields": {
+      "line": "Слышится звон колоколен.",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5526,
+    "fields": {
+      "line": "Небо без туч и без молний,",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5527,
+    "fields": {
+      "line": "Лес опустевший, безмолвный,",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5528,
+    "fields": {
+      "line": "Тонкие льдины на лужах,",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5529,
+    "fields": {
+      "line": "Так начинается фильм ужасов.",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5530,
+    "fields": {
+      "line": "Так начинается фильм ужасов,",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5531,
+    "fields": {
+      "line": "Так начинается фильм…",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5532,
+    "fields": {
+      "line": "Не находя себе места",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5533,
+    "fields": {
+      "line": "Белая ходит невеста,",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5534,
+    "fields": {
+      "line": "Словно в романе прочтенном,",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5535,
+    "fields": {
+      "line": "Видит себя только в черном,",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5536,
+    "fields": {
+      "line": "Словно в тени, за колонной,",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5537,
+    "fields": {
+      "line": "Спрятан оркестр похоронный,",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5538,
+    "fields": {
+      "line": "Вот вам и праздничный ужин –",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5539,
+    "fields": {
+      "line": "Так начинается фильм ужасов.",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5540,
+    "fields": {
+      "line": "Так начинается фильм ужасов,",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5541,
+    "fields": {
+      "line": "Так начинается фильм ужасов,",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5542,
+    "fields": {
+      "line": "Так начинается фильм ужасов,",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5543,
+    "fields": {
+      "line": "Так начинается фильм…",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5544,
+    "fields": {
+      "line": "Под разноцветные залпы",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5545,
+    "fields": {
+      "line": "Мы убежим с этой свадьбы,",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5546,
+    "fields": {
+      "line": "Никто не выяснит – где ты,",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5547,
+    "fields": {
+      "line": "Станут венками букеты,",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5548,
+    "fields": {
+      "line": "Гости в смертельных агониях,",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5549,
+    "fields": {
+      "line": "Кровь закипает в ладонях,",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5550,
+    "fields": {
+      "line": "Выйдем отсюда наружу –",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5551,
+    "fields": {
+      "line": "Так начинается фильм ужасов.",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5552,
+    "fields": {
+      "line": "Так начинается фильм ужасов,",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5553,
+    "fields": {
+      "line": "Так начинается фильм ужасов,",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5554,
+    "fields": {
+      "line": "Так начинается фильм ужасов,",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5555,
+    "fields": {
+      "line": "Так начинается фильм ужасов.",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5556,
+    "fields": {
+      "line": "Так начинается фильм ужасов,",
+      "song": 215
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5557,
+    "fields": {
+      "line": "Так начинается фильм…",
+      "song": 215
+    }
+  }
+]

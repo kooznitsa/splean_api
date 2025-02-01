@@ -1,0 +1,186 @@
+[
+  {
+    "model": "line.line",
+    "pk": 4388,
+    "fields": {
+      "line": "Долго ли нам ещё,",
+      "song": 176
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4389,
+    "fields": {
+      "line": "Долго ли нам, скажи на милость.",
+      "song": 176
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4390,
+    "fields": {
+      "line": "Долго ли нам ещё?",
+      "song": 176
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4391,
+    "fields": {
+      "line": "Долго ли нам ещё,",
+      "song": 176
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4392,
+    "fields": {
+      "line": "Долго ли нам ещё,",
+      "song": 176
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4393,
+    "fields": {
+      "line": "Нам, мудрецам, такого и не снилось.",
+      "song": 176
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4394,
+    "fields": {
+      "line": "Много ли нам ещё,",
+      "song": 176
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4395,
+    "fields": {
+      "line": "Много ли нам, скажи на милость,",
+      "song": 176
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4396,
+    "fields": {
+      "line": "Много ли нам ещё?",
+      "song": 176
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4397,
+    "fields": {
+      "line": "Много ли нам ещё,.",
+      "song": 176
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4398,
+    "fields": {
+      "line": "Много ли нам ещё,",
+      "song": 176
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4399,
+    "fields": {
+      "line": "Нам, мудрецам, такого и не снилось.",
+      "song": 176
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4400,
+    "fields": {
+      "line": "И все подсвечены дома,",
+      "song": 176
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4401,
+    "fields": {
+      "line": "И все украшены деревья,",
+      "song": 176
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4402,
+    "fields": {
+      "line": "И будут гости пить до дна",
+      "song": 176
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4403,
+    "fields": {
+      "line": "За всех за нас, за Новый год, за Рождество, за Воскресение,",
+      "song": 176
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4404,
+    "fields": {
+      "line": "За то, что жизнь всего одна.",
+      "song": 176
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4405,
+    "fields": {
+      "line": "Будет ли нам ещё,",
+      "song": 176
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4406,
+    "fields": {
+      "line": "Будет ли нам, скажи на милость,",
+      "song": 176
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4407,
+    "fields": {
+      "line": "Будет ли нам ещё?",
+      "song": 176
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4408,
+    "fields": {
+      "line": "Будет ли нам ещё,",
+      "song": 176
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4409,
+    "fields": {
+      "line": "Будет нам всем ещё,",
+      "song": 176
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4410,
+    "fields": {
+      "line": "Нам, мудрецам, такого и не снилось.",
+      "song": 176
+    }
+  }
+]
