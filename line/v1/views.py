@@ -3,7 +3,7 @@ import random
 from typing import Any
 
 from drf_spectacular.types import OpenApiTypes
-from drf_spectacular.utils import extend_schema, OpenApiParameter, OpenApiExample
+from drf_spectacular.utils import extend_schema, extend_schema_view, OpenApiParameter, OpenApiExample
 from rest_framework import status, viewsets
 from rest_framework.decorators import action
 from rest_framework.request import Request
@@ -18,6 +18,13 @@ from line.v1.serializers import LineSerializer
 info_logger = logging.getLogger('info_logger')
 
 
+@extend_schema(tags=['lines'])
+@extend_schema_view(
+    list=extend_schema(description='List all lines'),
+    retrieve=extend_schema(description='Get line by ID'),
+    by_word=extend_schema(description='Get lines containing word'),
+    random=extend_schema(description='Get random line'),
+)
 class LineViewSet(viewsets.ReadOnlyModelViewSet):
     serializer_class = LineSerializer
     document_class = LineDocument

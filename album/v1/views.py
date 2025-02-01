@@ -1,7 +1,7 @@
 from typing import Any
 
 from drf_spectacular.types import OpenApiTypes
-from drf_spectacular.utils import extend_schema, OpenApiParameter, OpenApiExample
+from drf_spectacular.utils import extend_schema, extend_schema_view, OpenApiParameter, OpenApiExample
 from rest_framework import status, viewsets
 from rest_framework.decorators import action
 from rest_framework.request import Request
@@ -14,6 +14,12 @@ from common.pagination import StandardPagination
 from common.serializers import MultiSerializerViewSet
 
 
+@extend_schema(tags=['albums'])
+@extend_schema_view(
+    list=extend_schema(description='List all albums'),
+    retrieve=extend_schema(description='Get album by ID'),
+    songs=extend_schema(description='Get album songs'),
+)
 class AlbumViewSet(MultiSerializerViewSet):
     serializer_class = AlbumSerializer
     model = serializer_class.Meta.model
