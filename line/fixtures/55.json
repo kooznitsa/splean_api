@@ -1,0 +1,122 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1461,
+    "fields": {
+      "line": "Куда держит путь мотоциклетная цепь",
+      "song": 55
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1462,
+    "fields": {
+      "line": "Бензиновым пятнам на мокром асфальте смешно",
+      "song": 55
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1463,
+    "fields": {
+      "line": "Время летит самолетом вперед",
+      "song": 55
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1464,
+    "fields": {
+      "line": "пароходом под лед",
+      "song": 55
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1465,
+    "fields": {
+      "line": "паровозом изо рта в рот",
+      "song": 55
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1466,
+    "fields": {
+      "line": "Этой ночью ты будешь такой же сладкой как мед",
+      "song": 55
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1467,
+    "fields": {
+      "line": "такой же сладкой как мед",
+      "song": 55
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1468,
+    "fields": {
+      "line": "такой же сладкой как мед",
+      "song": 55
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1469,
+    "fields": {
+      "line": "такой же сладкой как мед...",
+      "song": 55
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1470,
+    "fields": {
+      "line": "Из навигационных систем",
+      "song": 55
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1471,
+    "fields": {
+      "line": "Из перерезанных струн",
+      "song": 55
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1472,
+    "fields": {
+      "line": "Из растревоженных ульев",
+      "song": 55
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1473,
+    "fields": {
+      "line": "Мотоциклетная цепь",
+      "song": 55
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1474,
+    "fields": {
+      "line": "Ползет из тени на цвет",
+      "song": 55
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1475,
+    "fields": {
+      "line": "И вкус твоих поцелуев",
+      "song": 55
+    }
+  }
+]

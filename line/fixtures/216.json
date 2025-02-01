@@ -1,0 +1,298 @@
+[
+  {
+    "model": "line.line",
+    "pk": 5558,
+    "fields": {
+      "line": "Когда ты здесь, со мной,",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5559,
+    "fields": {
+      "line": "Когда ты пишешь номер мой,",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5560,
+    "fields": {
+      "line": "Когда ты пьешь и пьешь",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5561,
+    "fields": {
+      "line": "И вместе с музыкой поешь.",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5562,
+    "fields": {
+      "line": "Когда утихнет звон",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5563,
+    "fields": {
+      "line": "И я не буду заведен,",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5564,
+    "fields": {
+      "line": "Ты вся идешь на риск,",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5565,
+    "fields": {
+      "line": "Ты вся идешь на риск,",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5566,
+    "fields": {
+      "line": "Ты вся идешь на риск,",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5567,
+    "fields": {
+      "line": "Вернись и соберись!",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5568,
+    "fields": {
+      "line": "Ты вернись и соберись!",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5569,
+    "fields": {
+      "line": "Ты вернись и соберись!",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5570,
+    "fields": {
+      "line": "И стены все трясет,",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5571,
+    "fields": {
+      "line": "Ты ржешь, как тот чеширский кот.",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5572,
+    "fields": {
+      "line": "Все сходится в одно,",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5573,
+    "fields": {
+      "line": "Здесь, видно, так заведено.",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5574,
+    "fields": {
+      "line": "Когда под крик совы",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5575,
+    "fields": {
+      "line": "Все звери очень-очень злы",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5576,
+    "fields": {
+      "line": "И из-за сотни доз,",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5577,
+    "fields": {
+      "line": "И из-за сотни доз,",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5578,
+    "fields": {
+      "line": "И из-за сотни доз,",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5579,
+    "fields": {
+      "line": "Наступит коматоз.",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5580,
+    "fields": {
+      "line": "Вдруг наступит коматоз,",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5581,
+    "fields": {
+      "line": "Вдруг наступит коматоз.",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5582,
+    "fields": {
+      "line": "Ты убежишь и потеряешь жизнь,",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5583,
+    "fields": {
+      "line": "Ты убежишь и потеряешь жизнь,",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5584,
+    "fields": {
+      "line": "Ты вся дрожишь, не уходи, держись,",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5585,
+    "fields": {
+      "line": "Ты вся дрожишь, не уходи, держись.",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5586,
+    "fields": {
+      "line": "Ты убежишь и потеряешь жизнь,",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5587,
+    "fields": {
+      "line": "Ты убежишь и потеряешь жизнь",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5588,
+    "fields": {
+      "line": "В компьютерной игре.",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5589,
+    "fields": {
+      "line": "Жизнь в компьютерной игре,",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5590,
+    "fields": {
+      "line": "Жизнь в компьютерной игре.",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5591,
+    "fields": {
+      "line": "Гони, гони свои кошмары прочь,",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5592,
+    "fields": {
+      "line": "Гони, гони свои кошмары прочь,",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5593,
+    "fields": {
+      "line": "Гони, гони свои кошмары прочь,",
+      "song": 216
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5594,
+    "fields": {
+      "line": "Гони, гони свои кошмары прочь.",
+      "song": 216
+    }
+  }
+]

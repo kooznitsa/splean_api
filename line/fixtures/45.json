@@ -1,0 +1,154 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1249,
+    "fields": {
+      "line": "Нам осталось по чуть-чуть",
+      "song": 45
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1250,
+    "fields": {
+      "line": "Самых разных вин",
+      "song": 45
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1251,
+    "fields": {
+      "line": "Ты ведь будешь пить со мной",
+      "song": 45
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1252,
+    "fields": {
+      "line": "Я не пью один",
+      "song": 45
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1253,
+    "fields": {
+      "line": "Ночью хорошо вдвоем в постели",
+      "song": 45
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1254,
+    "fields": {
+      "line": "Пить Третьей мировой войны коктейли",
+      "song": 45
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1255,
+    "fields": {
+      "line": "Спрятан твой запретный плод где то далеко",
+      "song": 45
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1256,
+    "fields": {
+      "line": "Хочешь принесу тебе",
+      "song": 45
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1257,
+    "fields": {
+      "line": "Виски с молоком?",
+      "song": 45
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1258,
+    "fields": {
+      "line": "Ночью хорошо вдвоем в постели",
+      "song": 45
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1259,
+    "fields": {
+      "line": "Пить Третьей мировой войны коктейли",
+      "song": 45
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1260,
+    "fields": {
+      "line": "Коктейли третьей мировой",
+      "song": 45
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1261,
+    "fields": {
+      "line": "Полицейские огни -",
+      "song": 45
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1262,
+    "fields": {
+      "line": "Видимо не глюк",
+      "song": 45
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1263,
+    "fields": {
+      "line": "Ты не бойся если вдруг",
+      "song": 45
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1264,
+    "fields": {
+      "line": "В дверь раздасться стук",
+      "song": 45
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1265,
+    "fields": {
+      "line": "Ночью хорошо вдвоем в постели",
+      "song": 45
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1266,
+    "fields": {
+      "line": "Пить Третьей мировой войны коктейли",
+      "song": 45
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1267,
+    "fields": {
+      "line": "Коктейли третьей мировой",
+      "song": 45
+    }
+  }
+]

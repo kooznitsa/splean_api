@@ -1,0 +1,290 @@
+[
+  {
+    "model": "line.line",
+    "pk": 907,
+    "fields": {
+      "line": "Нет ничего смешнее алкоголя,",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 908,
+    "fields": {
+      "line": "Нет ничего противней огурца",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 909,
+    "fields": {
+      "line": "Я перепутал сахар с солью",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 910,
+    "fields": {
+      "line": "И стал похож на подлеца",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 911,
+    "fields": {
+      "line": "Никто не ждет, и дерево не греет,",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 912,
+    "fields": {
+      "line": "Собака спит, лишь тикают часы,",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 913,
+    "fields": {
+      "line": "Луну и беспредельность прерий",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 914,
+    "fields": {
+      "line": "Зачем ты бросил на весы",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 915,
+    "fields": {
+      "line": "Я - пассажир, мне дорога дорога,",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 916,
+    "fields": {
+      "line": "Я - космонавт, я - Курт, я - Воннегут,",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 917,
+    "fields": {
+      "line": "Я лягу пьяным у порога,",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 918,
+    "fields": {
+      "line": "Авось наутро подберут",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 919,
+    "fields": {
+      "line": "Нелегок путь от Питера до Мекки,",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 920,
+    "fields": {
+      "line": "Но я скрестил козла и паука,",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 921,
+    "fields": {
+      "line": "Я вижу в каждом человеке",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 922,
+    "fields": {
+      "line": "Тень своего ростовщика",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 923,
+    "fields": {
+      "line": "В кольце метро, в дыму у папиросы,",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 924,
+    "fields": {
+      "line": "В огнетушителе и в фильме без конца",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 925,
+    "fields": {
+      "line": "Я стал меднее купороса",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 926,
+    "fields": {
+      "line": "И перекошенней крыльца",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 927,
+    "fields": {
+      "line": "Я - альпинист, седьмой этаж без лифта,",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 928,
+    "fields": {
+      "line": "Где на дверях был профиль твой отлит",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 929,
+    "fields": {
+      "line": "Когда тебе мала поллитра,",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 930,
+    "fields": {
+      "line": "Добавь воды и сделай литр",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 931,
+    "fields": {
+      "line": "Когда тебе мала поллитра,",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 932,
+    "fields": {
+      "line": "Просто добавь воды",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 933,
+    "fields": {
+      "line": "Как хорошо два месяца не пить,",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 934,
+    "fields": {
+      "line": "Как хорошо любовью заниматься,",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 935,
+    "fields": {
+      "line": "Если с утра не закурить,",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 936,
+    "fields": {
+      "line": "То нафиг просыпаться",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 937,
+    "fields": {
+      "line": "Вот почему я не могу терпеть,",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 938,
+    "fields": {
+      "line": "Вот почему я пьяный без вина -",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 939,
+    "fields": {
+      "line": "Когда мы начинаем петь,",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 940,
+    "fields": {
+      "line": "Офигевает вся страна,",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 941,
+    "fields": {
+      "line": "Когда мы начинаем петь,",
+      "song": 31
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 942,
+    "fields": {
+      "line": "Нам подпевает вся страна",
+      "song": 31
+    }
+  }
+]

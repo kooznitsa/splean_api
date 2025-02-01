@@ -1,0 +1,170 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1493,
+    "fields": {
+      "line": "Мой друг алкоголь твердо знает чем дышит Есенин",
+      "song": 57
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1494,
+    "fields": {
+      "line": "Мой друг алкоголь искупал Брайна Джонса в бассейне",
+      "song": 57
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1495,
+    "fields": {
+      "line": "Алкоголь отпустил меня",
+      "song": 57
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1496,
+    "fields": {
+      "line": "Алкоголь не простил меня",
+      "song": 57
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1497,
+    "fields": {
+      "line": "Он вернется опять",
+      "song": 57
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1498,
+    "fields": {
+      "line": "Горло мне обжигать",
+      "song": 57
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1499,
+    "fields": {
+      "line": "Алкоголь, твою мать",
+      "song": 57
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1500,
+    "fields": {
+      "line": "Он пустил корни в теле моем, превратился в растение",
+      "song": 57
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1501,
+    "fields": {
+      "line": "В среду мы сели за стол , а теперь воскресение",
+      "song": 57
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1502,
+    "fields": {
+      "line": "Алкоголь отпустил меня",
+      "song": 57
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1503,
+    "fields": {
+      "line": "Алкоголь не простил меня",
+      "song": 57
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1504,
+    "fields": {
+      "line": "Он вернется опять",
+      "song": 57
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1505,
+    "fields": {
+      "line": "Горло мне обжигать",
+      "song": 57
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1506,
+    "fields": {
+      "line": "Алкоголь, твою мать",
+      "song": 57
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1507,
+    "fields": {
+      "line": "Кто то смеется в углу или только мне кажется",
+      "song": 57
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1508,
+    "fields": {
+      "line": "То, что вчера завязал завтра снова развяжется",
+      "song": 57
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1509,
+    "fields": {
+      "line": "Алкоголь отпустил меня",
+      "song": 57
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1510,
+    "fields": {
+      "line": "Алкоголь не простил меня",
+      "song": 57
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1511,
+    "fields": {
+      "line": "Он вернется опять",
+      "song": 57
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1512,
+    "fields": {
+      "line": "Горло мне обжигать",
+      "song": 57
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1513,
+    "fields": {
+      "line": "Алкоголь, твою мать",
+      "song": 57
+    }
+  }
+]

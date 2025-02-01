@@ -1,0 +1,266 @@
+[
+  {
+    "model": "line.line",
+    "pk": 3707,
+    "fields": {
+      "line": "В штормы и штили ангел на шпиле",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3708,
+    "fields": {
+      "line": "Сверху на нас глядит,",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3709,
+    "fields": {
+      "line": "Через все войны Невские волны",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3710,
+    "fields": {
+      "line": "Бьются башкой в гранит.",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3711,
+    "fields": {
+      "line": "Рвётся к победе",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3712,
+    "fields": {
+      "line": "Всадник из меди,",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3713,
+    "fields": {
+      "line": "Резко встал на дыбы.",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3714,
+    "fields": {
+      "line": "Мы остаёмся и не сдаёмся мы.",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3715,
+    "fields": {
+      "line": "В марте и мае город в тумане",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3716,
+    "fields": {
+      "line": "Сказочен и красив.",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3717,
+    "fields": {
+      "line": "Город восстанет вместе с мостами,",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3718,
+    "fields": {
+      "line": "Реки войдут в залив.",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3719,
+    "fields": {
+      "line": "Рвётся к победе",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3720,
+    "fields": {
+      "line": "Всадник из меди,",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3721,
+    "fields": {
+      "line": "Резко встал на дыбы.",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3722,
+    "fields": {
+      "line": "Мы остаёмся и не сдаёмся мы.",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3723,
+    "fields": {
+      "line": "Рвётся к победе",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3724,
+    "fields": {
+      "line": "Всадник из меди,",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3725,
+    "fields": {
+      "line": "Резко встал на дыбы.",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3726,
+    "fields": {
+      "line": "Мы остаёмся и не сдаёмся мы.",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3727,
+    "fields": {
+      "line": "Снежки и санки, дворцы и замки,",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3728,
+    "fields": {
+      "line": "Первый весенний лист.",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3729,
+    "fields": {
+      "line": "Город проснётся, сердце забьётся,",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3730,
+    "fields": {
+      "line": "Видно без всяких линз",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3731,
+    "fields": {
+      "line": "Сколько счастливых лиц...",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3732,
+    "fields": {
+      "line": "Рвётся к победе",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3733,
+    "fields": {
+      "line": "Всадник из меди,",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3734,
+    "fields": {
+      "line": "Резко встал на дыбы.",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3735,
+    "fields": {
+      "line": "Мы остаёмся и не сдаёмся мы.",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3736,
+    "fields": {
+      "line": "Рвётся к победе",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3737,
+    "fields": {
+      "line": "Всадник из меди,",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3738,
+    "fields": {
+      "line": "Резко встал на дыбы.",
+      "song": 149
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3739,
+    "fields": {
+      "line": "Мы остаёмся и не сдаёмся мы.",
+      "song": 149
+    }
+  }
+]

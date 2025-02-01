@@ -1,0 +1,266 @@
+[
+  {
+    "model": "line.line",
+    "pk": 838,
+    "fields": {
+      "line": "Зима укрыла сожженный город",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 839,
+    "fields": {
+      "line": "И мы уходим подземным ходом",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 840,
+    "fields": {
+      "line": "Туда, где снег и белей и чище,",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 841,
+    "fields": {
+      "line": "Туда, где время нас не отыщет",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 842,
+    "fields": {
+      "line": "И ты забудешь мой последний взгляд,",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 843,
+    "fields": {
+      "line": "Но через сотни лет должна узнать",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 844,
+    "fields": {
+      "line": "мой голос",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 845,
+    "fields": {
+      "line": "Мы будем петь и смеяться как дети,",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 846,
+    "fields": {
+      "line": "Мы похоронены на Невском проспекте",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 847,
+    "fields": {
+      "line": "А в жерновах не мука, но порох",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 848,
+    "fields": {
+      "line": "И этот порох взорвется скоро",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 849,
+    "fields": {
+      "line": "Ты нарисуешь круги на полу,",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 850,
+    "fields": {
+      "line": "Круги на потолке,",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 851,
+    "fields": {
+      "line": "Круги на стенах,",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 852,
+    "fields": {
+      "line": "Закроешь сына от взрыва телом",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 853,
+    "fields": {
+      "line": "И ты забудешь мой последний взгляд,",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 854,
+    "fields": {
+      "line": "Но через сотни лет должна узнать",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 855,
+    "fields": {
+      "line": "мой голос",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 856,
+    "fields": {
+      "line": "Мы будем петь и смеяться как дети,",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 857,
+    "fields": {
+      "line": "Мы похоронены на Невском проспекте",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 858,
+    "fields": {
+      "line": "Тебя ждет поезд на том вокзале",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 859,
+    "fields": {
+      "line": "Никто не ждет меня в Зазеркалье",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 860,
+    "fields": {
+      "line": "Меня уносят, ведут ко дну,",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 861,
+    "fields": {
+      "line": "Две рельсы, что сошлись в одну",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 862,
+    "fields": {
+      "line": "И ты забудешь мой последний взгляд,",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 863,
+    "fields": {
+      "line": "Но через сотни лет должна узнать",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 864,
+    "fields": {
+      "line": "мой голос",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 865,
+    "fields": {
+      "line": "Мы будем петь и смеяться как дети,",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 866,
+    "fields": {
+      "line": "Мы похоронены на Невском проспекте",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 867,
+    "fields": {
+      "line": "Мы будем петь и смеяться как дети,",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 868,
+    "fields": {
+      "line": "Мы будем трахаться на Невском проспекте",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 869,
+    "fields": {
+      "line": "Мы будем петь и смеяться как дети,",
+      "song": 28
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 870,
+    "fields": {
+      "line": "Мы будем трахаться на каждом проспекте",
+      "song": 28
+    }
+  }
+]

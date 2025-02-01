@@ -1,0 +1,258 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1183,
+    "fields": {
+      "line": "Те же знакомые люди,",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1184,
+    "fields": {
+      "line": "Все те же портреты на фоне",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1185,
+    "fields": {
+      "line": "А мне хочется новых прелюдий,",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1186,
+    "fields": {
+      "line": "Хочется новых симфоний",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1187,
+    "fields": {
+      "line": "Хочется выпить по 200",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1188,
+    "fields": {
+      "line": "С любым случайным прохожим,",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1189,
+    "fields": {
+      "line": "А в сводках последних известий",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1190,
+    "fields": {
+      "line": "Те же знакомые рожи",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1191,
+    "fields": {
+      "line": "А ты катись колесо, катись колесо,",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1192,
+    "fields": {
+      "line": "Катись отсюда, катись колесо",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1193,
+    "fields": {
+      "line": "Катись отсюда и все",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1194,
+    "fields": {
+      "line": "Знать бы, кто выдумал ноты",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1195,
+    "fields": {
+      "line": "Отыскать и набить ему морду",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1196,
+    "fields": {
+      "line": "Что выдумал мало созвучий,",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1197,
+    "fields": {
+      "line": "Выдумал мало аккордов",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1198,
+    "fields": {
+      "line": "Так мало кто-то балует",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1199,
+    "fields": {
+      "line": "Так мало, стрельба или драки,",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1200,
+    "fields": {
+      "line": "Ты закрой окошко мне дует",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1201,
+    "fields": {
+      "line": "Сам закрой , motherfucker",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1202,
+    "fields": {
+      "line": "А ты катись колесо, катись колесо,",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1203,
+    "fields": {
+      "line": "Катись отсюда, катись колесо",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1204,
+    "fields": {
+      "line": "Катись отсюда и все",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1205,
+    "fields": {
+      "line": "Диггер ты или ниггер",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1206,
+    "fields": {
+      "line": "Тинэйджер ты или пэйджер",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1207,
+    "fields": {
+      "line": "Рэйвер ты или плеер",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1208,
+    "fields": {
+      "line": "Мне давным-давно параллельно",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1209,
+    "fields": {
+      "line": "Мне все по-по-барабану, мне все по-по-пистолету",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1210,
+    "fields": {
+      "line": "Мне достаточно полстакана",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1211,
+    "fields": {
+      "line": "А тебе - одной таблетки",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1212,
+    "fields": {
+      "line": "А ты катись колесо, катись колесо,",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1213,
+    "fields": {
+      "line": "Катись отсюда, катись колесо",
+      "song": 43
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1214,
+    "fields": {
+      "line": "Катись отсюда и все",
+      "song": 43
+    }
+  }
+]

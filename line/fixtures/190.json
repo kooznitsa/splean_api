@@ -1,0 +1,194 @@
+[
+  {
+    "model": "line.line",
+    "pk": 4771,
+    "fields": {
+      "line": "Однажды ночью вдруг поднялся шторм",
+      "song": 190
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4772,
+    "fields": {
+      "line": "И сразу стих.",
+      "song": 190
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4773,
+    "fields": {
+      "line": "Однажды ночью мы увидим сон",
+      "song": 190
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4774,
+    "fields": {
+      "line": "О нас самих.",
+      "song": 190
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4775,
+    "fields": {
+      "line": "На утро весь мир иной,",
+      "song": 190
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4776,
+    "fields": {
+      "line": "Как-будто всё не со мной.",
+      "song": 190
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4777,
+    "fields": {
+      "line": "Как-будто шар земной по швам трещит",
+      "song": 190
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4778,
+    "fields": {
+      "line": "У полюсов.",
+      "song": 190
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4779,
+    "fields": {
+      "line": "Как-будто артиллерия палит",
+      "song": 190
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4780,
+    "fields": {
+      "line": "Из всех стволов.",
+      "song": 190
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4781,
+    "fields": {
+      "line": "На утро весь мир иной,",
+      "song": 190
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4782,
+    "fields": {
+      "line": "Как-будто всё не со мной.",
+      "song": 190
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4783,
+    "fields": {
+      "line": "На утро весь мир иной,",
+      "song": 190
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4784,
+    "fields": {
+      "line": "Все не со мной,",
+      "song": 190
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4785,
+    "fields": {
+      "line": "Весь мир иной,",
+      "song": 190
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4786,
+    "fields": {
+      "line": "Все не со мной…",
+      "song": 190
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4787,
+    "fields": {
+      "line": "Всё не со мной, весь этот странный мир",
+      "song": 190
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4788,
+    "fields": {
+      "line": "Идет войной.",
+      "song": 190
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4789,
+    "fields": {
+      "line": "Всё не со мной, горит на сотни миль",
+      "song": 190
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4790,
+    "fields": {
+      "line": "Весь шар земной.",
+      "song": 190
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4791,
+    "fields": {
+      "line": "Всё не со мной, остался только миг",
+      "song": 190
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4792,
+    "fields": {
+      "line": "С тобой одной.",
+      "song": 190
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4793,
+    "fields": {
+      "line": "На утро весь мир иной,",
+      "song": 190
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4794,
+    "fields": {
+      "line": "Как-будто всё не со мной.",
+      "song": 190
+    }
+  }
+]

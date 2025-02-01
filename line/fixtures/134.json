@@ -1,0 +1,178 @@
+[
+  {
+    "model": "line.line",
+    "pk": 3289,
+    "fields": {
+      "line": "На землю падает листва,",
+      "song": 134
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3290,
+    "fields": {
+      "line": "Звучат последние слова,",
+      "song": 134
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3291,
+    "fields": {
+      "line": "И вещи",
+      "song": 134
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3292,
+    "fields": {
+      "line": "Теряют смысл. В тот же миг",
+      "song": 134
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3293,
+    "fields": {
+      "line": "Мы покидаем этот мир –",
+      "song": 134
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3294,
+    "fields": {
+      "line": "До встречи!",
+      "song": 134
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3295,
+    "fields": {
+      "line": "Спасибо, мир, тебе за все –",
+      "song": 134
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3296,
+    "fields": {
+      "line": "За доброту, за хлеб, за соль,",
+      "song": 134
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3297,
+    "fields": {
+      "line": "За речи.",
+      "song": 134
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3298,
+    "fields": {
+      "line": "Мы этот мир благодарим",
+      "song": 134
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3299,
+    "fields": {
+      "line": "И, улыбаясь, говорим –",
+      "song": 134
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3300,
+    "fields": {
+      "line": "До встречи!",
+      "song": 134
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3301,
+    "fields": {
+      "line": "До встречи! Там, на небесах",
+      "song": 134
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3302,
+    "fields": {
+      "line": "Все приготовлено, и свет волшебный будет вечен",
+      "song": 134
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3303,
+    "fields": {
+      "line": "Как в наших самых сладких снах –",
+      "song": 134
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3304,
+    "fields": {
+      "line": "До встречи!",
+      "song": 134
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3305,
+    "fields": {
+      "line": "И никаких не будет дел",
+      "song": 134
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3306,
+    "fields": {
+      "line": "И будет утро, будет день,",
+      "song": 134
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3307,
+    "fields": {
+      "line": "И вечер.",
+      "song": 134
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3308,
+    "fields": {
+      "line": "Меня не надо провожать,",
+      "song": 134
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3309,
+    "fields": {
+      "line": "Мы не увидимся опять –",
+      "song": 134
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3310,
+    "fields": {
+      "line": "До встречи!",
+      "song": 134
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "model": "line.line",
+    "pk": 209,
+    "fields": {
+      "line": "Твое разбитое пенсне",
+      "song": 9
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 210,
+    "fields": {
+      "line": "Полощет глаз в стальной оправе",
+      "song": 9
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 211,
+    "fields": {
+      "line": "Живая ткань льняных волос",
+      "song": 9
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 212,
+    "fields": {
+      "line": "Играет с ветром, но без правил,",
+      "song": 9
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 213,
+    "fields": {
+      "line": "Вишневый плод запретных губ",
+      "song": 9
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 214,
+    "fields": {
+      "line": "Не перезреет, не сгниет,",
+      "song": 9
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 215,
+    "fields": {
+      "line": "Ты словно излучаешь свет,",
+      "song": 9
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 216,
+    "fields": {
+      "line": "Я напишу с тебя портрет,",
+      "song": 9
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 217,
+    "fields": {
+      "line": "И сдам рублей за восемьсот",
+      "song": 9
+    }
+  }
+]

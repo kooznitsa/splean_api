@@ -1,0 +1,226 @@
+[
+  {
+    "model": "line.line",
+    "pk": 3787,
+    "fields": {
+      "line": "В ту ночь не ждали новостей,",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3788,
+    "fields": {
+      "line": "В ту ночь был полон дом гостей",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3789,
+    "fields": {
+      "line": "И вдруг часы пробили полночь.",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3790,
+    "fields": {
+      "line": "И дом внезапно опустел,",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3791,
+    "fields": {
+      "line": "И веет холодом от стен,",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3792,
+    "fields": {
+      "line": "И некого позвать на помощь,",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3793,
+    "fields": {
+      "line": "И вдруг часы пробили полночь,",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3794,
+    "fields": {
+      "line": "И дом внезапно опустел.",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3795,
+    "fields": {
+      "line": "Среди полей, среди лесов,",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3796,
+    "fields": {
+      "line": "Среди растений и цветов,",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3797,
+    "fields": {
+      "line": "Среди камней и над рекою",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3798,
+    "fields": {
+      "line": "Стоит проклятый старый дом,",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3799,
+    "fields": {
+      "line": "В котором всё всегда вверх дном.",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3800,
+    "fields": {
+      "line": "И смотрит на меня с тоскою",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3801,
+    "fields": {
+      "line": "Среди камней и над рекою,",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3802,
+    "fields": {
+      "line": "Стоит проклятый старый дом,",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3803,
+    "fields": {
+      "line": "Старый дом, старый дом,",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3804,
+    "fields": {
+      "line": "Дом, старый дом.",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3805,
+    "fields": {
+      "line": "Среди болот, укрытый мхом,",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3806,
+    "fields": {
+      "line": "Стоит проклятый старый дом",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3807,
+    "fields": {
+      "line": "И ни во что уже не верит.",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3808,
+    "fields": {
+      "line": "Пройдёт немало долгих лет",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3809,
+    "fields": {
+      "line": "И вдруг внутри зажжётся свет,",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3810,
+    "fields": {
+      "line": "Со скрипом отворятся двери.",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3811,
+    "fields": {
+      "line": "Спасибо всем, кто в это верит.",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3812,
+    "fields": {
+      "line": "Стоит проклятый старый дом",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3813,
+    "fields": {
+      "line": "Старый дом, старый дом,",
+      "song": 151
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3814,
+    "fields": {
+      "line": "Дом, старый дом.",
+      "song": 151
+    }
+  }
+]

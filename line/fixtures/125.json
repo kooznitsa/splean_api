@@ -1,0 +1,90 @@
+[
+  {
+    "model": "line.line",
+    "pk": 3113,
+    "fields": {
+      "line": "Вдоль дорог лежал песок,",
+      "song": 125
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3114,
+    "fields": {
+      "line": "В никуда текла вода.",
+      "song": 125
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3115,
+    "fields": {
+      "line": "Шел три тысячи седьмой,",
+      "song": 125
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3116,
+    "fields": {
+      "line": "Шел три тысячи седьмой.",
+      "song": 125
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3117,
+    "fields": {
+      "line": "Я умер...",
+      "song": 125
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3118,
+    "fields": {
+      "line": "Из угла ползла игла,",
+      "song": 125
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3119,
+    "fields": {
+      "line": "На коралл летел корабль.",
+      "song": 125
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3120,
+    "fields": {
+      "line": "Шел три тысячи седьмой,",
+      "song": 125
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3121,
+    "fields": {
+      "line": "Шел три тысячи седьмой,",
+      "song": 125
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3122,
+    "fields": {
+      "line": "Шел три тысячи седьмой.",
+      "song": 125
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3123,
+    "fields": {
+      "line": "Я умер...",
+      "song": 125
+    }
+  }
+]

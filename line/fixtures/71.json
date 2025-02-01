@@ -1,0 +1,346 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1886,
+    "fields": {
+      "line": "Пой мне еще.",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1887,
+    "fields": {
+      "line": "Тихо",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1888,
+    "fields": {
+      "line": "В обратную сторону крутится магнитофон.",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1889,
+    "fields": {
+      "line": "В доме темно.",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1890,
+    "fields": {
+      "line": "Шорохи, скрипы",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1891,
+    "fields": {
+      "line": "Сводят с ума.",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1892,
+    "fields": {
+      "line": "Кончился день.",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1893,
+    "fields": {
+      "line": "Не имеют значения цифры.",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1894,
+    "fields": {
+      "line": "На лепестки рассыпался мак.",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1895,
+    "fields": {
+      "line": "Пой мне еще.",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1896,
+    "fields": {
+      "line": "Рано",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1897,
+    "fields": {
+      "line": "Заветную карту вытаскивать из",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1898,
+    "fields": {
+      "line": "рукава. Чайник кипит.",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1899,
+    "fields": {
+      "line": "Капля из крана",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1900,
+    "fields": {
+      "line": "Медленно-медленно-медленно",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1901,
+    "fields": {
+      "line": "Падает вниз.",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1902,
+    "fields": {
+      "line": "Голос дрожит",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1903,
+    "fields": {
+      "line": "Хлопнула дверь - это ветер.",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1904,
+    "fields": {
+      "line": "Держась за края,",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1905,
+    "fields": {
+      "line": "До размеров Вселенной",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1906,
+    "fields": {
+      "line": "Сужая зрачки",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1907,
+    "fields": {
+      "line": "На рубеже этих сумрачных тысячелетий",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1908,
+    "fields": {
+      "line": "По горло в воде",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1909,
+    "fields": {
+      "line": "На дрейфующей льдине ждут рыбаки.",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1910,
+    "fields": {
+      "line": "Ну так и пой мне еще.",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1911,
+    "fields": {
+      "line": "Что я могу изменить,",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1912,
+    "fields": {
+      "line": "направляемый собственной тенью,",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1913,
+    "fields": {
+      "line": "давным-давно предупрежденный о том,",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1914,
+    "fields": {
+      "line": "что начиная обратный отсчет",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1915,
+    "fields": {
+      "line": "любой, имеющий в доме ружье,",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1916,
+    "fields": {
+      "line": "приравнивается к Курту Кобейну",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1917,
+    "fields": {
+      "line": "любой, умеющий читать между строк,",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1918,
+    "fields": {
+      "line": "обречен иметь в доме ружье",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1919,
+    "fields": {
+      "line": "Пой мне еще.",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1920,
+    "fields": {
+      "line": "Я просто знаю",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1921,
+    "fields": {
+      "line": "Что в последний момент,",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1922,
+    "fields": {
+      "line": "Когда тебе никто не поверит",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1923,
+    "fields": {
+      "line": "Прохожий на остановке возьмет",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1924,
+    "fields": {
+      "line": "И укроет тебя под плащом",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1925,
+    "fields": {
+      "line": "Дома задрожат при появлении трамвая",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1926,
+    "fields": {
+      "line": "И когда откроются двери -",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1927,
+    "fields": {
+      "line": "Пой мне еще.",
+      "song": 71
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1928,
+    "fields": {
+      "line": "Пой мне еще.",
+      "song": 71
+    }
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1066,
+    "fields": {
+      "line": "Все таблетки подъедены",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1067,
+    "fields": {
+      "line": "Марки тоже наклеены",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1068,
+    "fields": {
+      "line": "Тишина в холодильнике",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1069,
+    "fields": {
+      "line": "Hа дачу смылись родители",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1070,
+    "fields": {
+      "line": "Она жует свой оpбит без сахара,",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1071,
+    "fields": {
+      "line": "И вспоминает всех, о ком плакала",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1072,
+    "fields": {
+      "line": "Она жует свой оpбит без сахара,",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1073,
+    "fields": {
+      "line": "И ненавидит всех о ком плакала",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1074,
+    "fields": {
+      "line": "Она жует свой оpбит без сахара,",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1075,
+    "fields": {
+      "line": "И вспоминает всех, о ком плакала",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1076,
+    "fields": {
+      "line": "Она жует свой оpбит без сахара,",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1077,
+    "fields": {
+      "line": "И ненавидит всех о ком плакала",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1078,
+    "fields": {
+      "line": "Автоответчик пишет послания",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1079,
+    "fields": {
+      "line": "CD поставлен на паузу",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1080,
+    "fields": {
+      "line": "Родригес будет жить еще долго",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1081,
+    "fields": {
+      "line": "А Duke Nukem должен умереть",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1082,
+    "fields": {
+      "line": "Она жует свой оpбит без сахара,",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1083,
+    "fields": {
+      "line": "И вспоминает всех, о ком плакала",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1084,
+    "fields": {
+      "line": "Она жует свой оpбит без сахара,",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1085,
+    "fields": {
+      "line": "И ненавидит всех о ком плакала",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1086,
+    "fields": {
+      "line": "Она ходила голой на лестницу",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1087,
+    "fields": {
+      "line": "Ходила голой на улицу",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1088,
+    "fields": {
+      "line": "Она хотела даже повеситься",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1089,
+    "fields": {
+      "line": "Hо институт, зкзамены, сессия",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1090,
+    "fields": {
+      "line": "Она жует свой оpбит без сахара,",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1091,
+    "fields": {
+      "line": "И вспоминает всех, о ком плакала",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1092,
+    "fields": {
+      "line": "Она жует свой оpбит без сахара,",
+      "song": 38
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1093,
+    "fields": {
+      "line": "И ненавидит всех о ком плакала",
+      "song": 38
+    }
+  }
+]

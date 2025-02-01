@@ -1,0 +1,194 @@
+[
+  {
+    "model": "line.line",
+    "pk": 2739,
+    "fields": {
+      "line": "Белый дымится рис,",
+      "song": 112
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2740,
+    "fields": {
+      "line": "Чей-то играет диск,",
+      "song": 112
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2741,
+    "fields": {
+      "line": "Сладок горячий чай,",
+      "song": 112
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2742,
+    "fields": {
+      "line": "Ярко горит свеча,",
+      "song": 112
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2743,
+    "fields": {
+      "line": "Ярко горит из всех окон,",
+      "song": 112
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2744,
+    "fields": {
+      "line": "Спит полутемный двор,",
+      "song": 112
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2745,
+    "fields": {
+      "line": "Вверх устремлен собор,",
+      "song": 112
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2746,
+    "fields": {
+      "line": "Что за прекрасный вид,",
+      "song": 112
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2747,
+    "fields": {
+      "line": "Колокол все звонит,",
+      "song": 112
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2748,
+    "fields": {
+      "line": "Колокол все звонит,",
+      "song": 112
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2749,
+    "fields": {
+      "line": "О ком? О ком?",
+      "song": 112
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2750,
+    "fields": {
+      "line": "О ком? О ком?",
+      "song": 112
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2751,
+    "fields": {
+      "line": "Быстро года пройдут",
+      "song": 112
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2752,
+    "fields": {
+      "line": "В час, когда все уснут",
+      "song": 112
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2753,
+    "fields": {
+      "line": "Остановив кино,",
+      "song": 112
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2754,
+    "fields": {
+      "line": "Ты распахнешь окно,",
+      "song": 112
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2755,
+    "fields": {
+      "line": "Ты отворишь окно тайком,",
+      "song": 112
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2756,
+    "fields": {
+      "line": "Тянется долго ночь,",
+      "song": 112
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2757,
+    "fields": {
+      "line": "Тихо - ни слов, ни нот.",
+      "song": 112
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2758,
+    "fields": {
+      "line": "Ярко луна горит,",
+      "song": 112
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2759,
+    "fields": {
+      "line": "Колокол все звонит,",
+      "song": 112
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2760,
+    "fields": {
+      "line": "Колокол все звонит,",
+      "song": 112
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2761,
+    "fields": {
+      "line": "О ком? О ком?",
+      "song": 112
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2762,
+    "fields": {
+      "line": "О ком? О ком?",
+      "song": 112
+    }
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "model": "line.line",
+    "pk": 4845,
+    "fields": {
+      "line": "Все волны улеглись, умолкли всплески",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4846,
+    "fields": {
+      "line": "И спрятался пейзаж за занавески,",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4847,
+    "fields": {
+      "line": "И вздрогнул телефон от смс-ки.",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4848,
+    "fields": {
+      "line": "Из телефона",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4849,
+    "fields": {
+      "line": "Тепло родного дома",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4850,
+    "fields": {
+      "line": "Здесь, на берегах Амура или Дона,",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4851,
+    "fields": {
+      "line": "Река бездонна,",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4852,
+    "fields": {
+      "line": "Из телефона,",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4853,
+    "fields": {
+      "line": "Тепло родного дома.",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4854,
+    "fields": {
+      "line": "В сообщении твоём всего два слова,",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4855,
+    "fields": {
+      "line": "Всего два слова я читаю снова,",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4856,
+    "fields": {
+      "line": "Два слова, от которых я теряю голову.",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4857,
+    "fields": {
+      "line": "Из телефона",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4858,
+    "fields": {
+      "line": "Тепло родного дома",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4859,
+    "fields": {
+      "line": "Здесь, на берегах Амура или Дона,",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4860,
+    "fields": {
+      "line": "Река бездонна,",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4861,
+    "fields": {
+      "line": "Из телефона",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4862,
+    "fields": {
+      "line": "Тепло родного дома.",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4863,
+    "fields": {
+      "line": "За чай, который был приправлен мёдом,",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4864,
+    "fields": {
+      "line": "За песню, что кружит нас хороводом,",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4865,
+    "fields": {
+      "line": "Я благодарен всем – живым и мёртвым.",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4866,
+    "fields": {
+      "line": "Из телефона",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4867,
+    "fields": {
+      "line": "Тепло родного дома,",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4868,
+    "fields": {
+      "line": "Здесь, на берегах Амура или Дона,",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4869,
+    "fields": {
+      "line": "Река бездонна,",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4870,
+    "fields": {
+      "line": "Из телефона",
+      "song": 193
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4871,
+    "fields": {
+      "line": "Тепло родного дома.",
+      "song": 193
+    }
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1688,
+    "fields": {
+      "line": "Ох, пурга-кочерга!",
+      "song": 64
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1689,
+    "fields": {
+      "line": "Карусель между явью и невью",
+      "song": 64
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1690,
+    "fields": {
+      "line": "Отметелила нашу деревню",
+      "song": 64
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1691,
+    "fields": {
+      "line": "У меня вся изба в синяках",
+      "song": 64
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1692,
+    "fields": {
+      "line": "А печная труба",
+      "song": 64
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1693,
+    "fields": {
+      "line": "Словно шишка во лбу",
+      "song": 64
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1694,
+    "fields": {
+      "line": "Озорные мальчишки",
+      "song": 64
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1695,
+    "fields": {
+      "line": "Закидали снежками избу",
+      "song": 64
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1696,
+    "fields": {
+      "line": "И поехала крыша",
+      "song": 64
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1697,
+    "fields": {
+      "line": "Поехала крыша",
+      "song": 64
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1698,
+    "fields": {
+      "line": "По-е-ха-ла",
+      "song": 64
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1699,
+    "fields": {
+      "line": "Ой, держи, все равно не удержишь",
+      "song": 64
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1700,
+    "fields": {
+      "line": "За ее ледяные края",
+      "song": 64
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1701,
+    "fields": {
+      "line": "Поскользнешься на ровном железе",
+      "song": 64
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1702,
+    "fields": {
+      "line": "И сыграешь в колодец",
+      "song": 64
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1703,
+    "fields": {
+      "line": "А вода студенистая",
+      "song": 64
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1704,
+    "fields": {
+      "line": "И полководец",
+      "song": 64
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1705,
+    "fields": {
+      "line": "Перед сломанным жезлом",
+      "song": 64
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1706,
+    "fields": {
+      "line": "И проиграна битва",
+      "song": 64
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1707,
+    "fields": {
+      "line": "Вот погоди, дочитаю молитву",
+      "song": 64
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1708,
+    "fields": {
+      "line": "И весна отомстит за меня!",
+      "song": 64
+    }
+  }
+]

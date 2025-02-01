@@ -1,0 +1,250 @@
+[
+  {
+    "model": "line.line",
+    "pk": 2537,
+    "fields": {
+      "line": "Сто тысяч вольт",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2538,
+    "fields": {
+      "line": "Над больной головой",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2539,
+    "fields": {
+      "line": "И в глазах пелена",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2540,
+    "fields": {
+      "line": "И волна и волна и волна...",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2541,
+    "fields": {
+      "line": "Идет волна,",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2542,
+    "fields": {
+      "line": "Когда ты просто улыбаешься.",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2543,
+    "fields": {
+      "line": "Идет волна,",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2544,
+    "fields": {
+      "line": "Когда ты просто улыбаешься.",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2545,
+    "fields": {
+      "line": "Сто тысяч ватт",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2546,
+    "fields": {
+      "line": "Или в рай, или в ад,",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2547,
+    "fields": {
+      "line": "И вода солона",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2548,
+    "fields": {
+      "line": "И волна и волна и волна...",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2549,
+    "fields": {
+      "line": "Идет волна,",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2550,
+    "fields": {
+      "line": "И ты не думая бросаешься.",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2551,
+    "fields": {
+      "line": "Идет волна,",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2552,
+    "fields": {
+      "line": "Вниз головой в нее бросаешься.",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2553,
+    "fields": {
+      "line": "Идет волна, идет волна...",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2554,
+    "fields": {
+      "line": "Идет волна, идет волна...",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2555,
+    "fields": {
+      "line": "Идет волна,",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2556,
+    "fields": {
+      "line": "Ты с головой в нее бросаешься...",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2557,
+    "fields": {
+      "line": "Сто тысяч искр",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2558,
+    "fields": {
+      "line": "На свой страх и свой риск",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2559,
+    "fields": {
+      "line": "И до самого дна,",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2560,
+    "fields": {
+      "line": "И волна и волна и волна и волна и волна...",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2561,
+    "fields": {
+      "line": "Идет волна,",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2562,
+    "fields": {
+      "line": "Волна, в которой ты теряешься.",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2563,
+    "fields": {
+      "line": "Идет волна,",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2564,
+    "fields": {
+      "line": "Волна, в которой ты теряешься.",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2565,
+    "fields": {
+      "line": "Идет волна, идет волна...",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2566,
+    "fields": {
+      "line": "Идет волна, идет волна...",
+      "song": 104
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2567,
+    "fields": {
+      "line": "Идет волна и не прощаешься...",
+      "song": 104
+    }
+  }
+]

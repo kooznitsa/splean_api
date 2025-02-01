@@ -1,0 +1,186 @@
+[
+  {
+    "model": "line.line",
+    "pk": 4955,
+    "fields": {
+      "line": "Когда пройдет 100 лет",
+      "song": 197
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4956,
+    "fields": {
+      "line": "И нас с тобой здесь нет.",
+      "song": 197
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4957,
+    "fields": {
+      "line": "Когда пройдет 100 лет",
+      "song": 197
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4958,
+    "fields": {
+      "line": "Здесь воздвигнут огромные здания,",
+      "song": 197
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4959,
+    "fields": {
+      "line": "Полные разных чудес.",
+      "song": 197
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4960,
+    "fields": {
+      "line": "Людям откроются новые знания",
+      "song": 197
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4961,
+    "fields": {
+      "line": "И чудеса будут здесь.",
+      "song": 197
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4962,
+    "fields": {
+      "line": "Когда пройдет 100 лет",
+      "song": 197
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4963,
+    "fields": {
+      "line": "И нас с тобой здесь нет.",
+      "song": 197
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4964,
+    "fields": {
+      "line": "Когда пройдет 100 лет",
+      "song": 197
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4965,
+    "fields": {
+      "line": "Здесь исчезнут любые границы",
+      "song": 197
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4966,
+    "fields": {
+      "line": "И будут открыты дома,",
+      "song": 197
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4967,
+    "fields": {
+      "line": "Жизнь будет всеми огнями светиться –",
+      "song": 197
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4968,
+    "fields": {
+      "line": "На это нам жизнь и дана.",
+      "song": 197
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4969,
+    "fields": {
+      "line": "Когда пройдет 100 лет",
+      "song": 197
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4970,
+    "fields": {
+      "line": "И нас с тобой здесь нет.",
+      "song": 197
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4971,
+    "fields": {
+      "line": "Когда пройдет 100 лет…",
+      "song": 197
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4972,
+    "fields": {
+      "line": "Здесь исчезнут любые границы.",
+      "song": 197
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4973,
+    "fields": {
+      "line": "Жизнь будет всеми огнями светиться.",
+      "song": 197
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4974,
+    "fields": {
+      "line": "Жизнь будет всеми огнями светить",
+      "song": 197
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4975,
+    "fields": {
+      "line": "Когда пройдет 100 лет",
+      "song": 197
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4976,
+    "fields": {
+      "line": "И нас с тобой здесь нет.",
+      "song": 197
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4977,
+    "fields": {
+      "line": "Когда пройдет 100 лет.",
+      "song": 197
+    }
+  }
+]

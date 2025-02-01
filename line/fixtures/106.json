@@ -1,0 +1,162 @@
+[
+  {
+    "model": "line.line",
+    "pk": 2592,
+    "fields": {
+      "line": "Смотрит охранник из будки",
+      "song": 106
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2593,
+    "fields": {
+      "line": "На окна, что плотно зашторены",
+      "song": 106
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2594,
+    "fields": {
+      "line": "С криками: Выключи камеру!\"",
+      "song": 106
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2595,
+    "fields": {
+      "line": "Все объективы - ладонями",
+      "song": 106
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2596,
+    "fields": {
+      "line": "Быстро закрыв. Руки скручены",
+      "song": 106
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2597,
+    "fields": {
+      "line": "На раскалённом капоте,",
+      "song": 106
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2598,
+    "fields": {
+      "line": "И на раскалённом асфальте,",
+      "song": 106
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2599,
+    "fields": {
+      "line": "И на надоевшей работе,",
+      "song": 106
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2600,
+    "fields": {
+      "line": "И в особняке за забором,",
+      "song": 106
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2601,
+    "fields": {
+      "line": "За плотно закрытыми шторами",
+      "song": 106
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2602,
+    "fields": {
+      "line": "Пересеклись миллиарды",
+      "song": 106
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2603,
+    "fields": {
+      "line": "Изломанных линий, которыми",
+      "song": 106
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2604,
+    "fields": {
+      "line": "Щедро покрыты ладони,",
+      "song": 106
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2605,
+    "fields": {
+      "line": "Собой заслонившие камеры,",
+      "song": 106
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2606,
+    "fields": {
+      "line": "И неразборчивым почерком",
+      "song": 106
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2607,
+    "fields": {
+      "line": "Вписаны кровью в историю",
+      "song": 106
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2608,
+    "fields": {
+      "line": "Все времена.",
+      "song": 106
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2609,
+    "fields": {
+      "line": "\"На тебе власть, император, на, на, на!",
+      "song": 106
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2610,
+    "fields": {
+      "line": "На тебе власть, император, на, на, на!",
+      "song": 106
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2611,
+    "fields": {
+      "line": "На тебе власть, император, на!",
+      "song": 106
+    }
+  }
+]

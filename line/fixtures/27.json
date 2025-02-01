@@ -1,0 +1,210 @@
+[
+  {
+    "model": "line.line",
+    "pk": 813,
+    "fields": {
+      "line": "Первый снег был самым черным",
+      "song": 27
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 814,
+    "fields": {
+      "line": "Самый первый снег был самым черным",
+      "song": 27
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 815,
+    "fields": {
+      "line": "Он летел, не зная, где ему упасть",
+      "song": 27
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 816,
+    "fields": {
+      "line": "Первый снег в начале марта,",
+      "song": 27
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 817,
+    "fields": {
+      "line": "Ты сама тогда достала карты",
+      "song": 27
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 818,
+    "fields": {
+      "line": "Ты сама тогда открыла эту масть",
+      "song": 27
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 819,
+    "fields": {
+      "line": "Самый первый снег,",
+      "song": 27
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 820,
+    "fields": {
+      "line": "Самый первый",
+      "song": 27
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 821,
+    "fields": {
+      "line": "С ней случился легкий приступ,",
+      "song": 27
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 822,
+    "fields": {
+      "line": "Ей смешно подряд уже лет триста,",
+      "song": 27
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 823,
+    "fields": {
+      "line": "Она ловит ртом тот самый первый снег,",
+      "song": 27
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 824,
+    "fields": {
+      "line": "Самый первый снег",
+      "song": 27
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 825,
+    "fields": {
+      "line": "Первый снег был самым красным,",
+      "song": 27
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 826,
+    "fields": {
+      "line": "Самый первый снег был самым красным,",
+      "song": 27
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 827,
+    "fields": {
+      "line": "Я не знал, где кровь, а где вишневый сок",
+      "song": 27
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 828,
+    "fields": {
+      "line": "Волхвы несут дары всем сразу",
+      "song": 27
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 829,
+    "fields": {
+      "line": "И качается фонарь под глазом",
+      "song": 27
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 830,
+    "fields": {
+      "line": "И летит, летит, нацеленный в висок,",
+      "song": 27
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 831,
+    "fields": {
+      "line": "Самый первый снег,",
+      "song": 27
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 832,
+    "fields": {
+      "line": "Самый первый",
+      "song": 27
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 833,
+    "fields": {
+      "line": "Первый снег был самым белым,",
+      "song": 27
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 834,
+    "fields": {
+      "line": "Самый первый снег был самым белым,",
+      "song": 27
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 835,
+    "fields": {
+      "line": "Самый первый снег был чище, чем мы все",
+      "song": 27
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 836,
+    "fields": {
+      "line": "Самый первый снег",
+      "song": 27
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 837,
+    "fields": {
+      "line": "Чище, чем мы все, самый первый снег",
+      "song": 27
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 838,
+    "fields": {
+      "line": "Самый первый",
+      "song": 27
+    }
+  }
+]

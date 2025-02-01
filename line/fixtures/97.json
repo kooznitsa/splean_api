@@ -1,0 +1,122 @@
+[
+  {
+    "model": "line.line",
+    "pk": 2400,
+    "fields": {
+      "line": "Тянется мой сон",
+      "song": 97
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2401,
+    "fields": {
+      "line": "Образ невесом",
+      "song": 97
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2402,
+    "fields": {
+      "line": "Жизнь легка и все",
+      "song": 97
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2403,
+    "fields": {
+      "line": "Включено",
+      "song": 97
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2404,
+    "fields": {
+      "line": "Тянется мой сон",
+      "song": 97
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2405,
+    "fields": {
+      "line": "Образ невесом",
+      "song": 97
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2406,
+    "fields": {
+      "line": "Жизнь прошла и все",
+      "song": 97
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2407,
+    "fields": {
+      "line": "Включено",
+      "song": 97
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2408,
+    "fields": {
+      "line": "Детям все равно",
+      "song": 97
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2409,
+    "fields": {
+      "line": "Мертвым все равно",
+      "song": 97
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2410,
+    "fields": {
+      "line": "Детям все равно",
+      "song": 97
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2411,
+    "fields": {
+      "line": "Мертвым все равно",
+      "song": 97
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2412,
+    "fields": {
+      "line": "Детям все равно",
+      "song": 97
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2413,
+    "fields": {
+      "line": "Мертвым все равно",
+      "song": 97
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2414,
+    "fields": {
+      "line": "Все включено",
+      "song": 97
+    }
+  }
+]

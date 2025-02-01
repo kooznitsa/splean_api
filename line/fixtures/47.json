@@ -1,0 +1,210 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1291,
+    "fields": {
+      "line": "В огне твоих расширеных зрачков",
+      "song": 47
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1292,
+    "fields": {
+      "line": "Исчезнут города и океаны",
+      "song": 47
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1293,
+    "fields": {
+      "line": "Из темноты глядят на нас",
+      "song": 47
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1294,
+    "fields": {
+      "line": "Глаза Марии и глаза Хуаны",
+      "song": 47
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1295,
+    "fields": {
+      "line": "Придуманные люди за окном",
+      "song": 47
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1296,
+    "fields": {
+      "line": "Диктуют нам последние страницы",
+      "song": 47
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1297,
+    "fields": {
+      "line": "Все ночи напролет глаза",
+      "song": 47
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1298,
+    "fields": {
+      "line": "Марии и Хуаны будут сниться",
+      "song": 47
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1299,
+    "fields": {
+      "line": "Ветер гонит снежный ком",
+      "song": 47
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1300,
+    "fields": {
+      "line": "Ветер гонит снежный ком",
+      "song": 47
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1301,
+    "fields": {
+      "line": "Ветер гонит снежный ком",
+      "song": 47
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1302,
+    "fields": {
+      "line": "Несет над городами и домами",
+      "song": 47
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1303,
+    "fields": {
+      "line": "Они идут по жизни босиком",
+      "song": 47
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1304,
+    "fields": {
+      "line": "Идут по жизни босиком",
+      "song": 47
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1305,
+    "fields": {
+      "line": "Идут по жизни босиком",
+      "song": 47
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1306,
+    "fields": {
+      "line": "Трясут пустыми рукавами",
+      "song": 47
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1307,
+    "fields": {
+      "line": "На белом поле не заметен снег",
+      "song": 47
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1308,
+    "fields": {
+      "line": "На черном не заметны наши тени",
+      "song": 47
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1309,
+    "fields": {
+      "line": "Всего две линии вперед",
+      "song": 47
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1310,
+    "fields": {
+      "line": "Две линии вперед и мы у цели",
+      "song": 47
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1311,
+    "fields": {
+      "line": "В огне твоих расширеных зрачков",
+      "song": 47
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1312,
+    "fields": {
+      "line": "Исчезнут города и океаны",
+      "song": 47
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1313,
+    "fields": {
+      "line": "Из темноты глядят на нас",
+      "song": 47
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1314,
+    "fields": {
+      "line": "Глаза Марии и глаза Хуаны",
+      "song": 47
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1315,
+    "fields": {
+      "line": "Прощай Мария, прощай Хуана.",
+      "song": 47
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1316,
+    "fields": {
+      "line": "Прощай Мария, прощай Хуана.",
+      "song": 47
+    }
+  }
+]

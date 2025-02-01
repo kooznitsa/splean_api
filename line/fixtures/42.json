@@ -1,0 +1,170 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1162,
+    "fields": {
+      "line": "Мы чересчур увеличили дозу",
+      "song": 42
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1163,
+    "fields": {
+      "line": "Вспомнили все что хотели забыть",
+      "song": 42
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1164,
+    "fields": {
+      "line": "Или на рельсы легли слишком поздно",
+      "song": 42
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1165,
+    "fields": {
+      "line": "Бог устал нас любить",
+      "song": 42
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1166,
+    "fields": {
+      "line": "Бог устал нас любить",
+      "song": 42
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1167,
+    "fields": {
+      "line": "Бог просто устал нас любить",
+      "song": 42
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1168,
+    "fields": {
+      "line": "Бог просто устал",
+      "song": 42
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1169,
+    "fields": {
+      "line": "Вот она гильза от пули навылет",
+      "song": 42
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1170,
+    "fields": {
+      "line": "Карта которую нечем покрыть",
+      "song": 42
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1171,
+    "fields": {
+      "line": "Мы остаемся одни в этом мире",
+      "song": 42
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1172,
+    "fields": {
+      "line": "Бог устал нас любить",
+      "song": 42
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1173,
+    "fields": {
+      "line": "Бог устал нас любить",
+      "song": 42
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1174,
+    "fields": {
+      "line": "Бог просто устал нас любить",
+      "song": 42
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1175,
+    "fields": {
+      "line": "Бог просто устал",
+      "song": 42
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1176,
+    "fields": {
+      "line": "Я рассказал бы тебе все что знаю",
+      "song": 42
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1177,
+    "fields": {
+      "line": "Только об этом нельзя говорить",
+      "song": 42
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1178,
+    "fields": {
+      "line": "Выпавший снег никогда не растает",
+      "song": 42
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1179,
+    "fields": {
+      "line": "Бог устал нас любить",
+      "song": 42
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1180,
+    "fields": {
+      "line": "Бог устал нас любить",
+      "song": 42
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1181,
+    "fields": {
+      "line": "Бог просто устал нас любить",
+      "song": 42
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1182,
+    "fields": {
+      "line": "Бог просто устал",
+      "song": 42
+    }
+  }
+]

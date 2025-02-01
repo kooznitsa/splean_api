@@ -1,0 +1,306 @@
+[
+  {
+    "model": "line.line",
+    "pk": 4917,
+    "fields": {
+      "line": "Когда под вечер мир теряется во тьме,",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4918,
+    "fields": {
+      "line": "Когда глаза твои привыкнут к темноте,",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4919,
+    "fields": {
+      "line": "Вдруг окружающий мир станет так мал",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4920,
+    "fields": {
+      "line": "И в тишине сам по себе бьет барабан.",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4921,
+    "fields": {
+      "line": "Из темноты глядит шаман.",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4922,
+    "fields": {
+      "line": "Он смотрит сквозь, в его глазах горят костры,",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4923,
+    "fields": {
+      "line": "Он пишет книгу, оставляя чистыми листы,",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4924,
+    "fields": {
+      "line": "И окружающий мир станет так мал,",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4925,
+    "fields": {
+      "line": "И в тишине сам по себе бьет барабан,",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4926,
+    "fields": {
+      "line": "Из темноты глядит шаман.",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4927,
+    "fields": {
+      "line": "Шаман.",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4928,
+    "fields": {
+      "line": "Он поднимается, как дым,",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4929,
+    "fields": {
+      "line": "Он знает всё, что будет с ним.",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4930,
+    "fields": {
+      "line": "Он видит: жизнь тонка, как нить",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4931,
+    "fields": {
+      "line": "И ничего не изменить –",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4932,
+    "fields": {
+      "line": "Об этом знает шаман.",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4933,
+    "fields": {
+      "line": "Знает шаман,",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4934,
+    "fields": {
+      "line": "Знает шаман,",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4935,
+    "fields": {
+      "line": "Знает шаман,",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4936,
+    "fields": {
+      "line": "Знает шаман,",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4937,
+    "fields": {
+      "line": "Знает шаман.",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4938,
+    "fields": {
+      "line": "Он исчезает, не успев дойти до ста,",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4939,
+    "fields": {
+      "line": "Так исчезают только искры от костра,",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4940,
+    "fields": {
+      "line": "Он исчезает, остается пустота,",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4941,
+    "fields": {
+      "line": "И окружающий мир станет так мал,",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4942,
+    "fields": {
+      "line": "И в тишине сам по себе бьет барабан,",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4943,
+    "fields": {
+      "line": "Из темноты глядит шаман,",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4944,
+    "fields": {
+      "line": "Шаман.",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4945,
+    "fields": {
+      "line": "Он растворяется, как дым,",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4946,
+    "fields": {
+      "line": "Он знает всё, что будет с ним.",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4947,
+    "fields": {
+      "line": "Он видит: жизнь тонка, как нить",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4948,
+    "fields": {
+      "line": "И ничего не изменить –",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4949,
+    "fields": {
+      "line": "Об этом знает шаман.",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4950,
+    "fields": {
+      "line": "Знает шаман,",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4951,
+    "fields": {
+      "line": "Знает шаман,",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4952,
+    "fields": {
+      "line": "Знает шаман,",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4953,
+    "fields": {
+      "line": "Знает шаман,",
+      "song": 196
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4954,
+    "fields": {
+      "line": "Знает шаман.",
+      "song": 196
+    }
+  }
+]

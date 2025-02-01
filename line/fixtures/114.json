@@ -1,0 +1,146 @@
+[
+  {
+    "model": "line.line",
+    "pk": 2802,
+    "fields": {
+      "line": "О, Mamma Mia, тебя искал какой-то матрос,",
+      "song": 114
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2803,
+    "fields": {
+      "line": "Он был неделю не выбрит, был оборван и бос,",
+      "song": 114
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2804,
+    "fields": {
+      "line": "Он перебил всю посуду,",
+      "song": 114
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2805,
+    "fields": {
+      "line": "Он искал тебя, Mamma Mia,",
+      "song": 114
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2806,
+    "fields": {
+      "line": "Он перебил всю посуду,",
+      "song": 114
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2807,
+    "fields": {
+      "line": "Он искал тебя, Mamma Mia.",
+      "song": 114
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2808,
+    "fields": {
+      "line": "Он вновь явился под утро, держа в руках молоток,",
+      "song": 114
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2809,
+    "fields": {
+      "line": "Он влил в горящие трубы электрический сок,",
+      "song": 114
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2810,
+    "fields": {
+      "line": "Он разломал мне всю мебель,",
+      "song": 114
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2811,
+    "fields": {
+      "line": "Он искал тебя, Mamma Mia,",
+      "song": 114
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2812,
+    "fields": {
+      "line": "Он перебил всю посуду,",
+      "song": 114
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2813,
+    "fields": {
+      "line": "Разломал мне всю мебель, Mamma Mia",
+      "song": 114
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2814,
+    "fields": {
+      "line": "О, Mamma Mia, теперь я сам такой же матрос,",
+      "song": 114
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2815,
+    "fields": {
+      "line": "Я неделю не выбрит, я оборван и бос,",
+      "song": 114
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2816,
+    "fields": {
+      "line": "Я перебью всю посуду,",
+      "song": 114
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2817,
+    "fields": {
+      "line": "Я найду тебя, Mamma Mia,",
+      "song": 114
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2818,
+    "fields": {
+      "line": "Я разломаю всю мебель,",
+      "song": 114
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2819,
+    "fields": {
+      "line": "Я найду тебя, Mamma Mia...",
+      "song": 114
+    }
+  }
+]

@@ -1,0 +1,330 @@
+[
+  {
+    "model": "line.line",
+    "pk": 2953,
+    "fields": {
+      "line": "Жар по телу бродит",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2954,
+    "fields": {
+      "line": "Хороводы водит",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2955,
+    "fields": {
+      "line": "Страшно ломит кости",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2956,
+    "fields": {
+      "line": "Не пускает в гости",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2957,
+    "fields": {
+      "line": "Льется пот ручьями",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2958,
+    "fields": {
+      "line": "Утром, днем, ночами",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2959,
+    "fields": {
+      "line": "Видимо, напрасно",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2960,
+    "fields": {
+      "line": "Приняты лекарства",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2961,
+    "fields": {
+      "line": "Градусник спросонок",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2962,
+    "fields": {
+      "line": "Скоро будет 40",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2963,
+    "fields": {
+      "line": "Не спасла микстура",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2964,
+    "fields": {
+      "line": "Лезет словно дура",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2965,
+    "fields": {
+      "line": "Вверх температура",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2966,
+    "fields": {
+      "line": "Больше никакого рок-н-ролла ...",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2967,
+    "fields": {
+      "line": "Бродит жар по телу,",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2968,
+    "fields": {
+      "line": "Нервную систему",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2969,
+    "fields": {
+      "line": "Крутит так как хочет",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2970,
+    "fields": {
+      "line": "Утром, днем и ночью",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2971,
+    "fields": {
+      "line": "Раз пришлось родиться",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2972,
+    "fields": {
+      "line": "Дайте насладиться",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2973,
+    "fields": {
+      "line": "Дайте надышаться",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2974,
+    "fields": {
+      "line": "Дайте людям шансы",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2975,
+    "fields": {
+      "line": "Реализоваться",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2976,
+    "fields": {
+      "line": "В этот мир ворваться",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2977,
+    "fields": {
+      "line": "В этот мир влюбиться",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2978,
+    "fields": {
+      "line": "В этот мир врубиться",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2979,
+    "fields": {
+      "line": "Разочароваться",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2980,
+    "fields": {
+      "line": "Больше никакого рок-н-ролла ...",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2981,
+    "fields": {
+      "line": "Тихо в Поднебесной",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2982,
+    "fields": {
+      "line": "Все осталось в детстве",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2983,
+    "fields": {
+      "line": "Все осталось в прошлом",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2984,
+    "fields": {
+      "line": "В Поднебесной тошно",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2985,
+    "fields": {
+      "line": "Остается только",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2986,
+    "fields": {
+      "line": "Под электротоком",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2987,
+    "fields": {
+      "line": "Наблюдать событий",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2988,
+    "fields": {
+      "line": "Порванные нити",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2989,
+    "fields": {
+      "line": "Видеть пух и перья",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2990,
+    "fields": {
+      "line": "Рухнувших империй",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2991,
+    "fields": {
+      "line": "В голове зависли",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2992,
+    "fields": {
+      "line": "Медленные мысли",
+      "song": 120
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2993,
+    "fields": {
+      "line": "Сын растет так быстро",
+      "song": 120
+    }
+  }
+]

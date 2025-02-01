@@ -1,0 +1,346 @@
+[
+  {
+    "model": "line.line",
+    "pk": 5435,
+    "fields": {
+      "line": "Здравствуй, мой Париж,",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5436,
+    "fields": {
+      "line": "Из домов и крыш,",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5437,
+    "fields": {
+      "line": "Как прекрасен ваш",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5438,
+    "fields": {
+      "line": "Городской пейзаж.",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5439,
+    "fields": {
+      "line": "Я провел в пути",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5440,
+    "fields": {
+      "line": "Сорок лет почти,",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5441,
+    "fields": {
+      "line": "В длительный вояж",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5442,
+    "fields": {
+      "line": "Едет экипаж.",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5443,
+    "fields": {
+      "line": "Пусть блестит на солнце краска,",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5444,
+    "fields": {
+      "line": "И все прекрасно, но сколько здесь живу,",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5445,
+    "fields": {
+      "line": "Что бы в мире ни случилось –",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5446,
+    "fields": {
+      "line": "Все это было, все это дежавю.",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5447,
+    "fields": {
+      "line": "Дежавю.",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5448,
+    "fields": {
+      "line": "Я прошел, месье,",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5449,
+    "fields": {
+      "line": "Сорок тысяч лье.",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5450,
+    "fields": {
+      "line": "Я прошел, мадам,",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5451,
+    "fields": {
+      "line": "Скорок тысяч драм.",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5452,
+    "fields": {
+      "line": "Вы – мадемуазель,",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5453,
+    "fields": {
+      "line": "Из-за вас дуэль.",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5454,
+    "fields": {
+      "line": "Много мертвых душ",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5455,
+    "fields": {
+      "line": "В вашем Мулен Руж.",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5456,
+    "fields": {
+      "line": "Пусть блестит на солнце краска,",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5457,
+    "fields": {
+      "line": "И все прекрасно, но сколько здесь живу,",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5458,
+    "fields": {
+      "line": "Что бы в мире ни случилось –",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5459,
+    "fields": {
+      "line": "Все это было, все это дежавю.",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5460,
+    "fields": {
+      "line": "Дежавю.",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5461,
+    "fields": {
+      "line": "Что случилось – это дежавю.",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5462,
+    "fields": {
+      "line": "Что случилось – это дежавю.",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5463,
+    "fields": {
+      "line": "Что случилось – это дежавю.",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5464,
+    "fields": {
+      "line": "Дежавю.",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5465,
+    "fields": {
+      "line": "Я продам свой фрак",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5466,
+    "fields": {
+      "line": "За один лишь франк.",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5467,
+    "fields": {
+      "line": "Или всё отдам,",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5468,
+    "fields": {
+      "line": "Но за Нотр-дам.",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5469,
+    "fields": {
+      "line": "Сяду на «пежо»,",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5470,
+    "fields": {
+      "line": "Как простой пижон.",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5471,
+    "fields": {
+      "line": "Буду пить коньяк",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5472,
+    "fields": {
+      "line": "За французский флаг.",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5473,
+    "fields": {
+      "line": "Пусть блестит на солнце краска,",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5474,
+    "fields": {
+      "line": "И все прекрасно, но сколько здесь живу,",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5475,
+    "fields": {
+      "line": "Что бы в мире ни случилось –",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5476,
+    "fields": {
+      "line": "Все это было, все это дежавю.",
+      "song": 212
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5477,
+    "fields": {
+      "line": "Дежавю.",
+      "song": 212
+    }
+  }
+]

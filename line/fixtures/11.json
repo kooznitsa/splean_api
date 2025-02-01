@@ -1,0 +1,162 @@
+[
+  {
+    "model": "line.line",
+    "pk": 238,
+    "fields": {
+      "line": "Комната окна на площадь",
+      "song": 11
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 239,
+    "fields": {
+      "line": "Рваные флаги по ветру",
+      "song": 11
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 240,
+    "fields": {
+      "line": "Женщина в доме напротив",
+      "song": 11
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 241,
+    "fields": {
+      "line": "Сжигает нетленные письма",
+      "song": 11
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 242,
+    "fields": {
+      "line": "А над ее головою",
+      "song": 11
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 243,
+    "fields": {
+      "line": "Санкт-Петербургское небо",
+      "song": 11
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 244,
+    "fields": {
+      "line": "Лестница десять пролетов",
+      "song": 11
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 245,
+    "fields": {
+      "line": "Каждый изучен до боли",
+      "song": 11
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 246,
+    "fields": {
+      "line": "Трамваи забиты людьми,",
+      "song": 11
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 247,
+    "fields": {
+      "line": "Но я не чувствую локтя",
+      "song": 11
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 248,
+    "fields": {
+      "line": "Я еду в облачный край,",
+      "song": 11
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 249,
+    "fields": {
+      "line": "К санкт-Петербургскому небу",
+      "song": 11
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 250,
+    "fields": {
+      "line": "Дай хоть немного свободы",
+      "song": 11
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 251,
+    "fields": {
+      "line": "Птицам парящим в прицеле",
+      "song": 11
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 252,
+    "fields": {
+      "line": "Им некуда будет лететь,",
+      "song": 11
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 253,
+    "fields": {
+      "line": "Если ты рухнешь на город",
+      "song": 11
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 254,
+    "fields": {
+      "line": "Здравствуй, осенняя площадь;",
+      "song": 11
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 255,
+    "fields": {
+      "line": "Пусть мой этаж не последний -",
+      "song": 11
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 256,
+    "fields": {
+      "line": "Скоро я буду с тобой,",
+      "song": 11
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 257,
+    "fields": {
+      "line": "Мое Санкт-Петербургское небо",
+      "song": 11
+    }
+  }
+]

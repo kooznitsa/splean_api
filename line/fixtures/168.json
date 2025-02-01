@@ -1,0 +1,434 @@
+[
+  {
+    "model": "line.line",
+    "pk": 4127,
+    "fields": {
+      "line": "Волна бежит на этот берег,",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4128,
+    "fields": {
+      "line": "Волна бежит и что-то бредит,",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4129,
+    "fields": {
+      "line": "И звезды падают за ворот,",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4130,
+    "fields": {
+      "line": "И ковш на небе перевёрнут,",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4131,
+    "fields": {
+      "line": "И в голове смешались мысли,",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4132,
+    "fields": {
+      "line": "И босиком с бутылкой виски",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4133,
+    "fields": {
+      "line": "Мы изучаем этот берег.",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4134,
+    "fields": {
+      "line": "Волна бежит и что-то бредит",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4135,
+    "fields": {
+      "line": "Вокруг вода песок и камни",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4136,
+    "fields": {
+      "line": "И время, меряя глотками",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4137,
+    "fields": {
+      "line": "И всех вокруг как ветром сдуло,",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4138,
+    "fields": {
+      "line": "Нас, как магнитом, притянуло",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4139,
+    "fields": {
+      "line": "Друг к другу и теперь на берег",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4140,
+    "fields": {
+      "line": "Волна бежит и что-то бредит,",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4141,
+    "fields": {
+      "line": "И звезды падают за ворот,",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4142,
+    "fields": {
+      "line": "И ковш на небе перевернут,",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4143,
+    "fields": {
+      "line": "Еще глоток и мы горим",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4144,
+    "fields": {
+      "line": "На раз, два, три.",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4145,
+    "fields": {
+      "line": "Потом не жди и не тоскуй.",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4146,
+    "fields": {
+      "line": "Гори огнём твой третий Рим,",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4147,
+    "fields": {
+      "line": "Лови мой ритм",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4148,
+    "fields": {
+      "line": "Танцуй, танцуй, танцуй, танцуй, танцуй, танцуй.",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4149,
+    "fields": {
+      "line": "Мы странно оказались рядом,",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4150,
+    "fields": {
+      "line": "Приняв одну микстуру с ядом,",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4151,
+    "fields": {
+      "line": "Теперь мы принимаем виски",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4152,
+    "fields": {
+      "line": "И в голове смешались мысли.",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4153,
+    "fields": {
+      "line": "Вокруг вода песок и камни",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4154,
+    "fields": {
+      "line": "И время, меряя глотками",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4155,
+    "fields": {
+      "line": "Мы изучаем этот берег",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4156,
+    "fields": {
+      "line": "Волна бежит и что-то бредит.",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4157,
+    "fields": {
+      "line": "Хочу уснуть и не проснуться,",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4158,
+    "fields": {
+      "line": "Уйти в моря и не вернуться",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4159,
+    "fields": {
+      "line": "Или вернуться только вместе",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4160,
+    "fields": {
+      "line": "С тобой так много интересней",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4161,
+    "fields": {
+      "line": "С тобой так много интересного",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4162,
+    "fields": {
+      "line": "Вокруг совсем не тесно,",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4163,
+    "fields": {
+      "line": "Без площадей вокзалов, станций,",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4164,
+    "fields": {
+      "line": "Без этих всех цивилизаций.",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4165,
+    "fields": {
+      "line": "Танцуй, волна бежит на берег,",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4166,
+    "fields": {
+      "line": "Волна бежит и что-то бредит",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4167,
+    "fields": {
+      "line": "Танцуй, звезда летит за ворот",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4168,
+    "fields": {
+      "line": "И ковш на небе перевёрнут.",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4169,
+    "fields": {
+      "line": "Танцуй, в башке смешались мысли,",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4170,
+    "fields": {
+      "line": "Передавай бутылку виски,",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4171,
+    "fields": {
+      "line": "Передавай бутылку яда –",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4172,
+    "fields": {
+      "line": "Нам больше ничего не надо!",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4173,
+    "fields": {
+      "line": "Нам больше ничего не нужно!",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4174,
+    "fields": {
+      "line": "От виски кружит, кружит, кружит!",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4175,
+    "fields": {
+      "line": "С тобой мне больше здесь не тесно",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4176,
+    "fields": {
+      "line": "И ковш на небе стал на место.",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4177,
+    "fields": {
+      "line": "Передавай бутылку виски,",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4178,
+    "fields": {
+      "line": "И ты мои читаешь мысли",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4179,
+    "fields": {
+      "line": "И звёзды падают за ворот",
+      "song": 168
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4180,
+    "fields": {
+      "line": "И ковш на небе перевернут.",
+      "song": 168
+    }
+  }
+]

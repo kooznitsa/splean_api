@@ -1,0 +1,58 @@
+[
+  {
+    "model": "line.line",
+    "pk": 3897,
+    "fields": {
+      "line": "Всё в мире наоборот.",
+      "song": 156
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3898,
+    "fields": {
+      "line": "Всё в мире наоборот.",
+      "song": 156
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3899,
+    "fields": {
+      "line": "Всё в мире наоборот.",
+      "song": 156
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3900,
+    "fields": {
+      "line": "Наоборот всё.",
+      "song": 156
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3901,
+    "fields": {
+      "line": "Наоборот всё.",
+      "song": 156
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3902,
+    "fields": {
+      "line": "Наоборот всё",
+      "song": 156
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3903,
+    "fields": {
+      "line": "Наоборот.",
+      "song": 156
+    }
+  }
+]

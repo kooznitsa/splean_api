@@ -1,0 +1,266 @@
+[
+  {
+    "model": "line.line",
+    "pk": 4884,
+    "fields": {
+      "line": "Пока мы жрали спирт и шампиньоны",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4885,
+    "fields": {
+      "line": "К нам в страну проникли мерзкие шпионы,",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4886,
+    "fields": {
+      "line": "Теперь нам неизвестно, чем гордиться –",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4887,
+    "fields": {
+      "line": "У нас полностью дырявая граница.",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4888,
+    "fields": {
+      "line": "И теперь шпионы лезут отовсюду,",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4889,
+    "fields": {
+      "line": "Повышая ставки на кредит и ссуду,",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4890,
+    "fields": {
+      "line": "Из-за них большая очередь в аптеки,",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4891,
+    "fields": {
+      "line": "Из-за них большой процент по ипотеке.",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4892,
+    "fields": {
+      "line": "Шпионы!",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4893,
+    "fields": {
+      "line": "Вон они!",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4894,
+    "fields": {
+      "line": "Вон они!",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4895,
+    "fields": {
+      "line": "Шпионы – это что-то вроде секты,",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4896,
+    "fields": {
+      "line": "Нам шпионы перекрыли все проспекты,",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4897,
+    "fields": {
+      "line": "Нам шпионы перепутали все карты,",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4898,
+    "fields": {
+      "line": "Всё сложнее брать и взятки, и откаты,",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4899,
+    "fields": {
+      "line": "Нам шпионы все испортили итоги,",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4900,
+    "fields": {
+      "line": "Заодно они разбили все дороги,",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4901,
+    "fields": {
+      "line": "А еще они обрушили курс акций",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4902,
+    "fields": {
+      "line": "И теперь мы погибаем из-за санкций.",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4903,
+    "fields": {
+      "line": "Шпионы!",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4904,
+    "fields": {
+      "line": "Вон они!",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4905,
+    "fields": {
+      "line": "Вон они!",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4906,
+    "fields": {
+      "line": "Шпионы обнаглели, в общем, нафиг,",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4907,
+    "fields": {
+      "line": "И срывая сроки, нарушают график,",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4908,
+    "fields": {
+      "line": "И летят куда-то головы в погонах,",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4909,
+    "fields": {
+      "line": "Чтобы в стрельбе поупражняться на шпионах.",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4910,
+    "fields": {
+      "line": "А шпионы закрывают плотно шторы",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4911,
+    "fields": {
+      "line": "И выводят наши денежки в оффшоры,",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4912,
+    "fields": {
+      "line": "Не пройти от этих джонов, полов, шонов,",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4913,
+    "fields": {
+      "line": "На маршрутку не залезть из-за шпионов.",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4914,
+    "fields": {
+      "line": "Шпионы!",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4915,
+    "fields": {
+      "line": "Вон они!",
+      "song": 195
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4916,
+    "fields": {
+      "line": "Вон они!",
+      "song": 195
+    }
+  }
+]

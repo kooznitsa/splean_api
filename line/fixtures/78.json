@@ -1,0 +1,170 @@
+[
+  {
+    "model": "line.line",
+    "pk": 2061,
+    "fields": {
+      "line": "Тихо",
+      "song": 78
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2062,
+    "fields": {
+      "line": "Следуя древним инстинктам",
+      "song": 78
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2063,
+    "fields": {
+      "line": "Плавно взлетает в небо",
+      "song": 78
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2064,
+    "fields": {
+      "line": "Дом девяти этажей",
+      "song": 78
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2065,
+    "fields": {
+      "line": "Дом девяти этажей",
+      "song": 78
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2066,
+    "fields": {
+      "line": "Дом девяти этажей",
+      "song": 78
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2067,
+    "fields": {
+      "line": "Протри глаза – наш дом летит",
+      "song": 78
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2068,
+    "fields": {
+      "line": "Теперь нам ничего не страшно",
+      "song": 78
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2069,
+    "fields": {
+      "line": "И драг дилер никогда",
+      "song": 78
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2070,
+    "fields": {
+      "line": "Нам не подсунет эту лажу",
+      "song": 78
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2071,
+    "fields": {
+      "line": "И телевизор отключился –",
+      "song": 78
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2072,
+    "fields": {
+      "line": "Не реагирует, совсем пропал",
+      "song": 78
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2073,
+    "fields": {
+      "line": "Из газовой плиты",
+      "song": 78
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2074,
+    "fields": {
+      "line": "Выходит радостный пропан-бутан",
+      "song": 78
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2075,
+    "fields": {
+      "line": "И перед тем, как ты родишься",
+      "song": 78
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2076,
+    "fields": {
+      "line": "А я проснусь",
+      "song": 78
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2077,
+    "fields": {
+      "line": "Смотри, как медленно, красиво",
+      "song": 78
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2078,
+    "fields": {
+      "line": "Летит",
+      "song": 78
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2079,
+    "fields": {
+      "line": "Девятиэтажный Дом",
+      "song": 78
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2080,
+    "fields": {
+      "line": "Девятиэтажный Дом",
+      "song": 78
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2081,
+    "fields": {
+      "line": "Девятиэтажный Дом",
+      "song": 78
+    }
+  }
+]

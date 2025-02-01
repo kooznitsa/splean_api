@@ -1,0 +1,170 @@
+[
+  {
+    "model": "line.line",
+    "pk": 4106,
+    "fields": {
+      "line": "Ночью погасли фары, выключен каждый звук,",
+      "song": 167
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4107,
+    "fields": {
+      "line": "Ночью утихло все вокруг.",
+      "song": 167
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4108,
+    "fields": {
+      "line": "Остановились кадры, остановились вдруг,",
+      "song": 167
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4109,
+    "fields": {
+      "line": "В небе нарисовался круг.",
+      "song": 167
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4110,
+    "fields": {
+      "line": "Ночью то смех, то слезы,",
+      "song": 167
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4111,
+    "fields": {
+      "line": "Ночью и смех и грех.",
+      "song": 167
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4112,
+    "fields": {
+      "line": "Высохнут слезы, стихнет смех,",
+      "song": 167
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4113,
+    "fields": {
+      "line": "Ночью проснутся звезды –",
+      "song": 167
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4114,
+    "fields": {
+      "line": "Среди них, как на грех,",
+      "song": 167
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4115,
+    "fields": {
+      "line": "Только одна луна на всех.",
+      "song": 167
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4116,
+    "fields": {
+      "line": "Полная луна. Полная луна.",
+      "song": 167
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4117,
+    "fields": {
+      "line": "Полная луна.",
+      "song": 167
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4118,
+    "fields": {
+      "line": "Лишь одна на всех.",
+      "song": 167
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4119,
+    "fields": {
+      "line": "Сколько на свете песен,",
+      "song": 167
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4120,
+    "fields": {
+      "line": "Сколько на свете книг.",
+      "song": 167
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4121,
+    "fields": {
+      "line": "Сколько событий каждый миг.",
+      "song": 167
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4122,
+    "fields": {
+      "line": "Мне этот мир стал тесен.",
+      "song": 167
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4123,
+    "fields": {
+      "line": "Слышишь, луна, мой крик?",
+      "song": 167
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4124,
+    "fields": {
+      "line": "Слышишь, луна? Услышь мой крик!",
+      "song": 167
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4125,
+    "fields": {
+      "line": "Полная луна. Полная луна.",
+      "song": 167
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4126,
+    "fields": {
+      "line": "Полная луна. Слышишь ты мой крик!",
+      "song": 167
+    }
+  }
+]

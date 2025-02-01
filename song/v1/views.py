@@ -1,11 +1,11 @@
 from typing import Any
 
-from django.http import JsonResponse
 from drf_spectacular.types import OpenApiTypes
 from drf_spectacular.utils import extend_schema, OpenApiParameter, OpenApiExample
 from rest_framework import status, viewsets
 from rest_framework.decorators import action
 from rest_framework.request import Request
+from rest_framework.response import Response
 
 from common.pagination import StandardPagination
 from common.serializers import MultiSerializerViewSet
@@ -40,7 +40,7 @@ class SongViewSet(MultiSerializerViewSet):
         ],
     )
     @action(methods=('get',), detail=False, url_path='(?P<id>\d+)/lines')
-    def lines(self, request: Request, *args: Any, **kwargs: Any):
+    def lines(self, request: Request, *args: Any, **kwargs: Any) -> Response:
         pk = self.kwargs.get('id', None)
         self.queryset = SongManager.get_song_lines(pk)
         self.is_serialized_with_children = True
@@ -61,7 +61,7 @@ class SongViewSet(MultiSerializerViewSet):
         ],
     )
     @action(methods=('get',), detail=False, url_path='by-year')
-    def by_year(self, request: Request, *args: Any, **kwargs: Any) -> JsonResponse:
+    def by_year(self, request: Request, *args: Any, **kwargs: Any) -> Response:
         year = self.request.query_params.get('year', None)
         self.queryset = SongManager.get_songs_within_year(year)
         return super().list(request, *args, **kwargs)

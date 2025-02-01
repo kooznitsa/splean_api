@@ -1,0 +1,474 @@
+[
+  {
+    "model": "line.line",
+    "pk": 424,
+    "fields": {
+      "line": "Все круги разойдутся,",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 425,
+    "fields": {
+      "line": "И город окутает тьма",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 426,
+    "fields": {
+      "line": "Двадцать лет я смотрю в календарь,",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 427,
+    "fields": {
+      "line": "И все эти годы в календаре зима",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 428,
+    "fields": {
+      "line": "И метель не дает нам уснуть,",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 429,
+    "fields": {
+      "line": "Не дает нам допеть до конца",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 430,
+    "fields": {
+      "line": "Словно паралитическим газом",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 431,
+    "fields": {
+      "line": "Наполнены наши сердца",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 432,
+    "fields": {
+      "line": "У нее было правило - не доверять тем,",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 433,
+    "fields": {
+      "line": "Кто собой заслоняет свет",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 434,
+    "fields": {
+      "line": "И я снял с нее платье,",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 435,
+    "fields": {
+      "line": "А под платьем бронежилет",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 436,
+    "fields": {
+      "line": "Когда кончится музыка,",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 437,
+    "fields": {
+      "line": "Возьми пистолет и жди крика совы,",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 438,
+    "fields": {
+      "line": "Я приду умереть от любви,",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 439,
+    "fields": {
+      "line": "Чтобы утром проснуться живым",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 440,
+    "fields": {
+      "line": "Если ты слышишь, если ты слышишь меня,",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 441,
+    "fields": {
+      "line": "Время вышло, а я не успел показать тебе",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 442,
+    "fields": {
+      "line": "Черный цвет солнца",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 443,
+    "fields": {
+      "line": "Лето ушло и уже никогда не вернется",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 444,
+    "fields": {
+      "line": "Осень, хлебни ядовитой воды из колодца,",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 445,
+    "fields": {
+      "line": "Зима будет долгой, но все обойдется,",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 446,
+    "fields": {
+      "line": "Черный цвет солнца",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 447,
+    "fields": {
+      "line": "Кто нас заметит? Кто улыбнется?",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 448,
+    "fields": {
+      "line": "Кто нам подарит рассвет?",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 449,
+    "fields": {
+      "line": "Черный цвет солнца ...",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 450,
+    "fields": {
+      "line": "На вокзале так трудно поверить",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 451,
+    "fields": {
+      "line": "В то, что где-то идут поезда",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 452,
+    "fields": {
+      "line": "Кто-то поднял глаза на меня -",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 453,
+    "fields": {
+      "line": "И из глаз покатилась звезда",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 454,
+    "fields": {
+      "line": "Разделенные линией жизни,",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 455,
+    "fields": {
+      "line": "Мы смотрим и видим сквозь сон,",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 456,
+    "fields": {
+      "line": "Нехорошие вести несет нам домой почтальон",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 457,
+    "fields": {
+      "line": "И шаги его гулко звучат",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 458,
+    "fields": {
+      "line": "В коридорах сплошной темноты",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 459,
+    "fields": {
+      "line": "В отпечатках следов его",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 460,
+    "fields": {
+      "line": "Растут полевые цветы",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 461,
+    "fields": {
+      "line": "Он идет открыть тебе тайну -",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 462,
+    "fields": {
+      "line": "Заметь, как в глазах меркнет мир -",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 463,
+    "fields": {
+      "line": "Что все эти годы мы пили метиловый спирт",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 464,
+    "fields": {
+      "line": "Если ты слышишь, если ты слышишь меня,",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 465,
+    "fields": {
+      "line": "Время вышло, а я не успел показать тебе",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 466,
+    "fields": {
+      "line": "Черный цвет солнца",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 467,
+    "fields": {
+      "line": "Лето ушло и уже никогда не вернется",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 468,
+    "fields": {
+      "line": "Осень, хлебни ядовитой воды из колодца,",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 469,
+    "fields": {
+      "line": "Зима будет долгой, но все обойдется,",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 470,
+    "fields": {
+      "line": "Черный цвет солнца",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 471,
+    "fields": {
+      "line": "Кто нас заметит? Кто улыбнется?",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 472,
+    "fields": {
+      "line": "Кто нам подарит рассвет?",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 473,
+    "fields": {
+      "line": "Черный цвет солнца ...",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 474,
+    "fields": {
+      "line": "Ты можешь назвать эту песню",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 475,
+    "fields": {
+      "line": "Набором бессмысленных фраз,",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 476,
+    "fields": {
+      "line": "Ты можешь заставить меня молчать,",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 477,
+    "fields": {
+      "line": "Сказав, что это приказ,",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 478,
+    "fields": {
+      "line": "Ты можешь разбить зеркала,",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 479,
+    "fields": {
+      "line": "Которые помнят, но лгут,",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 480,
+    "fields": {
+      "line": "А я знаю только одно,",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 481,
+    "fields": {
+      "line": "Я знаю - все реки текут",
+      "song": 16
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 482,
+    "fields": {
+      "line": "Сквозь черный цвет солнца",
+      "song": 16
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "model": "line.line",
+    "pk": 3272,
+    "fields": {
+      "line": "Все так странно…",
+      "song": 132
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3273,
+    "fields": {
+      "line": "Все так странно и красиво…",
+      "song": 132
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3274,
+    "fields": {
+      "line": "Все так странно и красиво…",
+      "song": 132
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3275,
+    "fields": {
+      "line": "Всё беззвучно…",
+      "song": 132
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3276,
+    "fields": {
+      "line": "Всё беззвучно…",
+      "song": 132
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3277,
+    "fields": {
+      "line": "Всё беззву…",
+      "song": 132
+    }
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "model": "line.line",
+    "pk": 4017,
+    "fields": {
+      "line": "Бывает так, что жизнь прекрасна.",
+      "song": 163
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4018,
+    "fields": {
+      "line": "И вся понятна и проста.",
+      "song": 163
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4019,
+    "fields": {
+      "line": "И ничего не происходит.",
+      "song": 163
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4020,
+    "fields": {
+      "line": "И красота…",
+      "song": 163
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4021,
+    "fields": {
+      "line": "И красота…",
+      "song": 163
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4022,
+    "fields": {
+      "line": "И красота…",
+      "song": 163
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4023,
+    "fields": {
+      "line": "Мосты повисли над водами.",
+      "song": 163
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4024,
+    "fields": {
+      "line": "Вода играет у моста.",
+      "song": 163
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4025,
+    "fields": {
+      "line": "И все вокруг переменилось.",
+      "song": 163
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4026,
+    "fields": {
+      "line": "И красота…",
+      "song": 163
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4027,
+    "fields": {
+      "line": "И красота…",
+      "song": 163
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4028,
+    "fields": {
+      "line": "И красота…",
+      "song": 163
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4029,
+    "fields": {
+      "line": "И красота во всем, что движет нами.",
+      "song": 163
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4030,
+    "fields": {
+      "line": "И красота меж Богом и людьми.",
+      "song": 163
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4031,
+    "fields": {
+      "line": "И красота во тьме, сверкнув огнями.",
+      "song": 163
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4032,
+    "fields": {
+      "line": "Спасет весь мир…",
+      "song": 163
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4033,
+    "fields": {
+      "line": "Спасет весь мир…",
+      "song": 163
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4034,
+    "fields": {
+      "line": "Спасет весь мир…",
+      "song": 163
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4035,
+    "fields": {
+      "line": "Бывает так, что в этой жизни.",
+      "song": 163
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4036,
+    "fields": {
+      "line": "Не понимаешь ни черта.",
+      "song": 163
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4037,
+    "fields": {
+      "line": "Ты ни черта не понимаешь.",
+      "song": 163
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4038,
+    "fields": {
+      "line": "И красота…",
+      "song": 163
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4039,
+    "fields": {
+      "line": "И красота…",
+      "song": 163
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4040,
+    "fields": {
+      "line": "И красота…",
+      "song": 163
+    }
+  }
+]

@@ -1,0 +1,370 @@
+[
+  {
+    "model": "line.line",
+    "pk": 3163,
+    "fields": {
+      "line": "Человек среди ночи",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3164,
+    "fields": {
+      "line": "Начал ходить по квартире,",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3165,
+    "fields": {
+      "line": "Бормотать стихи,",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3166,
+    "fields": {
+      "line": "Напевать что-то в странном стиле,",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3167,
+    "fields": {
+      "line": "Измерять шагами",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3168,
+    "fields": {
+      "line": "Длину своего ночлега,",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3169,
+    "fields": {
+      "line": "Словно он ни за что",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3170,
+    "fields": {
+      "line": "Ударил в лицо человека.",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3171,
+    "fields": {
+      "line": "И пролилась кровь",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3172,
+    "fields": {
+      "line": "На ковёр, на рукав, на стены,",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3173,
+    "fields": {
+      "line": "Тетива гудела,",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3174,
+    "fields": {
+      "line": "Повсюду летали стрелы.",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3175,
+    "fields": {
+      "line": "Хорошо, что ребёнок",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3176,
+    "fields": {
+      "line": "В соседней комнате спал в постели.",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3177,
+    "fields": {
+      "line": "Человек не спал,",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3178,
+    "fields": {
+      "line": "Он метался, как зверь по клетке.",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3179,
+    "fields": {
+      "line": "Уже звонили в полицию",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3180,
+    "fields": {
+      "line": "Его соседи, соседки.",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3181,
+    "fields": {
+      "line": "Он начал петь очень громко,",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3182,
+    "fields": {
+      "line": "Протяжно, грустно,",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3183,
+    "fields": {
+      "line": "Над головой в темноте",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3184,
+    "fields": {
+      "line": "Закачалась люстра.",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3185,
+    "fields": {
+      "line": "Он закричал,",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3186,
+    "fields": {
+      "line": "Что не видит света",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3187,
+    "fields": {
+      "line": "В конце тоннеля,",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3188,
+    "fields": {
+      "line": "Что скоро лето,",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3189,
+    "fields": {
+      "line": "Что он не здесь,",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3190,
+    "fields": {
+      "line": "Он остался где-то…",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3191,
+    "fields": {
+      "line": "Что он дошёл,",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3192,
+    "fields": {
+      "line": "Что стоит на грани,",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3193,
+    "fields": {
+      "line": "Что этой ноты нет",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3194,
+    "fields": {
+      "line": "В этой гамме,",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3195,
+    "fields": {
+      "line": "И что, скорее всего,",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3196,
+    "fields": {
+      "line": "Он Гамлет,",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3197,
+    "fields": {
+      "line": "И ненавидит",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3198,
+    "fields": {
+      "line": "Людские толпы.",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3199,
+    "fields": {
+      "line": "И тут в квартиру",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3200,
+    "fields": {
+      "line": "Вбежали копы,",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3201,
+    "fields": {
+      "line": "Он получил сапогом",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3202,
+    "fields": {
+      "line": "Под дыхло,",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3203,
+    "fields": {
+      "line": "И свет погас,",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3204,
+    "fields": {
+      "line": "И в квартире стихло.",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3205,
+    "fields": {
+      "line": "И свет погас,",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3206,
+    "fields": {
+      "line": "И в квартире стихло.",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3207,
+    "fields": {
+      "line": "И свет погас,",
+      "song": 128
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3208,
+    "fields": {
+      "line": "И в квартире стихло.",
+      "song": 128
+    }
+  }
+]

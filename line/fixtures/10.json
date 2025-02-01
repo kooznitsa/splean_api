@@ -1,0 +1,162 @@
+[
+  {
+    "model": "line.line",
+    "pk": 218,
+    "fields": {
+      "line": "Ты знаешь, вернулся наш сказочный леший",
+      "song": 10
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 219,
+    "fields": {
+      "line": "Из города длинных волос",
+      "song": 10
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 220,
+    "fields": {
+      "line": "Да вот он идет, до чего ж он потешный -",
+      "song": 10
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 221,
+    "fields": {
+      "line": "До слез",
+      "song": 10
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 222,
+    "fields": {
+      "line": "Привет, я ловлю золотые мгновенья",
+      "song": 10
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 223,
+    "fields": {
+      "line": "Дырявым сачком колдуна",
+      "song": 10
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 224,
+    "fields": {
+      "line": "Скажи мне, испил ли ты чашу терпенья -",
+      "song": 10
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 225,
+    "fields": {
+      "line": "До дна ...",
+      "song": 10
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 226,
+    "fields": {
+      "line": "А время - держал ли ты стрелки руками?",
+      "song": 10
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 227,
+    "fields": {
+      "line": "А кости - упали на шесть!",
+      "song": 10
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 228,
+    "fields": {
+      "line": "А сколько крестов поднялось над холмами -",
+      "song": 10
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 229,
+    "fields": {
+      "line": "Не счесть ...",
+      "song": 10
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 230,
+    "fields": {
+      "line": "Но люди, я знаю, все так же красивы,",
+      "song": 10
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 231,
+    "fields": {
+      "line": "По-прежнему весел их нрав,",
+      "song": 10
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 232,
+    "fields": {
+      "line": "И реки - весной так прекрасны разливы! -",
+      "song": 10
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 233,
+    "fields": {
+      "line": "Оставь ...",
+      "song": 10
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 234,
+    "fields": {
+      "line": "Ну что же, я вижу, с последнего лада",
+      "song": 10
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 235,
+    "fields": {
+      "line": "Скатилась последняя соль\".",
+      "song": 10
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 236,
+    "fields": {
+      "line": "Глоток несказанно вкуснейшего яда -",
+      "song": 10
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 237,
+    "fields": {
+      "line": "И все ...",
+      "song": 10
+    }
+  }
+]

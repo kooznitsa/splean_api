@@ -1,0 +1,130 @@
+[
+  {
+    "model": "line.line",
+    "pk": 3578,
+    "fields": {
+      "line": "Тик-так. Здравствуйте, люди!",
+      "song": 143
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3579,
+    "fields": {
+      "line": "В праздничный день. В праздничный день.",
+      "song": 143
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3580,
+    "fields": {
+      "line": "Много людей, разных людей.",
+      "song": 143
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3581,
+    "fields": {
+      "line": "В мире иллюзий.",
+      "song": 143
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3582,
+    "fields": {
+      "line": "Разных людей.",
+      "song": 143
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3583,
+    "fields": {
+      "line": "Им всё равно.",
+      "song": 143
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3584,
+    "fields": {
+      "line": "Всё равно: что летать,",
+      "song": 143
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3585,
+    "fields": {
+      "line": "Что быть связанным в узел.",
+      "song": 143
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3586,
+    "fields": {
+      "line": "Ждут Рождества и при этом боятся прихода зимы.",
+      "song": 143
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3587,
+    "fields": {
+      "line": "Скоро и мы потеряем друг друга в этом мире иллюзий.",
+      "song": 143
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3588,
+    "fields": {
+      "line": "Скоро и мы. Скоро и мы. Скоро и мы.",
+      "song": 143
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3589,
+    "fields": {
+      "line": "В мире иллюзий... иллюзий.",
+      "song": 143
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3590,
+    "fields": {
+      "line": "В мире иллюзий.",
+      "song": 143
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3591,
+    "fields": {
+      "line": "Скоро и мы... Потеряем друг друга в мире иллюзий.",
+      "song": 143
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3592,
+    "fields": {
+      "line": "В мире иллюзий,",
+      "song": 143
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3593,
+    "fields": {
+      "line": "В мире иллюзий.",
+      "song": 143
+    }
+  }
+]

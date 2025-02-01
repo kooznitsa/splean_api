@@ -1,0 +1,290 @@
+[
+  {
+    "model": "line.line",
+    "pk": 5072,
+    "fields": {
+      "line": "Из-за прикрытых штор,",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5073,
+    "fields": {
+      "line": "Пережидая шторм,",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5074,
+    "fields": {
+      "line": "Навстречу горю и веселью",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5075,
+    "fields": {
+      "line": "Громадой всею",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5076,
+    "fields": {
+      "line": "Врастая в землю,",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5077,
+    "fields": {
+      "line": "Взлетая вверх",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5078,
+    "fields": {
+      "line": "Из-за прикрытых плотно штор,",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5079,
+    "fields": {
+      "line": "Пережидая штиль и шторм",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5080,
+    "fields": {
+      "line": "Дом смотрит окнами во двор.",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5081,
+    "fields": {
+      "line": "Мимо небесных сфер,",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5082,
+    "fields": {
+      "line": "Мимо Вселенной всей,",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5083,
+    "fields": {
+      "line": "Однажды в час перед закатом,",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5084,
+    "fields": {
+      "line": "Холодным мартом,",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5085,
+    "fields": {
+      "line": "Легче, чем атом,",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5086,
+    "fields": {
+      "line": "Быстрей, чем свет,",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5087,
+    "fields": {
+      "line": "Кружась среди небесных сфер,",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5088,
+    "fields": {
+      "line": "Мимо Вселенной этой всей",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5089,
+    "fields": {
+      "line": "Дом смотрит окнами на сквер.",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5090,
+    "fields": {
+      "line": "Тени у фонаря –",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5091,
+    "fields": {
+      "line": "Одна из них моя,",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5092,
+    "fields": {
+      "line": "А здесь, на этих перекрестках",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5093,
+    "fields": {
+      "line": "Все слишком плоско,",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5094,
+    "fields": {
+      "line": "Все слишком пестро.",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5095,
+    "fields": {
+      "line": "И все не так,",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5096,
+    "fields": {
+      "line": "Однажды в середине дня",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5097,
+    "fields": {
+      "line": "Исчезнет тень у фонаря,",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5098,
+    "fields": {
+      "line": "Дом смотрит прямо на меня.",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5099,
+    "fields": {
+      "line": "Однажды в середине дня",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5100,
+    "fields": {
+      "line": "Исчезнет тень у фонаря,",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5101,
+    "fields": {
+      "line": "Дом смотрит прямо на меня.",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5102,
+    "fields": {
+      "line": "Однажды в середине дня",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5103,
+    "fields": {
+      "line": "Исчезнет тень у фонаря,",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5104,
+    "fields": {
+      "line": "Дом смотрит прямо на меня.",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5105,
+    "fields": {
+      "line": "Однажды в середине дня",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5106,
+    "fields": {
+      "line": "Исчезнет тень у фонаря,",
+      "song": 202
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 5107,
+    "fields": {
+      "line": "Дом смотрит прямо на меня.",
+      "song": 202
+    }
+  }
+]

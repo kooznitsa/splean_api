@@ -1,0 +1,130 @@
+[
+  {
+    "model": "line.line",
+    "pk": 2178,
+    "fields": {
+      "line": "В одном из домов, там где кофе и сигарета",
+      "song": 84
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2179,
+    "fields": {
+      "line": "Те, кто придут узнать что нас нет - простят нас за это",
+      "song": 84
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2180,
+    "fields": {
+      "line": "В этом году такое жаркое лето",
+      "song": 84
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2181,
+    "fields": {
+      "line": "Там наверху тихо течет раскаленная крыша",
+      "song": 84
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2182,
+    "fields": {
+      "line": "Окна открыты",
+      "song": 84
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2183,
+    "fields": {
+      "line": "Мышка спит",
+      "song": 84
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2184,
+    "fields": {
+      "line": "Будет гроза - молнии ждут сигнала контррбандиста",
+      "song": 84
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2185,
+    "fields": {
+      "line": "На глубине прорвется сквозь сеть твоя Altavista",
+      "song": 84
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2186,
+    "fields": {
+      "line": "И ты сыграешь Азбуку Морзе",
+      "song": 84
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2187,
+    "fields": {
+      "line": "Симфонию Глюка",
+      "song": 84
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2188,
+    "fields": {
+      "line": "на клавиатуре",
+      "song": 84
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2189,
+    "fields": {
+      "line": "Так что навсегда уходящее солнце замрет",
+      "song": 84
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2190,
+    "fields": {
+      "line": "В этом жарком июле",
+      "song": 84
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2191,
+    "fields": {
+      "line": "Altavista ...",
+      "song": 84
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2192,
+    "fields": {
+      "line": "Altavista ...",
+      "song": 84
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 2193,
+    "fields": {
+      "line": "Altavista ...",
+      "song": 84
+    }
+  }
+]

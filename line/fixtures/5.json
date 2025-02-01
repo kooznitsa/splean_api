@@ -1,0 +1,162 @@
+[
+  {
+    "model": "line.line",
+    "pk": 108,
+    "fields": {
+      "line": "Дождю ни капельки не жаль",
+      "song": 5
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 109,
+    "fields": {
+      "line": "Для мокрого лица",
+      "song": 5
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 110,
+    "fields": {
+      "line": "Я видел в небе дирижабль -",
+      "song": 5
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 111,
+    "fields": {
+      "line": "Облако свинца",
+      "song": 5
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 112,
+    "fields": {
+      "line": "Я запрокинул голову",
+      "song": 5
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 113,
+    "fields": {
+      "line": "И я увидел молнию",
+      "song": 5
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 114,
+    "fields": {
+      "line": "От неба до конца!",
+      "song": 5
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 115,
+    "fields": {
+      "line": "Забудьте запах свежих роз",
+      "song": 5
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 116,
+    "fields": {
+      "line": "И поцелуй луны,",
+      "song": 5
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 117,
+    "fields": {
+      "line": "Сегодня праздник майских гроз",
+      "song": 5
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 118,
+    "fields": {
+      "line": "И бал у сатаны,",
+      "song": 5
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 119,
+    "fields": {
+      "line": "Все на корабль, идущий в шторм",
+      "song": 5
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 120,
+    "fields": {
+      "line": "От пристани где слышится",
+      "song": 5
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 121,
+    "fields": {
+      "line": "Звук лопнувшей струны!",
+      "song": 5
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 122,
+    "fields": {
+      "line": "На виноградную лозу",
+      "song": 5
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 123,
+    "fields": {
+      "line": "Вода наводит дрожь,",
+      "song": 5
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 124,
+    "fields": {
+      "line": "У неба вымолив слезу",
+      "song": 5
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 125,
+    "fields": {
+      "line": "Не попадешь под дождь,",
+      "song": 5
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 126,
+    "fields": {
+      "line": "Я знаю - я войду в грозу",
+      "song": 5
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 127,
+    "fields": {
+      "line": "Лишь неба ткань разрежет молний нож!",
+      "song": 5
+    }
+  }
+]

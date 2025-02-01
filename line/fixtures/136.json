@@ -1,0 +1,298 @@
+[
+  {
+    "model": "line.line",
+    "pk": 3325,
+    "fields": {
+      "line": "Летела жизнь,",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3326,
+    "fields": {
+      "line": "Мелькали этажи",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3327,
+    "fields": {
+      "line": "Навстречу тем,",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3328,
+    "fields": {
+      "line": "Кто превратился в тень.",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3329,
+    "fields": {
+      "line": "Летела так",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3330,
+    "fields": {
+      "line": "Быстро и нелепо,",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3331,
+    "fields": {
+      "line": "Горел табак —",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3332,
+    "fields": {
+      "line": "Становился пеплом.",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3333,
+    "fields": {
+      "line": "И падал вниз,",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3334,
+    "fields": {
+      "line": "Куда летела жизнь.",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3335,
+    "fields": {
+      "line": "Или наверх,",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3336,
+    "fields": {
+      "line": "Куда заносит всех.",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3337,
+    "fields": {
+      "line": "Или вперёд,",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3338,
+    "fields": {
+      "line": "Двигаясь по кругу,",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3339,
+    "fields": {
+      "line": "Или на лёд",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3340,
+    "fields": {
+      "line": "Мартовский с испугу,",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3341,
+    "fields": {
+      "line": "Или на взлёт",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3342,
+    "fields": {
+      "line": "Вычертить фигуру",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3343,
+    "fields": {
+      "line": "На небе хмуром.",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3344,
+    "fields": {
+      "line": "Летела жизнь,",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3345,
+    "fields": {
+      "line": "Мелькали этажи,",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3346,
+    "fields": {
+      "line": "Менялась власть,",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3347,
+    "fields": {
+      "line": "Напившись крови всласть.",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3348,
+    "fields": {
+      "line": "Крутился шар,",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3349,
+    "fields": {
+      "line": "Давая миру шанс.",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3350,
+    "fields": {
+      "line": "Летело всё,",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3351,
+    "fields": {
+      "line": "Набирая скорость,",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3352,
+    "fields": {
+      "line": "Теряя счёт,",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3353,
+    "fields": {
+      "line": "Вырывая с корнем.",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3354,
+    "fields": {
+      "line": "Надеясь, всё",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3355,
+    "fields": {
+      "line": "Повторится скоро",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3356,
+    "fields": {
+      "line": "Снова и снова.",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3357,
+    "fields": {
+      "line": "Летела жизнь,",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3358,
+    "fields": {
+      "line": "Летела жизнь,",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3359,
+    "fields": {
+      "line": "Летела жизнь,",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3360,
+    "fields": {
+      "line": "Летела жизнь,",
+      "song": 136
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3361,
+    "fields": {
+      "line": "Летела жизнь...",
+      "song": 136
+    }
+  }
+]

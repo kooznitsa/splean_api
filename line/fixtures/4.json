@@ -1,0 +1,266 @@
+[
+  {
+    "model": "line.line",
+    "pk": 75,
+    "fields": {
+      "line": "Хочу отдохнуть от сатиры,",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 76,
+    "fields": {
+      "line": "У лиры моей",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 77,
+    "fields": {
+      "line": "Есть тихо дрожащие, легкие звуки,",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 78,
+    "fields": {
+      "line": "Усталые руки",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 79,
+    "fields": {
+      "line": "На умные струны кладу,",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 80,
+    "fields": {
+      "line": "Пою и в такт головою киваю",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 81,
+    "fields": {
+      "line": "Хочу быть незлобным ягненком,",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 82,
+    "fields": {
+      "line": "Ребенком,",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 83,
+    "fields": {
+      "line": "Которого взрослые люди дразнили",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 84,
+    "fields": {
+      "line": "И злили,",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 85,
+    "fields": {
+      "line": "А жизнь за чьи-то чужие грехи",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 86,
+    "fields": {
+      "line": "Лишила третьего блюда.",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 87,
+    "fields": {
+      "line": "Васильевский остров прекрасен,",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 88,
+    "fields": {
+      "line": "Как жаба в манжетах,",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 89,
+    "fields": {
+      "line": "Отсюда, с балконца,",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 90,
+    "fields": {
+      "line": "Омытый потоками солнца,",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 91,
+    "fields": {
+      "line": "Он весел, и грязен, и ясен",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 92,
+    "fields": {
+      "line": "Как старый маркер",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 93,
+    "fields": {
+      "line": "Над ним углубленная просинь",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 94,
+    "fields": {
+      "line": "Зовет, и поет, и дрожит",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 95,
+    "fields": {
+      "line": "Задумчиво осень последние листья желтит",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 96,
+    "fields": {
+      "line": "Срывает,",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 97,
+    "fields": {
+      "line": "Бросает под ноги людей на панель",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 98,
+    "fields": {
+      "line": "А в сердце не смолкнет свирель:",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 99,
+    "fields": {
+      "line": "Весна опять возвратится!",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 100,
+    "fields": {
+      "line": "О, нежная спячка медведя,",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 101,
+    "fields": {
+      "line": "Сосущего пальчики лап!",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 102,
+    "fields": {
+      "line": "Твой девственный храп",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 103,
+    "fields": {
+      "line": "Желанней лобзаний прекраснейшей леди,",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 104,
+    "fields": {
+      "line": "Как молью изъеден я сплином,",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 105,
+    "fields": {
+      "line": "Посыпьте меня нафталином,",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 106,
+    "fields": {
+      "line": "Сложите в сундук и поставьте меня на чердак",
+      "song": 4
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 107,
+    "fields": {
+      "line": "Пока не наступит весна",
+      "song": 4
+    }
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "model": "line.line",
+    "pk": 3059,
+    "fields": {
+      "line": "Привет!",
+      "song": 123
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3060,
+    "fields": {
+      "line": "Привет, зеленый свет!",
+      "song": 123
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3061,
+    "fields": {
+      "line": "Зеленый свет, привет!",
+      "song": 123
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3062,
+    "fields": {
+      "line": "Привет на много лет,",
+      "song": 123
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3063,
+    "fields": {
+      "line": "На много лет привет!",
+      "song": 123
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3064,
+    "fields": {
+      "line": "Салют!",
+      "song": 123
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3065,
+    "fields": {
+      "line": "Я не останусь тут –",
+      "song": 123
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3066,
+    "fields": {
+      "line": "Меня давно зовут;",
+      "song": 123
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3067,
+    "fields": {
+      "line": "Прохожие поют,",
+      "song": 123
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3068,
+    "fields": {
+      "line": "Часы тринадцать бьют!",
+      "song": 123
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3069,
+    "fields": {
+      "line": "Мы улетаем на другую планету!",
+      "song": 123
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3070,
+    "fields": {
+      "line": "Мы улетаем на другую планету!",
+      "song": 123
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3071,
+    "fields": {
+      "line": "Мы улетаем на другую планету!",
+      "song": 123
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3072,
+    "fields": {
+      "line": "Мы улетаем на другую планету!",
+      "song": 123
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3073,
+    "fields": {
+      "line": "Прощай!",
+      "song": 123
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3074,
+    "fields": {
+      "line": "Прощай, зеленый чай,",
+      "song": 123
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3075,
+    "fields": {
+      "line": "Зеленый чай, прощай!",
+      "song": 123
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3076,
+    "fields": {
+      "line": "Прощай, пустой причал,",
+      "song": 123
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3077,
+    "fields": {
+      "line": "Пустой причал, прощай!",
+      "song": 123
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3078,
+    "fields": {
+      "line": "Мы улетаем на другую планету!",
+      "song": 123
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3079,
+    "fields": {
+      "line": "Мы улетаем на другую планету!",
+      "song": 123
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3080,
+    "fields": {
+      "line": "Мы улетаем на другую планету!",
+      "song": 123
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3081,
+    "fields": {
+      "line": "Мы улетаем на другую планету!",
+      "song": 123
+    }
+  }
+]

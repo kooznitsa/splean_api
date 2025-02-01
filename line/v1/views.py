@@ -7,6 +7,7 @@ from drf_spectacular.utils import extend_schema, OpenApiParameter, OpenApiExampl
 from rest_framework import status, viewsets
 from rest_framework.decorators import action
 from rest_framework.request import Request
+from rest_framework.response import Response
 
 from common.pagination import StandardPagination
 from line.documents import LineDocument
@@ -39,7 +40,7 @@ class LineViewSet(viewsets.ReadOnlyModelViewSet):
         ],
     )
     @action(methods=('get',), detail=False, url_path='by-word')
-    def by_word(self, request: Request, *args: Any, **kwargs: Any):
+    def by_word(self, request: Request, *args: Any, **kwargs: Any) -> Response:
         word = self.request.query_params.get('word', None)
         query = ElasticsearchQueryManager.query_lines_containing_word(word)
         search = self.document_class.search().query(query)
@@ -52,6 +53,8 @@ class LineViewSet(viewsets.ReadOnlyModelViewSet):
         responses={status.HTTP_200_OK: serializer_class},
     )
     @action(methods=('get',), detail=False, url_path='random')
-    def random(self, request: Request, *args: Any, **kwargs: Any):
-        self.queryset = random.choices(self.get_queryset(), k=1)
-        return super().list(request, *args, **kwargs)
+    def random(self, request: Request, *args: Any, **kwargs: Any) -> Response:
+        ids = Line.objects.values_list('id', flat=True)
+        queryset = self.get_queryset().filter(id=random.choice(ids))[0]
+        serializer = self.get_serializer(queryset)
+        return Response(serializer.data)

@@ -1,0 +1,442 @@
+[
+  {
+    "model": "line.line",
+    "pk": 3523,
+    "fields": {
+      "line": "Тронулся в путь состав,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3524,
+    "fields": {
+      "line": "Щёлкнул один сустав,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3525,
+    "fields": {
+      "line": "Дрогнул один рукав,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3526,
+    "fields": {
+      "line": "Всё, доставайте стафф.",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3527,
+    "fields": {
+      "line": "Всё, доставайте стафф",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3528,
+    "fields": {
+      "line": "Просьбой о кипятке.",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3529,
+    "fields": {
+      "line": "Поезд идёт к реке,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3530,
+    "fields": {
+      "line": "Поезд идёт в тайге.",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3531,
+    "fields": {
+      "line": "Там над тайгою мост,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3532,
+    "fields": {
+      "line": "Там под мостом замёрз,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3533,
+    "fields": {
+      "line": "Льдинку зажав в руке,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3534,
+    "fields": {
+      "line": "Отогревая мозг,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3535,
+    "fields": {
+      "line": "Брошенный человек.",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3536,
+    "fields": {
+      "line": "Слёз не бежит из век,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3537,
+    "fields": {
+      "line": "Кровь не бежит из вен,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3538,
+    "fields": {
+      "line": "Быстро промчался век.",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3539,
+    "fields": {
+      "line": "Рядом загнулся вел,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3540,
+    "fields": {
+      "line": "Рядом загнулся вепрь,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3541,
+    "fields": {
+      "line": "Рядом загнулся мир.",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3542,
+    "fields": {
+      "line": "Рядом из чёрных дыр",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3543,
+    "fields": {
+      "line": "Веет родным теплом,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3544,
+    "fields": {
+      "line": "Пеплом усыпан вор,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3545,
+    "fields": {
+      "line": "Пеплом усыпан дом,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3546,
+    "fields": {
+      "line": "Пеплом усыпан двор,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3547,
+    "fields": {
+      "line": "Пеплом усыпан мир.",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3548,
+    "fields": {
+      "line": "Рядом из чёрных дыр",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3549,
+    "fields": {
+      "line": "Веет родным теплом,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3550,
+    "fields": {
+      "line": "Пепел покинет дом,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3551,
+    "fields": {
+      "line": "Пепел покинет двор,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3552,
+    "fields": {
+      "line": "Пепел покинет мир.",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3553,
+    "fields": {
+      "line": "Рядом из чёрных дыр",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3554,
+    "fields": {
+      "line": "Веет родным теплом,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3555,
+    "fields": {
+      "line": "Вор не покинет дом,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3556,
+    "fields": {
+      "line": "Дом не покинет двор,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3557,
+    "fields": {
+      "line": "Двор не покинет мир.",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3558,
+    "fields": {
+      "line": "Рядом из чёрных дыр",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3559,
+    "fields": {
+      "line": "Веет родным теплом,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3560,
+    "fields": {
+      "line": "Мир не покинет вор,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3561,
+    "fields": {
+      "line": "Мир не покинет дом,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3562,
+    "fields": {
+      "line": "Мир не покинет двор,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3563,
+    "fields": {
+      "line": "Мир не покинет дол,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3564,
+    "fields": {
+      "line": "Мир не покинет долг.",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3565,
+    "fields": {
+      "line": "Рядом из чёрных дыр",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3566,
+    "fields": {
+      "line": "Воет знакомый волк,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3567,
+    "fields": {
+      "line": "Все мы идём на дно,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3568,
+    "fields": {
+      "line": "Не все мы идём на дно,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3569,
+    "fields": {
+      "line": "Все мы идём на дно.",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3570,
+    "fields": {
+      "line": "Остановиться влом,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3571,
+    "fields": {
+      "line": "Остановиться влом,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3572,
+    "fields": {
+      "line": "Остановите зло и",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3573,
+    "fields": {
+      "line": "Рим превратится в ром,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3574,
+    "fields": {
+      "line": "Рим превратится в ром.",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3575,
+    "fields": {
+      "line": "Время творить Добро,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3576,
+    "fields": {
+      "line": "Время творить Добро,",
+      "song": 142
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 3577,
+    "fields": {
+      "line": "Время творить Добро.",
+      "song": 142
+    }
+  }
+]

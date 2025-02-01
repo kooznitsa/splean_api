@@ -1,0 +1,210 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1402,
+    "fields": {
+      "line": "Здесь-",
+      "song": 52
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1403,
+    "fields": {
+      "line": "Там-",
+      "song": 52
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1404,
+    "fields": {
+      "line": "Бьют шаманы в барабан,",
+      "song": 52
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1405,
+    "fields": {
+      "line": "Там-",
+      "song": 52
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1406,
+    "fields": {
+      "line": "Здесь-",
+      "song": 52
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1407,
+    "fields": {
+      "line": "Все сойдется,будет ядерная смесь,",
+      "song": 52
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1408,
+    "fields": {
+      "line": "Здесь все фильмы задом наперед,",
+      "song": 52
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1409,
+    "fields": {
+      "line": "Здесь весною не цветет пейот,",
+      "song": 52
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1410,
+    "fields": {
+      "line": "Здесь никто веселых песен не поет -",
+      "song": 52
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1411,
+    "fields": {
+      "line": "Далеко домой,",
+      "song": 52
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1412,
+    "fields": {
+      "line": "Далеко домой...",
+      "song": 52
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1413,
+    "fields": {
+      "line": "Да-",
+      "song": 52
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1414,
+    "fields": {
+      "line": "Нет-",
+      "song": 52
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1415,
+    "fields": {
+      "line": "Ты все узнаешь из газет,",
+      "song": 52
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1416,
+    "fields": {
+      "line": "Нет-",
+      "song": 52
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1417,
+    "fields": {
+      "line": "Да-",
+      "song": 52
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1418,
+    "fields": {
+      "line": "Из газет ты не узнаешь никогда,",
+      "song": 52
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1419,
+    "fields": {
+      "line": "Что со мною нет проводника,",
+      "song": 52
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1420,
+    "fields": {
+      "line": "До нирваны ровно полглотка,",
+      "song": 52
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1421,
+    "fields": {
+      "line": "И мне некому сказать:Привет!\"",
+      "song": 52
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1422,
+    "fields": {
+      "line": "И некому сказать:\"Пока!\" -",
+      "song": 52
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1423,
+    "fields": {
+      "line": "Далеко домой,",
+      "song": 52
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1424,
+    "fields": {
+      "line": "Далеко домой...",
+      "song": 52
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1425,
+    "fields": {
+      "line": "Здесь-",
+      "song": 52
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1426,
+    "fields": {
+      "line": "Там-",
+      "song": 52
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1427,
+    "fields": {
+      "line": "Бьют шаманы в барабан...",
+      "song": 52
+    }
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "model": "line.line",
+    "pk": 4343,
+    "fields": {
+      "line": "Часы зависли выше всех",
+      "song": 173
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4344,
+    "fields": {
+      "line": "И обе стрелки смотрят вверх,",
+      "song": 173
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4345,
+    "fields": {
+      "line": "Когда на город ляжет тень –",
+      "song": 173
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4346,
+    "fields": {
+      "line": "Мы исчезаем в темноте.",
+      "song": 173
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4347,
+    "fields": {
+      "line": "Ни переходов, ни ходов,",
+      "song": 173
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4348,
+    "fields": {
+      "line": "Ни отпечатков, ни следов,",
+      "song": 173
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4349,
+    "fields": {
+      "line": "Для разговоров нет больше тем –",
+      "song": 173
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4350,
+    "fields": {
+      "line": "Мы исчезаем в темноте.",
+      "song": 173
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4351,
+    "fields": {
+      "line": "Никто не знает наших нор,",
+      "song": 173
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4352,
+    "fields": {
+      "line": "Никто не слышит наших нот,",
+      "song": 173
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4353,
+    "fields": {
+      "line": "Никто не видит наших тел –",
+      "song": 173
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4354,
+    "fields": {
+      "line": "Мы исчезаем в темноте.",
+      "song": 173
+    }
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "model": "line.line",
+    "pk": 4872,
+    "fields": {
+      "line": "Его превосходительство",
+      "song": 194
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4873,
+    "fields": {
+      "line": "Любил хороших птиц",
+      "song": 194
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4874,
+    "fields": {
+      "line": "И брал под покровительство",
+      "song": 194
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4875,
+    "fields": {
+      "line": "Хорошеньких девиц.",
+      "song": 194
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4876,
+    "fields": {
+      "line": "Он слыл большим проказником",
+      "song": 194
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4877,
+    "fields": {
+      "line": "И в клубе в вист играл,",
+      "song": 194
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4878,
+    "fields": {
+      "line": "Грошами он по праздникам",
+      "song": 194
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4879,
+    "fields": {
+      "line": "Всем нищим раздавал.",
+      "song": 194
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4880,
+    "fields": {
+      "line": "Актрис к местам пристраивал,",
+      "song": 194
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4881,
+    "fields": {
+      "line": "Брильянты им дарил,",
+      "song": 194
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4882,
+    "fields": {
+      "line": "Крестьян своих расстраивал",
+      "song": 194
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 4883,
+    "fields": {
+      "line": "И по миру пустил.",
+      "song": 194
+    }
+  }
+]

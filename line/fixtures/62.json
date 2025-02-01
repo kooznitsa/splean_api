@@ -1,0 +1,266 @@
+[
+  {
+    "model": "line.line",
+    "pk": 1619,
+    "fields": {
+      "line": "C cегодняшнего дня прошу считать меня недействительным",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1620,
+    "fields": {
+      "line": "Весьма сомнительным",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1621,
+    "fields": {
+      "line": "Пока пою, проверь свои предохранители",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1622,
+    "fields": {
+      "line": "Путеводители",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1623,
+    "fields": {
+      "line": "В пути водители",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1624,
+    "fields": {
+      "line": "По-моему все врут твои производители все врут",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1625,
+    "fields": {
+      "line": "По-моему все врут твои производители",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1626,
+    "fields": {
+      "line": "C cегодняшнего дня прошу считать растаможенным",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1627,
+    "fields": {
+      "line": "И расторможенным",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1628,
+    "fields": {
+      "line": "А если кто не верит мне - всего хорошего",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1629,
+    "fields": {
+      "line": "Всего хорошего",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1630,
+    "fields": {
+      "line": "Кто помнит прошлое",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1631,
+    "fields": {
+      "line": "Всего хорошего тому, кто помнит прошлое",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1632,
+    "fields": {
+      "line": "Тому, кто помнит прошлое - тому",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1633,
+    "fields": {
+      "line": "Всего хорошего",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1634,
+    "fields": {
+      "line": "C cегодняшнего дня прошу считать меня отрицательным",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1635,
+    "fields": {
+      "line": "Но привлекательным",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1636,
+    "fields": {
+      "line": "Пока пою - протри свои обозреватели",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1637,
+    "fields": {
+      "line": "На белом катере",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1638,
+    "fields": {
+      "line": "К такой-то матери",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1639,
+    "fields": {
+      "line": "По-моему все врут твои рекламодатели",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1640,
+    "fields": {
+      "line": "Все врут",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1641,
+    "fields": {
+      "line": "По-моему все врут твои рекламодатели",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1642,
+    "fields": {
+      "line": "C cегодняшнего дня прошу считать меня расторможенным",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1643,
+    "fields": {
+      "line": "И растаможенным",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1644,
+    "fields": {
+      "line": "А если кто не верит мне - всего хорошего",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1645,
+    "fields": {
+      "line": "Всего хорошего",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1646,
+    "fields": {
+      "line": "Кто помнит прошлое",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1647,
+    "fields": {
+      "line": "Всего хорошего тому, кто помнит прошлое",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1648,
+    "fields": {
+      "line": "Тому, кто помнит прошлое - тому всего хорошего",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1649,
+    "fields": {
+      "line": "Всего хорошего",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1650,
+    "fields": {
+      "line": "Всего хорошего",
+      "song": 62
+    }
+  },
+  {
+    "model": "line.line",
+    "pk": 1651,
+    "fields": {
+      "line": "Всего хорошего",
+      "song": 62
+    }
+  }
+]
