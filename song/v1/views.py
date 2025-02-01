@@ -1,7 +1,7 @@
 from typing import Any
 
 from drf_spectacular.types import OpenApiTypes
-from drf_spectacular.utils import extend_schema, OpenApiParameter, OpenApiExample
+from drf_spectacular.utils import extend_schema, extend_schema_view, OpenApiParameter, OpenApiExample
 from rest_framework import status, viewsets
 from rest_framework.decorators import action
 from rest_framework.request import Request
@@ -14,6 +14,13 @@ from song.models import Song
 from song.v1.serializers import SongSerializer, SongWithLinesSerializer
 
 
+@extend_schema(tags=['songs'])
+@extend_schema_view(
+    list=extend_schema(description='List all songs'),
+    retrieve=extend_schema(description='Get song by ID'),
+    lines=extend_schema(description='Get song lines'),
+    by_year=extend_schema(description='List songs with specific year'),
+)
 class SongViewSet(MultiSerializerViewSet):
     serializer_class = SongSerializer
     model = serializer_class.Meta.model
