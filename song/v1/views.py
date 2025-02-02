@@ -9,8 +9,8 @@ from rest_framework.response import Response
 
 from common.pagination import StandardPagination
 from common.serializers import MultiSerializerViewSet
-from song.managers import SongManager
 from song.models import Song
+from song.repositories import SongRepository
 from song.v1.serializers import SongSerializer, SongWithLinesSerializer
 
 
@@ -49,7 +49,7 @@ class SongViewSet(MultiSerializerViewSet):
     @action(methods=('get',), detail=False, url_path='(?P<id>\d+)/lines')
     def lines(self, request: Request, *args: Any, **kwargs: Any) -> Response:
         pk = self.kwargs.get('id', None)
-        self.queryset = SongManager.get_song_lines(pk)
+        self.queryset = SongRepository.get_song_lines(pk)
         self.is_serialized_with_children = True
         return super().list(request, *args, **kwargs)
 
@@ -70,5 +70,5 @@ class SongViewSet(MultiSerializerViewSet):
     @action(methods=('get',), detail=False, url_path='by-year')
     def by_year(self, request: Request, *args: Any, **kwargs: Any) -> Response:
         year = self.request.query_params.get('year', None)
-        self.queryset = SongManager.get_songs_within_year(year)
+        self.queryset = SongRepository.get_songs_within_year(year)
         return super().list(request, *args, **kwargs)
