@@ -35,6 +35,11 @@ entercontainer:
 startapp:
 	$(DOCKER_EXEC) $(MANAGE) startapp $(DJANGOAPP)
 
+# Create superuser
+.PHONY: createsuperuser
+createsuperuser:
+	$(DOCKER_EXEC) $(MANAGE) createsuperuser --noinput
+
 
 # -------------- MIGRATIONS --------------
 
