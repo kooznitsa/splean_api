@@ -45,7 +45,7 @@ class AlbumViewSet(MultiSerializerViewSet):
             ),
         ],
     )
-    @action(methods=('get',), detail=False, url_path='(?P<id>\d+)/songs')
+    @action(methods=('get',), detail=False, url_path=r'(?P<id>\d+)/songs')
     def songs(self, request: Request, *args: Any, **kwargs: Any) -> Response:
         pk = self.kwargs.get('id', None)
         self.queryset = AlbumRepository.get_album_songs(pk)

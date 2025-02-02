@@ -46,7 +46,7 @@ class SongViewSet(MultiSerializerViewSet):
             ),
         ],
     )
-    @action(methods=('get',), detail=False, url_path='(?P<id>\d+)/lines')
+    @action(methods=('get',), detail=False, url_path=r'(?P<id>\d+)/lines')
     def lines(self, request: Request, *args: Any, **kwargs: Any) -> Response:
         pk = self.kwargs.get('id', None)
         self.queryset = SongRepository.get_song_lines(pk)
