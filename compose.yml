@@ -54,8 +54,8 @@ services:
     restart: on-failure
     environment:
       POSTGRES_DB: ${APP_NAME}_database
-      POSTGRES_USER: ${APP_NAME}__user
-      POSTGRES_PASSWORD: ${APP_NAME}__password
+      POSTGRES_USER: ${APP_NAME}_user
+      POSTGRES_PASSWORD: ${APP_NAME}_password
       POSTGRES_PORT: 5432
       POSTGRES_HOST: test_postgres
     ports:

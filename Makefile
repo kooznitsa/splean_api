@@ -7,6 +7,7 @@ MANAGE = poetry run python manage.py
 DJANGOAPP ?= ''
 MGRNAME ?= ''
 FIXNAME ?= ''
+TEST_DIR ?= ''
 
 # -------------- DOCKER --------------
 
@@ -90,3 +91,12 @@ elastic:
 .PHONY: linter
 linter:
 	poetry run flake8
+
+
+# -------------- TESTS --------------
+
+# Runs tests
+# TEST_DIR options: album/tests, song/tests, line/tests. Example: make test TEST_DIR=song/tests
+.PHONY: test
+test:
+	$(DOCKER_EXEC) poetry run pytest $(TEST_DIR) -v
