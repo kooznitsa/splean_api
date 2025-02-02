@@ -2,7 +2,7 @@ from album.models import Album
 from song.models import Song
 
 
-class SongManager:
+class SongRepository:
     @staticmethod
     def get_songs_within_year(year: int | None) -> list:
         if year:

@@ -61,7 +61,7 @@ class LineViewSet(viewsets.ReadOnlyModelViewSet):
     )
     @action(methods=('get',), detail=False, url_path='random')
     def random(self, request: Request, *args: Any, **kwargs: Any) -> Response:
-        ids = Line.objects.values_list('id', flat=True)
+        ids = Line.cached_objects.values_from_cache('id').get('values')
         queryset = self.get_queryset().filter(id=random.choice(ids))[0]
         serializer = self.get_serializer(queryset)
         return Response(serializer.data)

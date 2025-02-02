@@ -7,8 +7,8 @@ from rest_framework.decorators import action
 from rest_framework.request import Request
 from rest_framework.response import Response
 
-from album.managers import AlbumManager
 from album.models import Album
+from album.repositories import AlbumRepository
 from album.v1.serializers import AlbumSerializer, AlbumWithSongsSerializer
 from common.pagination import StandardPagination
 from common.serializers import MultiSerializerViewSet
@@ -48,6 +48,6 @@ class AlbumViewSet(MultiSerializerViewSet):
     @action(methods=('get',), detail=False, url_path='(?P<id>\d+)/songs')
     def songs(self, request: Request, *args: Any, **kwargs: Any) -> Response:
         pk = self.kwargs.get('id', None)
-        self.queryset = AlbumManager.get_album_songs(pk)
+        self.queryset = AlbumRepository.get_album_songs(pk)
         self.is_serialized_with_children = True
         return super().list(request, *args, **kwargs)
