@@ -56,14 +56,14 @@ services:
       POSTGRES_DB: ${APP_NAME}_database
       POSTGRES_USER: ${APP_NAME}_user
       POSTGRES_PASSWORD: ${APP_NAME}_password
-      POSTGRES_PORT: 5432
+      POSTGRES_PORT: 5434
       POSTGRES_HOST: test_postgres
     ports:
       - '5435:5434'
     volumes:
       - test-postgres:/var/lib/postgresql/data
       - ./scripts/create_databases.sql:/docker-entrypoint-initdb.d/create_databases.sql
-    profiles: [secondary]
+    profiles: [main, secondary]
 
   elasticsearch:
     <<: *app-main
