@@ -21,13 +21,11 @@ jobs:
           sudo apt-get update
           sudo apt-get -y install make
 
-      - name: Lint files
-        run: |
-          pip install poetry
-          make linter
-
       - name: Run containers
         run: make run
+
+      - name: Lint files
+        run: make linter
 
       - name: Run tests
         run: make test
