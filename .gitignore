@@ -3,7 +3,6 @@ __pycache__/
 scripts/
 
 /venv/
-/static/
 /media/
 /build/
 /logs/
