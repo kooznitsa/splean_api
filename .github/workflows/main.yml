@@ -22,7 +22,9 @@ jobs:
           sudo apt-get -y install make
 
       - name: Lint files
-        run: make linter
+        run: |
+          pip install poetry
+          make linter
 
       - name: Run containers
         run: make run
