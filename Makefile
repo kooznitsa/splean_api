@@ -1,7 +1,7 @@
 include .env
 
 DOCKER_COMPOSE := docker compose --profile
-DOCKER_EXEC := docker exec -it $(APP_NAME)_backend
+DOCKER_EXEC := docker exec $(APP_NAME)_backend
 DOCKER_PROFILE ?= main
 MANAGE = poetry run python manage.py
 DJANGOAPP ?= ''
