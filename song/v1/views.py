@@ -1,14 +1,17 @@
 from typing import Any
 
+from django.utils.decorators import method_decorator
+from django.views.decorators.cache import cache_page
 from drf_spectacular.types import OpenApiTypes
 from drf_spectacular.utils import extend_schema, extend_schema_view, OpenApiParameter, OpenApiExample
-from rest_framework import status, viewsets
+from django.http import JsonResponse
+from rest_framework import status
 from rest_framework.decorators import action
 from rest_framework.request import Request
 from rest_framework.response import Response
 
 from common.pagination import StandardPagination
-from common.serializers import MultiSerializerViewSet
+from common.views import MultiSerializerViewSet
 from song.models import Song
 from song.repositories import SongRepository
 from song.v1.serializers import SongSerializer, SongWithLinesSerializer
@@ -26,10 +29,10 @@ class SongViewSet(MultiSerializerViewSet):
     model = serializer_class.Meta.model
     queryset = Song.objects.all().order_by('id')
     pagination_class = StandardPagination
-    is_serialized_with_children = False
-
-    def get_serializer_class(self):
-        return SongWithLinesSerializer if self.is_serialized_with_children else SongSerializer
+    serializers = {
+        'lines': SongWithLinesSerializer,
+        'by_year': SongSerializer,
+    }
 
     @extend_schema(
         responses={status.HTTP_200_OK: serializer_class(many=True)},
@@ -50,7 +53,6 @@ class SongViewSet(MultiSerializerViewSet):
     def lines(self, request: Request, *args: Any, **kwargs: Any) -> Response:
         pk = self.kwargs.get('id', None)
         self.queryset = SongRepository.get_song_lines(pk)
-        self.is_serialized_with_children = True
         return super().list(request, *args, **kwargs)
 
     @extend_schema(
@@ -72,3 +74,8 @@ class SongViewSet(MultiSerializerViewSet):
         year = self.request.query_params.get('year', None)
         self.queryset = SongRepository.get_songs_within_year(year)
         return super().list(request, *args, **kwargs)
+
+    @method_decorator(cache_page(60 * 60 * 2))
+    @action(methods=('get',), detail=False, url_path='stats')
+    def stats(self, request: Request, *args: Any, **kwargs: Any) -> Response:
+        return JsonResponse(SongRepository.get_stats(), safe=False)

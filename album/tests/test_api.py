@@ -52,3 +52,10 @@ class TestAlbumEndpoints:
 
         assert response.status_code == status.HTTP_404_NOT_FOUND
         assert response.json().get('detail') == 'No Album matches the given query.'
+
+    def test_get_albums_stats_returns_success(self, api_client):
+        response = api_client.get(
+            f'{self.ENDPOINT}stats/',
+        )
+
+        assert response.status_code == status.HTTP_200_OK

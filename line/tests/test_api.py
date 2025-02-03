@@ -55,3 +55,27 @@ class TestLineEndpoints:
         assert response.status_code == status.HTTP_200_OK
         assert response.json().get('line') is not None
         assert response.json().get('song_name') is not None
+
+    def test_list_alcohol_lines(self, api_client):
+        response = api_client.get(
+            f'{self.ENDPOINT}alcohol/',
+        )
+
+        assert response.status_code == status.HTTP_200_OK
+        assert len(response.json().get('results'))
+
+    def test_list_petersburg_lines(self, api_client):
+        response = api_client.get(
+            f'{self.ENDPOINT}petersburg/',
+        )
+
+        assert response.status_code == status.HTTP_200_OK
+        assert len(response.json().get('results'))
+
+    def test_list_winter_lines(self, api_client):
+        response = api_client.get(
+            f'{self.ENDPOINT}winter/',
+        )
+
+        assert response.status_code == status.HTTP_200_OK
+        assert len(response.json().get('results'))

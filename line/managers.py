@@ -14,7 +14,7 @@ class LineManager(models.Manager):
             }
         else:
             values = super().get_queryset().values_list(key, flat=True)
-            cache.set(cache_key, values, 300) # 5 min cache
+            cache.set(cache_key, values, 300)  # 5 min cache
             d = {
                 'in_cache': False,
                 'values': values,
