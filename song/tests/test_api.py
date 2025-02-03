@@ -73,3 +73,10 @@ class TestSongEndpoints:
 
         assert response.status_code == status.HTTP_200_OK
         assert len(response.json().get('results')) == 0
+
+    def test_get_songs_stats_returns_success(self, api_client):
+        response = api_client.get(
+            f'{self.ENDPOINT}stats/',
+        )
+
+        assert response.status_code == status.HTTP_200_OK

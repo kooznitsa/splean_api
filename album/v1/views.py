@@ -1,8 +1,11 @@
 from typing import Any
 
+from django.http import JsonResponse
+from django.utils.decorators import method_decorator
+from django.views.decorators.cache import cache_page
 from drf_spectacular.types import OpenApiTypes
 from drf_spectacular.utils import extend_schema, extend_schema_view, OpenApiParameter, OpenApiExample
-from rest_framework import status, viewsets
+from rest_framework import status
 from rest_framework.decorators import action
 from rest_framework.request import Request
 from rest_framework.response import Response
@@ -11,7 +14,7 @@ from album.models import Album
 from album.repositories import AlbumRepository
 from album.v1.serializers import AlbumSerializer, AlbumWithSongsSerializer
 from common.pagination import StandardPagination
-from common.serializers import MultiSerializerViewSet
+from common.views import MultiSerializerViewSet
 
 
 @extend_schema(tags=['albums'])
@@ -25,10 +28,9 @@ class AlbumViewSet(MultiSerializerViewSet):
     model = serializer_class.Meta.model
     queryset = Album.objects.all()
     pagination_class = StandardPagination
-    is_serialized_with_children = False
-
-    def get_serializer_class(self):
-        return AlbumWithSongsSerializer if self.is_serialized_with_children else AlbumSerializer
+    serializers = {
+        'songs': AlbumWithSongsSerializer,
+    }
 
     @extend_schema(
         responses={status.HTTP_200_OK: serializer_class(many=True)},
@@ -49,5 +51,9 @@ class AlbumViewSet(MultiSerializerViewSet):
     def songs(self, request: Request, *args: Any, **kwargs: Any) -> Response:
         pk = self.kwargs.get('id', None)
         self.queryset = AlbumRepository.get_album_songs(pk)
-        self.is_serialized_with_children = True
         return super().list(request, *args, **kwargs)
+
+    @method_decorator(cache_page(60 * 60 * 2))
+    @action(methods=('get',), detail=False, url_path='stats')
+    def stats(self, request: Request, *args: Any, **kwargs: Any) -> Response:
+        return JsonResponse(AlbumRepository.get_stats(), safe=False)

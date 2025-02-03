@@ -25,6 +25,7 @@ def django_db_setup(django_db_setup, django_db_blocker):
         for i in range(1, 13):
             call_command('loaddata', f'{i}.json')
 
+
 @pytest.fixture
 def api_client():
     return APIClient()

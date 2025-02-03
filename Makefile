@@ -90,7 +90,7 @@ elastic:
 # Creates and populates the Elasticsearch index and mapping
 .PHONY: linter
 linter:
-	poetry run flake8
+	poetry run flake8 --max-line-length 119
 
 
 # -------------- TESTS --------------
