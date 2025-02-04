@@ -79,3 +79,10 @@ class TestLineEndpoints:
 
         assert response.status_code == status.HTTP_200_OK
         assert len(response.json().get('results'))
+
+    def test_frequent_words_returns_success(self, api_client):
+        response = api_client.get(
+            f'{self.ENDPOINT}frequent/',
+        )
+
+        assert response.status_code == status.HTTP_200_OK
