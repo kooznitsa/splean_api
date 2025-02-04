@@ -62,7 +62,7 @@ class LineViewSet(viewsets.ReadOnlyModelViewSet):
     @extend_schema(
         responses={status.HTTP_200_OK: serializer_class(many=True)},
     )
-    @action(methods=('get',), detail=False, url_path='alcohol')
+    @action(methods=('get',), detail=False, url_path='topics/alcohol')
     def alcohol(self, request: Request, *args: Any, **kwargs: Any) -> Response:
         query = ElasticsearchQueryManager.query_alcohol_lines()
         self.queryset = ElasticsearchQueryManager().perform_search(query, 'alcohol')
@@ -71,7 +71,7 @@ class LineViewSet(viewsets.ReadOnlyModelViewSet):
     @extend_schema(
         responses={status.HTTP_200_OK: serializer_class(many=True)},
     )
-    @action(methods=('get',), detail=False, url_path='petersburg')
+    @action(methods=('get',), detail=False, url_path='topics/petersburg')
     def petersburg(self, request: Request, *args: Any, **kwargs: Any) -> Response:
         query = ElasticsearchQueryManager.query_petersburg_lines()
         self.queryset = ElasticsearchQueryManager().perform_search(query, 'petersburg')
@@ -80,7 +80,7 @@ class LineViewSet(viewsets.ReadOnlyModelViewSet):
     @extend_schema(
         responses={status.HTTP_200_OK: serializer_class(many=True)},
     )
-    @action(methods=('get',), detail=False, url_path='winter')
+    @action(methods=('get',), detail=False, url_path='topics/winter')
     def winter(self, request: Request, *args: Any, **kwargs: Any) -> Response:
         query = ElasticsearchQueryManager.query_winter_lines()
         self.queryset = ElasticsearchQueryManager().perform_search(query, 'winter')
@@ -89,7 +89,7 @@ class LineViewSet(viewsets.ReadOnlyModelViewSet):
     @extend_schema(
         responses={status.HTTP_200_OK: serializer_class},
     )
-    @action(methods=('get',), detail=False, url_path='random')
+    @action(methods=('get',), detail=False, url_path='random-line')
     def random(self, request: Request, *args: Any, **kwargs: Any) -> Response:
         ids = Line.cached_objects.values_from_cache('id').get('values')
         queryset = self.get_queryset().filter(id=random.choice(ids))[0]
@@ -100,7 +100,7 @@ class LineViewSet(viewsets.ReadOnlyModelViewSet):
         responses={status.HTTP_200_OK: serializer_class},
     )
     @method_decorator(cache_page(60 * 60 * 2))
-    @action(methods=('get',), detail=False, url_path='frequent')
+    @action(methods=('get',), detail=False, url_path='frequent-words')
     def frequent(self, request: Request, *args: Any, **kwargs: Any) -> Response:
         query = LineRepository.get_frequent_words()
         return JsonResponse(query, safe=False)
