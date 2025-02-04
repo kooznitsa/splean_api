@@ -49,7 +49,7 @@ class TestLineEndpoints:
 
     def test_random_line_returns_success(self, api_client):
         response = api_client.get(
-            f'{self.ENDPOINT}random/',
+            f'{self.ENDPOINT}random-line/',
         )
 
         assert response.status_code == status.HTTP_200_OK
@@ -58,7 +58,7 @@ class TestLineEndpoints:
 
     def test_list_alcohol_lines(self, api_client):
         response = api_client.get(
-            f'{self.ENDPOINT}alcohol/',
+            f'{self.ENDPOINT}topics/alcohol/',
         )
 
         assert response.status_code == status.HTTP_200_OK
@@ -66,7 +66,7 @@ class TestLineEndpoints:
 
     def test_list_petersburg_lines(self, api_client):
         response = api_client.get(
-            f'{self.ENDPOINT}petersburg/',
+            f'{self.ENDPOINT}topics/petersburg/',
         )
 
         assert response.status_code == status.HTTP_200_OK
@@ -74,8 +74,15 @@ class TestLineEndpoints:
 
     def test_list_winter_lines(self, api_client):
         response = api_client.get(
-            f'{self.ENDPOINT}winter/',
+            f'{self.ENDPOINT}topics/winter/',
         )
 
         assert response.status_code == status.HTTP_200_OK
         assert len(response.json().get('results'))
+
+    def test_frequent_words_returns_success(self, api_client):
+        response = api_client.get(
+            f'{self.ENDPOINT}frequent-words/',
+        )
+
+        assert response.status_code == status.HTTP_200_OK

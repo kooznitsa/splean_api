@@ -90,7 +90,7 @@ elastic:
 # Creates and populates the Elasticsearch index and mapping
 .PHONY: linter
 linter:
-	$(DOCKER_EXEC) poetry run flake8 --max-line-length 119
+	$(DOCKER_EXEC) poetry run flake8 --max-line-length 119 --exclude line/lists/stop_words.py
 
 
 # -------------- TESTS --------------

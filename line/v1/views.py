@@ -2,6 +2,9 @@ import logging
 import random
 from typing import Any
 
+from django.http import JsonResponse
+from django.utils.decorators import method_decorator
+from django.views.decorators.cache import cache_page
 from drf_spectacular.types import OpenApiTypes
 from drf_spectacular.utils import extend_schema, extend_schema_view, OpenApiParameter, OpenApiExample
 from rest_framework import status, viewsets
@@ -12,6 +15,7 @@ from rest_framework.response import Response
 from common.pagination import StandardPagination
 from line.elastic import ElasticsearchQueryManager
 from line.models import Line
+from line.repositories import LineRepository
 from line.v1.serializers import LineSerializer
 
 info_logger = logging.getLogger('info_logger')
@@ -26,6 +30,7 @@ info_logger = logging.getLogger('info_logger')
     alcohol=extend_schema(description='Get lines referring to alcohol'),
     petersburg=extend_schema(description='Get lines referring to Petersburg'),
     winter=extend_schema(description='Get lines referring to winter'),
+    frequent=extend_schema(description='Get most frequent words'),
 )
 class LineViewSet(viewsets.ReadOnlyModelViewSet):
     serializer_class = LineSerializer
@@ -57,7 +62,7 @@ class LineViewSet(viewsets.ReadOnlyModelViewSet):
     @extend_schema(
         responses={status.HTTP_200_OK: serializer_class(many=True)},
     )
-    @action(methods=('get',), detail=False, url_path='alcohol')
+    @action(methods=('get',), detail=False, url_path='topics/alcohol')
     def alcohol(self, request: Request, *args: Any, **kwargs: Any) -> Response:
         query = ElasticsearchQueryManager.query_alcohol_lines()
         self.queryset = ElasticsearchQueryManager().perform_search(query, 'alcohol')
@@ -66,7 +71,7 @@ class LineViewSet(viewsets.ReadOnlyModelViewSet):
     @extend_schema(
         responses={status.HTTP_200_OK: serializer_class(many=True)},
     )
-    @action(methods=('get',), detail=False, url_path='petersburg')
+    @action(methods=('get',), detail=False, url_path='topics/petersburg')
     def petersburg(self, request: Request, *args: Any, **kwargs: Any) -> Response:
         query = ElasticsearchQueryManager.query_petersburg_lines()
         self.queryset = ElasticsearchQueryManager().perform_search(query, 'petersburg')
@@ -75,7 +80,7 @@ class LineViewSet(viewsets.ReadOnlyModelViewSet):
     @extend_schema(
         responses={status.HTTP_200_OK: serializer_class(many=True)},
     )
-    @action(methods=('get',), detail=False, url_path='winter')
+    @action(methods=('get',), detail=False, url_path='topics/winter')
     def winter(self, request: Request, *args: Any, **kwargs: Any) -> Response:
         query = ElasticsearchQueryManager.query_winter_lines()
         self.queryset = ElasticsearchQueryManager().perform_search(query, 'winter')
@@ -84,9 +89,18 @@ class LineViewSet(viewsets.ReadOnlyModelViewSet):
     @extend_schema(
         responses={status.HTTP_200_OK: serializer_class},
     )
-    @action(methods=('get',), detail=False, url_path='random')
+    @action(methods=('get',), detail=False, url_path='random-line')
     def random(self, request: Request, *args: Any, **kwargs: Any) -> Response:
         ids = Line.cached_objects.values_from_cache('id').get('values')
         queryset = self.get_queryset().filter(id=random.choice(ids))[0]
         serializer = self.get_serializer(queryset)
         return Response(serializer.data)
+
+    @extend_schema(
+        responses={status.HTTP_200_OK: serializer_class},
+    )
+    @method_decorator(cache_page(60 * 60 * 2))
+    @action(methods=('get',), detail=False, url_path='frequent-words')
+    def frequent(self, request: Request, *args: Any, **kwargs: Any) -> Response:
+        query = LineRepository.get_frequent_words()
+        return JsonResponse(query, safe=False)
