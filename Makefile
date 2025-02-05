@@ -8,6 +8,7 @@ DJANGOAPP ?= ''
 MGRNAME ?= ''
 FIXNAME ?= ''
 TEST_DIR ?= ''
+TXTPATH ?= '/home/app/common/tests/files/'
 
 # -------------- DOCKER --------------
 
@@ -75,6 +76,11 @@ allfixtures:
 	make fixture FIXNAME=albums
 	make fixture FIXNAME=songs
 	make fixture-lines
+
+# Creates JSON files with lines
+.PHONY: createlinesjson
+createlinesjson:
+	$(DOCKER_EXEC) $(MANAGE) createlinesjson --path=$(TXTPATH)
 
 
 # -------------- ELASTICSEARCH --------------

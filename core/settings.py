@@ -52,6 +52,7 @@ CUSTOM_APPS = (
     'album',
     'song',
     'line',
+    'common',
 )
 
 INSTALLED_APPS = DJANGO_APPS + EXTERNAL_APPS + CUSTOM_APPS
@@ -239,3 +240,7 @@ LOGGING = {
         },
     },
 }
+
+# Paths for generating .JSON line files
+INPUT_TXT_PATH = '/home/app/common/tests/files/'
+OUTPUT_JSON_PATH = '/home/app/line/fixtures/'
