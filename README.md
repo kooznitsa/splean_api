@@ -1,6 +1,6 @@
 # API для песен группы Сплин
 
-![Static Badge](https://img.shields.io/badge/development-ongoing-yellow)
+![Static Badge](https://img.shields.io/badge/development-finished-green)
 
 Технологии:
 
@@ -32,7 +32,7 @@ Admin: http://127.0.0.1:1337/admin (логин: admin, пароль: admin)
 - Песни:
   - ```songs/```: список всех песен
   - ```songs/{id}```: информация о песне по ID
-  - ```songs/{id}/lines```: строки песни по ID песни
+  - ```songs/{id}/lines/```: строки песни по ID песни
   - ```songs/by-year/?year=1999```: все песни данного года
   - ```songs/stats/```: статистика песен: самая длинная, самая короткая, по числу строк, по продолжительности
 - Строки:
